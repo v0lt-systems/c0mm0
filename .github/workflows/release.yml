@@ -1,0 +1,42 @@
+name: Weekly release
+
+on:
+  schedule:
+    # Mondays 05:23 UTC, after that morning's snapshot.
+    - cron: '23 5 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create tagged release with the week's changes
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG="v$(date -u +%Y.%m.%d)"
+          # Release notes: CHANGELOG sections from the last 7 days.
+          SINCE=$(date -u -d '7 days ago' +%F)
+          awk -v since="$SINCE" '
+            /^## [0-9]{4}-[0-9]{2}-[0-9]{2}/ { keep = (substr($2,1,10) >= since) }
+            keep { print }
+          ' CHANGELOG.md > /tmp/notes.md || true
+          if [ ! -s /tmp/notes.md ]; then
+            echo "No catalog changes recorded this week." > /tmp/notes.md
+          fi
+          {
+            echo ""
+            echo "---"
+            echo "Data: [entries.json](https://github.com/${GITHUB_REPOSITORY}/blob/main/data/entries.json) · [entries.csv](https://github.com/${GITHUB_REPOSITORY}/blob/main/data/entries.csv) · [commodity.sqlite](https://github.com/${GITHUB_REPOSITORY}/blob/main/data/commodity.sqlite)"
+            echo "Live directory: https://c0mm0.com"
+          } >> /tmp/notes.md
+          gh release create "$TAG" \
+            --title "Catalog snapshot $TAG" \
+            --notes-file /tmp/notes.md \
+            data/entries.json data/entries.csv data/commodity.sqlite

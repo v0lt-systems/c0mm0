@@ -1,0 +1,42 @@
+name: Nightly snapshot
+
+on:
+  schedule:
+    # 03:23 UTC daily — odd minute to avoid the top-of-hour cron stampede.
+    - cron: '23 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snapshot
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Build snapshot
+        run: node scripts/build-snapshot.mjs
+        env:
+          API_BASE: https://c0mm0.com
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "commodity-snapshot-bot"
+          git config user.email "noreply@c0mm0.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes — skipping commit."
+          else
+            git commit -m "Snapshot $(date -u +%F)"
+            git push
+          fi

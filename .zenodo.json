@@ -1,0 +1,35 @@
+{
+  "title": "Commodity — Verified Catalog of Official European Public-Data APIs and Datasets",
+  "description": "Nightly snapshot of the Commodity catalog (https://c0mm0.com): continuously verified official public-sector APIs and datasets from Europe, with country coverage, access conditions, verification state, and stable citation URLs. Formats: JSON, CSV, SQLite. Every entry is uptime-checked every 15 minutes and re-verified every 6 hours by the live directory.",
+  "license": "CC0-1.0",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Berthelemy, Vincent",
+      "affiliation": "Commodity (c0mm0.com)"
+    }
+  ],
+  "keywords": [
+    "open data",
+    "public sector",
+    "Europe",
+    "API",
+    "government data",
+    "DCAT-AP",
+    "data catalog",
+    "verification"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://c0mm0.com",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://c0mm0.com/api/v1/catalog/dcat.ttl",
+      "relation": "isDescribedBy",
+      "scheme": "url"
+    }
+  ]
+}

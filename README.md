@@ -64,7 +64,7 @@ JSON-LD record.
 ## How to cite
 
 > Commodity — Verified Official Data Directory. https://c0mm0.com
-> Snapshot: github.com/lapinponpin/c0mm0 (release tag), CC0-1.0.
+> Snapshot: github.com/v0lt-systems/c0mm0 (release tag), CC0-1.0.
 
 Stable per-entry citation URLs: `https://c0mm0.com/entry/{slug}`.
 

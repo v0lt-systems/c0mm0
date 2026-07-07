@@ -14,7 +14,7 @@ const API = process.env.API_BASE || 'https://c0mm0.com';
 // ---------- fetch ----------
 
 const res = await fetch(`${API}/api/v1/feeds/export/json`, {
-  headers: { 'user-agent': 'commodity-data-snapshot/1.0 (+https://github.com/lapinponpin/c0mm0)' },
+  headers: { 'user-agent': 'commodity-data-snapshot/1.0 (+https://github.com/v0lt-systems/c0mm0)' },
 });
 if (!res.ok) throw new Error(`export/json: HTTP ${res.status}`);
 const payload = await res.json();

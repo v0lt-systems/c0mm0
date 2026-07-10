@@ -2,6 +2,64 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-07-10
+
+### Added (128)
+- Στατιστικά Στοιχεία Υγειονομικών  Ελέγχων Επιχειρήσεων Υγειονομικού Ενδιαφέροντος (`-18`)
+- Acesso a dados registados no Gestor de Eventos - ePortugal (`acesso-a-dados-registados-no-gestor-de-eventos-eportugal-10`)
+- Acesso a dados registados no Gestor de Eventos - ePortugal (`acesso-a-dados-registados-no-gestor-de-eventos-eportugal-9`)
+- Agglo - Interfaces multimodales - Stratégie du PA4 (`agglo-interfaces-multimodales-strategie-du-pa4`)
+- Agglo - Pôles d'activité métropolitains - Stratégie du PA (`agglo-ples-dactivit-mtropolitains-stratgie-du-pa`)
+- Agglo - Sites prioritaires de développement urbain - Stratégie du PA4 (`agglo-sites-prioritaires-de-developpement-urbain-strategie-du-pa4`)
+- Air Quality Management Areas (`air-quality-management-areas-1`)
+- Air Quality Monitoring Stations (`air-quality-monitoring-stations`)
+- Air Quality Monitoring Stations (`air-quality-monitoring-stations-1`)
+- Air Quality Monitoring Stations (`air-quality-monitoring-stations-2`)
+- Allotments (`allotments-2`)
+- Allotments (`allotments-3`)
+- Allotments (`allotments-4`)
+- Allotments - Craven District Council (`allotments-craven-district-council`)
+- Amenity Greenspace (`amenity-greenspace-1`)
+- Article 4 (`article-4`)
+- Article 4-2 Direction (Conservation Areas) (`article-4-2-direction-conservation-areas`)
+- Article 4 Direction (`article-4-direction`)
+- Article 4 Direction (`article-4-direction-1`)
+- Article 4 Direction (polygon data) 2017 (`article-4-direction-polygon-data-2017`)
+- Axis cantonal roads (`axis-cantonal-roads`)
+- Boats in the fishing fleet (`boats-in-the-fishing-fleet`)
+- Car Parks (`car-parks`)
+- Cartography of aménagements (Ancrage biodiversité) (`cartography-of-amenagements-ancrage-biodiversite`)
+- Compulsory Purchase Orders (`compulsory-purchase-orders`)
+- …and 103 more
+
+### State changes (1410)
+- Реєстр наборів даних, що перебувають у володінні Департаменту інвестиційної політики, проєктів, міжнародних зв'язків, туризму та промоцій міста Івано-Франківської міської ради (``) — VERIFIED → STALE
+- Реєстр наборів даних, що перебувають у володінні Департаменту забезпечення ресурсних платежів Сумської міської ради (`-1`) — VERIFIED → STALE
+- Αρχείο των δικαιολογητικών που απαιτούνται για την εκτέλεση των διαδικασιών που εκτελούν τα ΚΕΠ & σχετική νομολογία (`-15`) — STALE → VERIFIED
+- Αρχείο των δικαιολογητικών που απαιτούνται για την εκτέλεση των διαδικασιών που εκτελούν τα ΚΕΠ & σχετική νομολογία (`-16`) — STALE → VERIFIED
+- Αρχείο των δικαιολογητικών που απαιτούνται για την εκτέλεση των διαδικασιών που εκτελούν τα ΚΕΠ & σχετική νομολογία (`-2`) — STALE → VERIFIED
+- Αρχείο διοργάνωσης Εκθέσεων του Τμήματος Κέντρου Ιστορίας Δήμου Θεσσαλονίκης (`-3`) — STALE → VERIFIED
+- Αρχείο των δικαιολογητικών που απαιτούνται για την εκτέλεση των διαδικασιών που εκτελούν τα ΚΕΠ & σχετική νομολογία (`-4`) — STALE → VERIFIED
+- Στατιστικά Στοιχεία ακαδημαϊκών ταυτοτήτων φοιτητών – ΠΣ ΑΚΑΔΗΜΑΪΚΗ ΤΑΥΤΟΤΗΤΑ (`-6`) — STALE → VERIFIED
+- Статистичні дані щодо наданих послуг (організаційні заходи, обслуговування споживачів послуг, пасажироперевезення, інші показники з основних видів діяльності) (`-7`) — STALE → VERIFIED
+- 11kV Overhead Line (`11kv-overhead-line`) — VERIFIED → STALE
+- 12 Nautical Mile Fisheries Control Ireland (`12-nautical-mile-fisheries-control-ireland-1`) — UNVERIFIED → FAILING
+- 2000-Watt Sites (`2000-watt-sites`) — VERIFIED → STALE
+- 2011 Census (`2011-census`) — STALE → VERIFIED
+- 2011 Census QA Pack (`2011-census-qa-pack`) — STALE → VERIFIED
+- 2013 — Composition of immigrant households (`2013-composition-of-immigrant-households`) — STALE → VERIFIED
+- 2013 — Foreign population: Activity (`2013-foreign-population-activity`) — VERIFIED → STALE
+- 2013 — Foreign population: Chomage (`2013-foreign-population-chomage`) — VERIFIED → STALE
+- 2013 — Foreign population: IDF Diploma (`2013-foreign-population-idf-diploma`) — STALE → VERIFIED
+- 2013 — Foreign population — Ile de France sheet (`2013-foreign-population-ile-de-france-sheet`) — VERIFIED → STALE
+- 2013 — Housing occupation status of immigrant and non-immigrant households (`2013-housing-occupation-status-of-immigrant-and-non-immigrant-households`) — VERIFIED → STALE
+- 2013 — Immigrant households (`2013-immigrant-households`) — STALE → VERIFIED
+- 2013 — Immigrant population — Pyramid of the ages (`2013-immigrant-population-pyramid-of-the-ages`) — VERIFIED → STALE
+- 2013 — Immigrant population: Type of households (`2013-immigrant-population-type-of-households`) — VERIFIED → STALE
+- 2015 - Survey - National opinion trends (`2015-survey-national-opinion-trends`) — VERIFIED → STALE
+- 2018 Library Statistics of the City of Echirolles (`2018-library-statistics-of-the-city-of-echirolles`) — STALE → VERIFIED
+- …and 1385 more
+
 ## 2026-07-09
 
 ### Added (860)

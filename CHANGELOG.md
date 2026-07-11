@@ -2,6 +2,68 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-07-11
+
+### Added (163)
+- Acesso a dados registados no Gestor de Eventos - ePortugal (`acesso-a-dados-registados-no-gestor-de-eventos-eportugal-11`)
+- Afvalcontainer Arnhem (`afvalcontainer-arnhem`)
+- Allotments (polygon data) 2017 (`allotments-polygon-data-2017`)
+- Allotments_Phase2 (`allotmentsphase2`)
+- Estonian Open Data Portal Catalog API (`andmed-eesti-catalog-api`)
+- Article 4 - Craven District Council (`article-4-craven-district-council`)
+- Article 4 Direction (`article-4-direction-2`)
+- Assessment of the Chemical Water Status: Phosphate (`assessment-of-the-chemical-water-status-phosphate`)
+- Average Household Income by District (`average-household-income-by-district-1`)
+- BCKLWN Statutory Safeguarding Zones (`bcklwn-statutory-safeguarding-zones`)
+- Bestemmingsplannen in procedure Arnhem (`bestemmingsplannen-in-procedure-arnhem`)
+- Birmingham City Council Tree Preservation Orders (`birmingham-city-council-tree-preservation-orders`)
+- BNB Official Exchange Rates Feed (`bnb-exchange-rates-feed`)
+- Bodemonderzoeken Arnhem (`bodemonderzoeken-arnhem`)
+- Boundaries (`boundaries`)
+- Cantonal Suoneninventory (`cantonal-suoneninventory`)
+- Cars - purchase of motor vehicles (`cars-purchase-of-motor-vehicles`)
+- CBC_Open_Countryside (`cbcopencountryside`)
+- CBC_Protected_Hedgerows (`cbcprotectedhedgerows`)
+- Cemeteries (`cemeteries`)
+- character(0) (`character0`)
+- Children's involvement in civil and administrative justice in Italy (`childrens-involvement-in-civil-and-administrative-justice-in-italy`)
+- Conservation Area (`conservation-area-2`)
+- Conservation Areas (`conservation-areas-3`)
+- Conservation Areas (`conservation-areas-4`)
+- …and 138 more
+
+### Removed (2)
+- Adressen der Stadt Baesweiler (`adressen-der-stadt-baesweiler`)
+- Brownfield Sites (`brownfield-sites`)
+
+### State changes (1039)
+- Реєстр наборів даних, що перебувають у володінні Департаменту інвестиційної політики, проєктів, міжнародних зв'язків, туризму та промоцій міста Івано-Франківської міської ради (``) — STALE → VERIFIED
+- Реєстр наборів даних, що перебувають у володінні Департаменту забезпечення ресурсних платежів Сумської міської ради (`-1`) — STALE → VERIFIED
+- Управління транспорту та зв'язку Івано-Франківської міської ради (`-12`) — UNVERIFIED → VERIFIED
+- Αδειοδοτημένες Υδροληψίες της Δ/νσης Υδάτων Κρήτης (`-8`) — UNVERIFIED → VERIFIED
+- 11kV Overhead Line (`11kv-overhead-line`) — STALE → VERIFIED
+- 2000-Watt Sites (`2000-watt-sites`) — STALE → VERIFIED
+- 2013 — Foreign population: Activity (`2013-foreign-population-activity`) — STALE → VERIFIED
+- 2013 — Foreign population: Chomage (`2013-foreign-population-chomage`) — STALE → VERIFIED
+- 2013 — Foreign population — Ile de France sheet (`2013-foreign-population-ile-de-france-sheet`) — STALE → VERIFIED
+- 2013 — Housing occupation status of immigrant and non-immigrant households (`2013-housing-occupation-status-of-immigrant-and-non-immigrant-households`) — STALE → VERIFIED
+- 2013 — Immigrant population — Pyramid of the ages (`2013-immigrant-population-pyramid-of-the-ages`) — STALE → VERIFIED
+- 2013 — Immigrant population: Type of households (`2013-immigrant-population-type-of-households`) — STALE → VERIFIED
+- 2015 - Survey - National opinion trends (`2015-survey-national-opinion-trends`) — STALE → VERIFIED
+- Abhängig Beschäftigte der Niederlassungen (B-N, P-S) nachausgewählten Wirtschaftsabschnitten (WZ 2008) - Jahr -regionale Tiefe: Kreise und krfr. Städte (`abhangig-beschaftigte-der-niederlassungen-b-n-p-s-nachausgewahlten-wirtschaftsabschnitten-wz-2008-jahr-regionale-tiefe-kreise-und-krfr-stadte`) — STALE → VERIFIED
+- Access Network Mapping (England) (`access-network-mapping-england`) — UNVERIFIED → VERIFIED
+- Access to fixed assets (investments) (FEU): Länder, years, levels of public sector, type of access to fixed assets, economic sections (`access-to-fixed-assets-investments-feu-lander-years-levels-of-public-sector-type-of-access-to-fixed-assets-economic-sections`) — STALE → VERIFIED
+- Accessi esterni (`accessi-esterni-16`) — FAILING → VERIFIED
+- Accessi esterni (`accessi-esterni-23`) — UNVERIFIED → FAILING
+- Accessi esterni (`accessi-esterni-25`) — UNVERIFIED → VERIFIED
+- Accessi esterni (`accessi-esterni-9`) — UNVERIFIED → FAILING
+- Accessi interni (`accessi-interni-4`) — UNVERIFIED → FAILING
+- Accessi interni (`accessi-interni-9`) — VERIFIED → FAILING
+- Accessi interno (`accessi-interno-2`) — UNVERIFIED → VERIFIED
+- Acesso a dados registados no Gestor de Eventos - ePortugal (`acesso-a-dados-registados-no-gestor-de-eventos-eportugal`) — FAILING → VERIFIED
+- Acesso a dados registados no Gestor de Eventos - ePortugal (`acesso-a-dados-registados-no-gestor-de-eventos-eportugal-1`) — STALE → VERIFIED
+- …and 1014 more
+
 ## 2026-07-10
 
 ### Added (128)

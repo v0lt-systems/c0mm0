@@ -2,6 +2,64 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-07-12
+
+### Added (56)
+- Αρχείο των δικαιολογητικών που απαιτούνται για την εκτέλεση των διαδικασιών που εκτελούν τα ΚΕΠ & σχετική νομολογία (`-19`)
+- Age and gender - Statistical data for Malmö's areas (`age-and-gender-statistical-data-for-malmos-areas`)
+- Aménagements transports collectifs (`amenagements-transports-collectifs`)
+- Aquaculture Sites (`aquaculture-sites`)
+- Cadastre of polluted sites (`cadastre-of-polluted-sites`)
+- Car owners - Statistical data for Malmö's areas (`car-owners-statistical-data-for-malmos-areas`)
+- Children's involvement in civil and administrative justice in Belgium (`childrens-involvement-in-civil-and-administrative-justice-in-belgium`)
+- Children's involvement in civil and administrative justice in Cyprus (`childrens-involvement-in-civil-and-administrative-justice-in-cyprus`)
+- Children's involvement in civil and administrative justice in Czech Republic (`childrens-involvement-in-civil-and-administrative-justice-in-czech-republic`)
+- Children's involvement in civil and administrative justice in Denmark (`childrens-involvement-in-civil-and-administrative-justice-in-denmark`)
+- Children's involvement in civil and administrative justice in Germany (`childrens-involvement-in-civil-and-administrative-justice-in-germany`)
+- Children's involvement in civil and administrative justice in Lithuania (`childrens-involvement-in-civil-and-administrative-justice-in-lithuania`)
+- Children's involvement in civil and administrative justice in Poland (`childrens-involvement-in-civil-and-administrative-justice-in-poland`)
+- Children's involvement in civil and administrative justice in Romania (`childrens-involvement-in-civil-and-administrative-justice-in-romania`)
+- Corine Landcover 1990 (`corine-landcover-1990`)
+- Country of birth - Statistical data for Malmö's areas (`country-of-birth-statistical-data-for-malmos-areas`)
+- Degrees / certificates that give access to registration in the Official Register of Sports Professionals in Catalonia (`degrees-certificates-that-give-access-to-registration-in-the-official-register-of-sports-professionals-in-catalonia-2`)
+- Discharge points for UWWT plants of the Maltese Islands (`discharge-points-for-uwwt-plants-of-the-maltese-islands-1`)
+- Distribution of the axes of the cantonal roads according to tonnage restrictions (`distribution-of-the-axes-of-the-cantonal-roads-according-to-tonnage-restrictions`)
+- Dureté du réseau d'eau potable SIG (`durete-du-reseau-deau-potable-sig`)
+- EPA Offices (`epa-offices`)
+- European Data Portal (`european-data-portal-22`)
+- European Data Portal (`european-data-portal-23`)
+- Fishing Activity Maps at 2-3 Knots for Swordfish (`fishing-activity-maps-at-2-3-knots-for-swordfish-1`)
+- Flood Risk Areas (`flood-risk-areas-1`)
+- …and 31 more
+
+### State changes (26)
+- Accessi interni (`accessi-interni-9`) — FAILING → VERIFIED
+- ALKIS Map Bottrop (`alkis-map-bottrop`) — VERIFIED → FAILING
+- API BDNB Expert (`api-bdnb-expert`) — VERIFIED → FAILING
+- API BDNB Open (`api-bdnb-open`) — VERIFIED → FAILING
+- API CROUStillant (`api-croustillant`) — FAILING → VERIFIED
+- API Recherche des personnes physiques (R2P) (`api-recherche-des-personnes-physiques-r2p`) — UNVERIFIED → VERIFIED
+- Aree di circolazione pedonale (`aree-di-circolazione-pedonale-18`) — FAILING → VERIFIED
+- Aree di circolazione veicolare (`aree-di-circolazione-veicolare-16`) — FAILING → VERIFIED
+- Aree di circolazione veicolare (`aree-di-circolazione-veicolare-18`) — FAILING → VERIFIED
+- Aree di circolazione veicolare (`aree-di-circolazione-veicolare-22`) — FAILING → VERIFIED
+- Bundled target timetable data for Baden-Württemberg, Rhineland-Palatinate and Saarland with route (`bundled-target-timetable-data-for-baden-wurttemberg-rhineland-palatinate-and-saarland-with-route`) — STALE → VERIFIED
+- Community Asset Transfer Register PREMIUM (`community-asset-transfer-register-premium`) — STALE → VERIFIED
+- date-open-mnar (`date-open-mnar`) — VERIFIED → FAILING
+- Dott (`dott`) — FAILING → VERIFIED
+- Feuerwehr-Einsätze in Winterthur (`feuerwehr-einsatze-in-winterthur`) — FAILING → VERIFIED
+- Flux DATEX II des restrictions de circulation (`flux-datex-ii-des-restrictions-de-circulation`) — FAILING → VERIFIED
+- Perimentro del Centro Abitato ai sensi della Legge n. 765 del 1967 (`perimentro-del-centro-abitato-ai-sensi-della-legge-n-765-del-1967`) — FAILING → VERIFIED
+- Service de téléchargement direct (WFS) du jeu de données : Zones de compétence en AEP en 2019 dans le département de l'Orne (`service-de-telechargement-direct-wfs-du-jeu-de-donnees-zones-de-competence-en-aep-en-2019-dans-le-departement-de-lorne`) — FAILING → VERIFIED
+- Target timetable data Transport Associations Baden-Württemberg (individual) with route (`target-timetable-data-transport-associations-baden-wurttemberg-individual-with-route`) — STALE → VERIFIED
+- Unità volumetriche (`unit-volumetriche-12`) — FAILING → VERIFIED
+- Unità volumetriche (`unit-volumetriche-17`) — VERIFIED → FAILING
+- Unità volumetriche (`unit-volumetriche-20`) — FAILING → VERIFIED
+- Unità volumetriche (`unit-volumetriche-6`) — VERIFIED → FAILING
+- WMS for sulphur and nitrogen atmospheric Concentration Based Estimated Deposition (CBED), 2013-2015 (`wms-for-sulphur-and-nitrogen-atmospheric-concentration-based-estimated-deposition-cbed-2013-2015`) — UNVERIFIED → VERIFIED
+- WMS of spatial masks for calcareous, coastal, upland and lowland heath landscapes in England (`wms-of-spatial-masks-for-calcareous-coastal-upland-and-lowland-heath-landscapes-in-england`) — UNVERIFIED → VERIFIED
+- …and 1 more
+
 ## 2026-07-11
 
 ### Added (163)

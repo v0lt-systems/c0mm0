@@ -2,6 +2,49 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-07-13
+
+### Added (43)
+- Acesso a dados registados no Gestor de Eventos - ePortugal (`acesso-a-dados-registados-no-gestor-de-eventos-eportugal-12`)
+- Ampelanlagen (`ampelanlagen-2`)
+- Arrondissements électoraux (`arrondissements-electoraux`)
+- Assessment of the Biological Water Status: Macrozoobenthos (`assessment-of-the-biological-water-status-macrozoobenthos`)
+- Carte du risque d'érosion des sols cultivés (`carte-du-risque-derosion-des-sols-cultives`)
+- Découpage des communes suisses et françaises (cadre restreint) (`decoupage-des-communes-suisses-et-francaises-cadre-restreint`)
+- Definitive forest determination (areas and lines) (`definitive-forest-determination-areas-and-lines`)
+- Disposable income 2020- - Statistical data for Malmö's areas (`disposable-income-2020-statistical-data-for-malmos-areas`)
+- Energetic mineral resources of the Mineral Resources Register (`energetic-mineral-resources-of-the-mineral-resources-register`)
+- Environmental goods and services indicators by economic activities (NACE Rev.2). (API identifier: 46263) (`environmental-goods-and-services-indicators-by-economic-activities-nace-rev2-api-identifier-46263`)
+- Environmental Information Data Centre (`environmental-information-data-centre`)
+- Family Children beneficiaries and benefits (`family-children-beneficiaries-and-benefits-1`)
+- Foreign background, 20+ - Statistical data for Malmö's areas (`foreign-background-20-statistical-data-for-malmos-areas`)
+- Foreign background - Statistical data for Malmö's areas (`foreign-background-statistical-data-for-malmos-areas`)
+- Gridded Standardized Precipitation Index (SPI) using gamma distribution with standard period 1961-2010 for Great Britain [SPIgamma61-10] (`gridded-standardized-precipitation-index-spi-using-gamma-distribution-with-standard-period-1961-2010-for-great-britain-spigamma61-10`)
+- Health statistics - Statistical data for Malmö's areas (`health-statistics-statistical-data-for-malmos-areas`)
+- Höhenfestpunkte (`hohenfestpunkte-1`)
+- Household type - Statistical data for Malmö's areas (`household-type-statistical-data-for-malmos-areas`)
+- Kopalne vode (`kopalne-vode`)
+- Land and property assets (`land-and-property-assets-1`)
+- Manchester Airport Safeguarding Zone - development likely to attract birds (`manchester-airport-safeguarding-zone-development-likely-to-attract-birds`)
+- Natura 2000 (`natura-2000`)
+- Nomenclature historique des noms locaux (1936-2023) (`nomenclature-historique-des-noms-locaux-1936-2023`)
+- Ortofoto (`ortofoto`)
+- Osnovni podatki o predpisih RS (`osnovni-podatki-o-predpisih-rs`)
+- …and 18 more
+
+### Removed (1)
+- National DNA database statistics (`national-dna-database-statistics`)
+
+### State changes (8)
+- Accessi esterni (`accessi-esterni-23`) — FAILING → VERIFIED
+- API de Pesquisa de Imagens v1.1 (beta) (`api-de-pesquisa-de-imagens-v11-beta`) — FAILING → VERIFIED
+- Area stradale (`area-stradale`) — FAILING → VERIFIED
+- Marine area up to 25nm as covered by SPED (`marine-area-up-to-25nm-as-covered-by-sped-2`) — VERIFIED → FAILING
+- Unità volumetriche (`unit-volumetriche-6`) — FAILING → VERIFIED
+- Uso del suolo (`uso-del-suolo`) — FAILING → VERIFIED
+- WMS for sulphur and nitrogen atmospheric Concentration Based Estimated Deposition (CBED), 2011-2013 (`wms-for-sulphur-and-nitrogen-atmospheric-concentration-based-estimated-deposition-cbed-2011-2013`) — UNVERIFIED → VERIFIED
+- WMS for sulphur and nitrogen atmospheric Concentration Based Estimated Deposition (CBED), 2017-2019 (`wms-for-sulphur-and-nitrogen-atmospheric-concentration-based-estimated-deposition-cbed-2017-2019`) — UNVERIFIED → VERIFIED
+
 ## 2026-07-12
 
 ### Added (56)

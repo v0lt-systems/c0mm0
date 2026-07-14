@@ -2,6 +2,85 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-07-14
+
+### Added (433)
+- Περιοχές που εξαιρούνται από την Πολεοδομική Μελέτη (`-101`)
+- Οικοδομικά τετράγωνα (χωρίς τμήμα Πεύκο Πολίτη) (`-102`)
+- Οικοδομικά τετράγωνα (χωρίς τμήμα Πεύκο Πολίτη) (`-103`)
+- Οδικό Δίκτυο (`-110`)
+- Παιδικές Χαρές (`-112`)
+- Πινακίδες μονής κατεύθυνσης (`-118`)
+- Διαφημιστικές πινακίδες (`-123`)
+- Πινακίδες εκτός Κ.Ο.Κ (`-124`)
+- Πινακίδες εκτός Κ.Ο.Κ (`-125`)
+- Δεδομένα Ονοματοθεσίας Οδών (`-126`)
+- Δεδομένα Ονοματοθεσίας Οδών (`-127`)
+- Καταστήματα Υγειονομικού Ενδιαφέροντος (`-129`)
+- Κτίρια (`-130`)
+- Κτίρια (`-131`)
+- Αγωγοί Ομβρίων (`-135`)
+- Πίνακες (`-144`)
+- Πίνακες (`-145`)
+- Επικοιστικές Εκτάσεις (`-150`)
+- Εκκλησίες (`-153`)
+- Άδειες Δόμησης (ΤΕΕ) (`-155`)
+- Δημόσιες Υπηρεσίες (`-158`)
+- Διαγράμματα Διαμορφωμένης Κατάστασης (`-166`)
+- Διαγράμματα Διαμορφωμένης Κατάστασης (`-167`)
+- Μνημεία (Σημειακό) (`-169`)
+- Γεωτεμάχια Κτηματολογίου (Λειτουργούν) (`-175`)
+- …and 408 more
+
+### Removed (244)
+- 12 Nautical Mile Fisheries Control Ireland (`12-nautical-mile-fisheries-control-ireland-1`)
+- 4G mobile broadband (LTE) coverage (as a % of households) (`4g-mobile-broadband-lte-coverage-as-a-of-households`)
+- 6 Nautical Mile Fisheries Control Ireland (`6-nautical-mile-fisheries-control-ireland-1`)
+- Accessi esterni (`accessi-esterni-9`)
+- Accessi interni (`accessi-interni-4`)
+- Adresse REST-API (`adresse-rest-api`)
+- Adressen der Stadt Stolberg (`adressen-der-stadt-stolberg`)
+- Adressen der StädteRegion Aachen ohne die Stadt Aachen (`adressen-der-stadteregion-aachen-ohne-die-stadt-aachen`)
+- Agglo - Césures vertes et franges - Stratégie du PA4 (`agglo-cesures-vertes-et-franges-strategie-du-pa4`)
+- Agglo - Corridors écologiques (`agglo-corridors-cologiques-1`)
+- Agglo - Interfaces multimodales - Stratégie du PA4 (`agglo-interfaces-multimodales-strategie-du-pa4`)
+- Agglo - Pôles d'activité métropolitains - Stratégie du PA4 (`agglo-poles-dactivite-metropolitains-strategie-du-pa4`)
+- Agglo - Qualité de desserte en 2020 (`agglo-qualite-de-desserte-en-2020`)
+- Agglo - Transport public structurant - Stratégie PA4 (`agglo-transport-public-structurant-strategie-pa4`)
+- Allotments (`allotments`)
+- Amenity Greenspace (`amenity-greenspace`)
+- API publique des certificats ANRDI (`api-publique-des-certificats-anrdi`)
+- API Reference (`api-reference`)
+- API to course information for adult education centers in the capital region (`api-to-course-information-for-adult-education-centers-in-the-capital-region`)
+- AQUAKULTURA (`aquakultura`)
+- Area stradale (`area-stradale-11`)
+- Aree di circolazione ciclabili (`aree-di-circolazione-ciclabili-5`)
+- Aree di circolazione pedonale (`aree-di-circolazione-pedonale-1`)
+- Aree di circolazione veicolare (`aree-di-circolazione-veicolare-8`)
+- Arklow Bank Wind Park Connection Cable (`arklow-bank-wind-park-connection-cable-1`)
+- …and 219 more
+
+### State changes (19)
+- ALKIS Map Bottrop (`alkis-map-bottrop`) — FAILING → VERIFIED
+- API Géoplateforme - Téléchargement (`api-geoplateforme-telechargement`) — FAILING → VERIFIED
+- Area stradale (`area-stradale`) — VERIFIED → FAILING
+- Aree di circolazione pedonale (`aree-di-circolazione-pedonale`) — VERIFIED → FAILING
+- Aree di circolazione pedonale (`aree-di-circolazione-pedonale-21`) — VERIFIED → FAILING
+- Capital account (Quarterly) (`capital-account-quarterly`) — VERIFIED → UNVERIFIED
+- Landscape Character Assessment - Green Belt (`landscape-character-assessment-green-belt`) — VERIFIED → FAILING
+- MINES - Chemical Water Analyses (Winter) (`mines-chemical-water-analyses-winter`) — VERIFIED → FAILING
+- Unità volumetriche (`unit-volumetriche-12`) — VERIFIED → FAILING
+- Unità volumetriche (`unit-volumetriche-15`) — VERIFIED → FAILING
+- Unità volumetriche (`unit-volumetriche-16`) — VERIFIED → FAILING
+- Unità volumetriche (`unit-volumetriche-4`) — VERIFIED → FAILING
+- Water Framework Directive Water Catchments (`water-framework-directive-water-catchments`) — VERIFIED → FAILING
+- WMS for sulphur and nitrogen atmospheric Concentration Based Estimated Deposition (CBED), 2011-2013 (`wms-for-sulphur-and-nitrogen-atmospheric-concentration-based-estimated-deposition-cbed-2011-2013`) — VERIFIED → UNVERIFIED
+- WMS for sulphur and nitrogen atmospheric Concentration Based Estimated Deposition (CBED), 2013-2015 (`wms-for-sulphur-and-nitrogen-atmospheric-concentration-based-estimated-deposition-cbed-2013-2015`) — VERIFIED → UNVERIFIED
+- WMS for sulphur and nitrogen atmospheric Concentration Based Estimated Deposition (CBED), 2017-2019 (`wms-for-sulphur-and-nitrogen-atmospheric-concentration-based-estimated-deposition-cbed-2017-2019`) — VERIFIED → UNVERIFIED
+- WMS of spatial masks for calcareous, coastal, upland and lowland heath landscapes in England (`wms-of-spatial-masks-for-calcareous-coastal-upland-and-lowland-heath-landscapes-in-england`) — VERIFIED → UNVERIFIED
+- WMS of wooded riparian zones in Great Britain (`wms-of-wooded-riparian-zones-in-great-britain`) — VERIFIED → UNVERIFIED
+- Wrecks (`wrecks`) — VERIFIED → FAILING
+
 ## 2026-07-13
 
 ### Added (43)

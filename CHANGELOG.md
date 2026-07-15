@@ -2,6 +2,70 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-07-15
+
+### Added (776)
+- Περιοχές που εξαιρούνται από την Πολεοδομική Μελέτη (`-100`)
+- Οικοδομικά Τετράγωνα (`-104`)
+- Οικοδομικά Τετράγωνα (`-105`)
+- Διοικητικά Όρια Δήμου Χαλανδρίου (`-106`)
+- Διοικητικά Όρια Δήμου Χαλανδρίου (`-107`)
+- Οικοδομικές Γραμμές (`-108`)
+- Οικοδομικές Γραμμές (`-109`)
+- Οδικό Δίκτυο (`-111`)
+- Παιδικές Χαρές (`-113`)
+- Πινακίδες περιορισμού (`-114`)
+- Πινακίδες περιορισμού (`-115`)
+- Πινακίδες διπλής κατεύθυνσης (`-116`)
+- Πινακίδες διπλής κατεύθυνσης (`-117`)
+- Πινακίδες μονής κατεύθυνσης (`-119`)
+- Πινακίδες προειδοποίησης κινδύνου (`-120`)
+- Πινακίδες προειδοποίησης κινδύνου (`-121`)
+- Διαφημιστικές πινακίδες (`-122`)
+- Καταστήματα Υγειονομικού Ενδιαφέροντος (`-128`)
+- Κοινωνική Πρόνοια (`-132`)
+- Κοινωνική Πρόνοια (`-133`)
+- Κτίρια (`-134`)
+- Περιοχές Σταθμών Φόρτισης Ηλεκτρικών Οχημάτων (ΣΦΗΟ) (`-136`)
+- Σταθμοί Εθνικού Δικτύου Παρακολούθησης Ατμοσφαιρικής Ρύπανσης (ΕΔΠΑΡ) (`-137`)
+- Σταθμοί Φόρτισης Ηλεκτρικών Οχημάτων (ΣΦΗΟ) (`-138`)
+- Σταθμοί Φόρτισης Ηλεκτρικών Οχημάτων (ΣΦΗΟ) (`-139`)
+- …and 751 more
+
+### Removed (4)
+- Map data of the open data observatory of territories, 2021 (archive) (`map-data-of-the-open-data-observatory-of-territories-2021-archive`)
+- Museum statistics at national events (`museum-statistics-at-national-events-1`)
+- Police Service of Northern Ireland Annual Statistics (`police-service-of-northern-ireland-annual-statistics`)
+- Staffordshire Moorlands Brownfield Land Register (`staffordshire-moorlands-brownfield-land-register`)
+
+### State changes (175)
+- Agenda Eventos (`agenda-eventos`) — VERIFIED → FAILING
+- AIR: NO2 (`air-no2`) — VERIFIED → FAILING
+- All EPA Priority Urban Areas (`all-epa-priority-urban-areas`) — VERIFIED → FAILING
+- All Island River Catchments (`all-island-river-catchments`) — VERIFIED → FAILING
+- AML — Telemetria e Alertas (dados de demonstração / temporário) (`aml-telemetria-e-alertas-dados-de-demonstracao-temporario`) — VERIFIED → FAILING
+- Ammonium Concentration in Irish Waters 2007 - 2009 (`ammonium-concentration-in-irish-waters-2007-2009`) — VERIFIED → FAILING
+- Ancient and Long-established Woodland Inventory 2010 (`ancient-and-long-established-woodland-inventory-2010-2`) — VERIFIED → FAILING
+- Aree di circolazione veicolare (`aree-di-circolazione-veicolare-7`) — VERIFIED → FAILING
+- Atlantic Marine Energy Test Site (AMETS) Marker Points (`atlantic-marine-energy-test-site-amets-marker-points`) — VERIFIED → FAILING
+- Bathing Water Compliance (`bathing-water-compliance`) — VERIFIED → FAILING
+- Catchment Projects (`catchment-projects`) — VERIFIED → FAILING
+- Corine Landcover 1990 (`corine-landcover-1990`) — VERIFIED → FAILING
+- Corine Landcover 2000 Revised (`corine-landcover-2000-revised`) — VERIFIED → FAILING
+- Corine Landcover 2006 Revised (`corine-landcover-2006-revised`) — VERIFIED → FAILING
+- Corine Landcover 2012 (`corine-landcover-2012`) — VERIFIED → FAILING
+- Corine Landcover 2018 (`corine-landcover-2018`) — VERIFIED → FAILING
+- Corine Landcover Change 1990 - 2000 (`corine-landcover-change-1990-2000`) — VERIFIED → FAILING
+- Corine Landcover Change 2000 - 2006 (`corine-landcover-change-2000-2006`) — VERIFIED → FAILING
+- Corine Landcover Change 2006 - 2012 (`corine-landcover-change-2006-2012`) — VERIFIED → FAILING
+- Corine Landcover Change 2012 - 2018 (`corine-landcover-change-2012-2018`) — VERIFIED → FAILING
+- CSW Geokatalog Kreis Mettmann (`csw-geokatalog-kreis-mettmann`) — VERIFIED → FAILING
+- Designated Bathing Water Locations (`designated-bathing-water-locations`) — VERIFIED → FAILING
+- Dumping at Sea Chemical Monitoring Points (`dumping-at-sea-chemical-monitoring-points`) — VERIFIED → FAILING
+- Environmental Protection Agency Remedial Action List (`environmental-protection-agency-remedial-action-list`) — VERIFIED → FAILING
+- EPA Offices (`epa-offices`) — VERIFIED → FAILING
+- …and 150 more
+
 ## 2026-07-14
 
 ### Added (433)

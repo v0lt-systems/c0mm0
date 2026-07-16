@@ -2,6 +2,67 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-07-16
+
+### Added (334)
+- Abfall und Recycling Hamburg (`abfall-und-recycling-hamburg`)
+- Aeroporturile principale din România (art. 7 dIn Directiva 2002/49/CE) (`aeroporturile-principale-din-romania-art-7-din-directiva-200249ce`)
+- Aktuelle Waldvegetation Schiechtl/Stern Tirol (`aktuelle-waldvegetation-schiechtlstern-tirol`)
+- Almzentren Tirol (`almzentren-tirol`)
+- AM.Havsområdesindelning enligt havsmiljöförordningen Bedömningsområden.ATOM (`amhavsomradesindelning-enligt-havsmiljoforordningen-bedomningsomradenatom`)
+- AM.Havsområdesindelning enligt havsmiljöförordningen Förvaltningsområden.ATOM (`amhavsomradesindelning-enligt-havsmiljoforordningen-forvaltningsomradenatom`)
+- AM.Havsområdesindelning enligt havsmiljöförordningen Förvaltningsområden.WMS (`amhavsomradesindelning-enligt-havsmiljoforordningen-forvaltningsomradenwms`)
+- AM.Tillstånd för prospektering och gruvbrytning (visningstjänst) (`amtillstand-for-prospektering-och-gruvbrytning-visningstjanst`)
+- Apotheken Standorte Wien (`apotheken-standorte-wien`)
+- Aufstiegshilfen in Tirol (`aufstiegshilfen-in-tirol`)
+- AU.Maritima enheter - visningstjänst (`aumaritima-enheter-visningstjanst`)
+- BaTman - portal (`batman-portal`)
+- Behindertenstellplätze Hamburg (`behindertenstellplatze-hamburg`)
+- Belastete Gebiete NO2 Tirol (`belastete-gebiete-no2-tirol`)
+- Beratungsstellen und Gruppenangebote für Senior:innen der queeren Community Eimsbüttel Hamburg (`beratungsstellen-und-gruppenangebote-fur-seniorinnen-der-queeren-community-eimsbuttel-hamburg`)
+- Besondere Gefährdungen BWV Tirol (`besondere-gefahrdungen-bwv-tirol`)
+- Bodenlehrpfade (`bodenlehrpfade`)
+- Bojen der Donau - Österreich (`bojen-der-donau-osterreich`)
+- Boreholes (`boreholes-2`)
+- BR.Limniska vattentypsregioner.ATOM (`brlimniska-vattentypsregioneratom`)
+- BR.Limniska vattentypsregioner.WMS (`brlimniska-vattentypsregionerwms`)
+- Burgen, Kirchen und Klöster in Tirol (`burgen-kirchen-und-kloster-in-tirol`)
+- Business Improvement Districts Hamburg (`business-improvement-districts-hamburg`)
+- Byggnader, Ruiner INSPIRE nedladdningstjänst (`byggnader-ruiner-inspire-nedladdningstjanst`)
+- Bytes- och stoppunkter - visningstjänst (`bytes-och-stoppunkter-visningstjanst`)
+- …and 309 more
+
+### Removed (1)
+- Official survey ZG (`official-survey-zg`)
+
+### State changes (72)
+- Agenda Eventos (`agenda-eventos`) — FAILING → VERIFIED
+- API d'écriture de la base nationale de la règlementation de circulation (`api-decriture-de-la-base-nationale-de-la-reglementation-de-circulation`) — VERIFIED → FAILING
+- Aree di circolazione veicolare (`aree-di-circolazione-veicolare-18`) — VERIFIED → FAILING
+- Aree di circolazione veicolare (`aree-di-circolazione-veicolare-7`) — FAILING → VERIFIED
+- Argiles RGA (zonage exposition) (`argiles-rga-zonage-exposition`) — VERIFIED → FAILING
+- Bodendenkmal (`bodendenkmal`) — VERIFIED → FAILING
+- Corine Landcover 1990 (`corine-landcover-1990`) — FAILING → VERIFIED
+- Corine Landcover Change 1990 - 2000 (`corine-landcover-change-1990-2000`) — FAILING → VERIFIED
+- Datos georreferenciados de parcelas de los municipios de la Comunidad de Madrid a las que resulta de aplicación la Ley 3/2024. (`datos-georreferenciados-de-parcelas-de-los-municipios-de-la-comunidad-de-madrid-a-las-que-resulta-de-aplicacion-la-ley-32024`) — VERIFIED → UNVERIFIED
+- EPA Offices (`epa-offices`) — FAILING → VERIFIED
+- Estructuras locales para la igualdad de mujeres y hombres en Bizkaia (`estructuras-locales-para-la-igualdad-de-mujeres-y-hombres-en-bizkaia`) — UNVERIFIED → VERIFIED
+- Flow Direction Arrows (`flow-direction-arrows`) — VERIFIED → FAILING
+- Gemeinde Lohra: Bauleitplanung (`gemeinde-lohra-bauleitplanung`) — VERIFIED → FAILING
+- Géocodage (BAN) (`geocodage-ban`) — UNVERIFIED → FAILING
+- Groundwater Aquaculture Pressures (`groundwater-aquaculture-pressures`) — FAILING → VERIFIED
+- Historical Groundwater Quality 2003-2005 (`historical-groundwater-quality-2003-2005`) — VERIFIED → FAILING
+- IED_Anlagen (`iedanlagen`) — VERIFIED → FAILING
+- Industrial Emissions (IE) and Integrated Pollution Control (IPC) Facilities (`industrial-emissions-ie-and-integrated-pollution-control-ipc-facilities`) — FAILING → VERIFIED
+- INSPIRE HE Gebäude - 2D ALKIS (`inspire-he-gebaude-2d-alkis`) — VERIFIED → FAILING
+- INSPIRE Kommunale Boden- und Raumplanung Stadt Ober-Ramstadt (`inspire-kommunale-boden-und-raumplanung-stadt-ober-ramstadt`) — VERIFIED → FAILING
+- INSPIRE Rettungswachen Main-Kinzig-Kreis (`inspire-rettungswachen-main-kinzig-kreis`) — VERIFIED → FAILING
+- INSPIRE Rettungswachen Odenwaldkreis (`inspire-rettungswachen-odenwaldkreis`) — VERIFIED → FAILING
+- INSPIRE Schulen Main-Taunus-Kreis (`inspire-schulen-main-taunus-kreis`) — VERIFIED → FAILING
+- INSS INFOMAR Seabed Survey Shallow seismic Sub-Bottom Profile (`inss-infomar-seabed-survey-shallow-seismic-sub-bottom-profile-1`) — FAILING → VERIFIED
+- Kommunale Boden- und Raumplanung Stadt Rüsselsheim am Main (`kommunale-boden-und-raumplanung-stadt-russelsheim-am-main`) — VERIFIED → FAILING
+- …and 47 more
+
 ## 2026-07-15
 
 ### Added (776)

@@ -2,6 +2,92 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-07-17
+
+### Added (84)
+- Ampelanlagen (`ampelanlagen-3`)
+- Blue-green indicators (`blue-green-indicators`)
+- Caba Kraków,  ul. Dobrego Pasterza 53 (`caba-krakow-ul-dobrego-pasterza-53`)
+- Caba Kraków,  ul. Dobrego Pasterza 53 (`caba-krakow-ul-dobrego-pasterza-53-2`)
+- Caba Kraków, ul. Macieja Słomczyńskiego 1 (`caba-krakow-ul-macieja-somczynskiego-1`)
+- Caba Kraków, ul. Macieja Słomczyńskiego 1 (`caba-krakow-ul-macieja-somczynskiego-1-1`)
+- Caba Kraków, ul. Macieja Słomczyńskiego 1 (`caba-krakow-ul-macieja-somczynskiego-1-2`)
+- Cars in traffic - Statistical data for Malmö's areas (`cars-in-traffic-statistical-data-for-malmos-areas`)
+- Centralny Bank Danych Hydrogeologicznych – Bank HYDRO (CBDH) (`centralny-bank-danych-hydrogeologicznych-bank-hydro-cbdh`)
+- Ceny lokali – Otwocki Styl 1 (`ceny-lokali-otwocki-styl-1`)
+- Ceny ofertowe J.W. Construction Holding S.A. (`ceny-ofertowe-jw-construction-holding-sa-2`)
+- Ceny ofertowe lokali mieszkalnych - Wołomin ul. Sikorskiego 71 ABCDE -  2025 rok - Gawbet sc Jerzy i Robert Gawor 05-200 Wołomin ul, Andersa 9 (`ceny-ofertowe-lokali-mieszkalnych-woomin-ul-sikorskiego-71-abcde-2025-rok-gawbet-sc-jerzy-i-robert-gawor-05-200-woomin-ul-andersa-9-1`)
+- Ceny ofertowe lokali mieszkalnych - Wołomin ul. Sikorskiego 71 ABCDE -  2025 rok - Gawbet sc Jerzy i Robert Gawor 05-200 Wołomin ul, Andersa 9 (`ceny-ofertowe-lokali-mieszkalnych-woomin-ul-sikorskiego-71-abcde-2025-rok-gawbet-sc-jerzy-i-robert-gawor-05-200-woomin-ul-andersa-9-2`)
+- Ceny ofertowe lokali mieszkalnych - Wołomin ul. Sikorskiego 71 ABCDE -  2025 rok - Gawbet sc Jerzy i Robert Gawor 05-200 Wołomin ul, Andersa 9 (`ceny-ofertowe-lokali-mieszkalnych-woomin-ul-sikorskiego-71-abcde-2025-rok-gawbet-sc-jerzy-i-robert-gawor-05-200-woomin-ul-andersa-9-3`)
+- Ceny ofertowe mieszkań dewelopera CITY BUDOWNICTWO Waldemar Lisiewski Krzysztof Wielgosz (`ceny-ofertowe-mieszkan-dewelopera-city-budownictwo-waldemar-lisiewski-krzysztof-wielgosz`)
+- Ceny ofertowe mieszkań dewelopera EUROBUD Chajewscy Sp. z o.o. w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-eurobud-chajewscy-sp-z-oo-w-2026-r-1`)
+- Ceny ofertowe mieszkań dewelopera FHU INSTALACJE DOMOWE RAFAŁ KUBICKI (`ceny-ofertowe-mieszkan-dewelopera-fhu-instalacje-domowe-rafa-kubicki-1`)
+- Ceny ofertowe mieszkań dewelopera Helvetia City sp. z o.o. w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-helvetia-city-sp-z-oo-w-2026-r`)
+- Ceny ofertowe mieszkań dewelopera INF ORION INWESTYCJE SPÓŁKA Z O. O. KRAKOWSKIE PRZEDMIEŚCIE SPÓŁKA KOMANDYTOWA w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-inf-orion-inwestycje-spoka-z-o-o-krakowskie-przedmiescie-spoka-komandytowa-w-2026-r-5`)
+- Ceny ofertowe mieszkań dewelopera Innova Paweł Krawczyk, Grzegorz Krawczyk Spółka Cywilna (`ceny-ofertowe-mieszkan-dewelopera-innova-pawe-krawczyk-grzegorz-krawczyk-spoka-cywilna`)
+- Ceny ofertowe mieszkań dewelopera INSPIRACJA EDYTA KALINOWSKA (`ceny-ofertowe-mieszkan-dewelopera-inspiracja-edyta-kalinowska-1`)
+- Ceny ofertowe mieszkań dewelopera INSPIRACJA EDYTA KALINOWSKA (`ceny-ofertowe-mieszkan-dewelopera-inspiracja-edyta-kalinowska-2`)
+- Ceny ofertowe mieszkań dewelopera MB DEVELOPMENT Mariusz Będkowski (`ceny-ofertowe-mieszkan-dewelopera-mb-development-mariusz-bedkowski`)
+- Ceny ofertowe mieszkań dewelopera MB DEVELOPMENT Mariusz Będkowski (`ceny-ofertowe-mieszkan-dewelopera-mb-development-mariusz-bedkowski-2`)
+- Ceny ofertowe mieszkań dewelopera MB DEVELOPMENT Mariusz Będkowski (`ceny-ofertowe-mieszkan-dewelopera-mb-development-mariusz-bedkowski-3`)
+- …and 59 more
+
+### Removed (156)
+- 2019 - 10 June - Teacher Registration Statistics (`2019-10-june-teacher-registration-statistics`)
+- 3D Data Hack Docklands Model Starter Guides (`3d-data-hack-docklands-model-starter-guides`)
+- Accessi esterni (`accessi-esterni`)
+- Accessi esterni (`accessi-esterni-13`)
+- Accessi esterni (`accessi-esterni-15`)
+- Accessi esterni (`accessi-esterni-16`)
+- Accessi esterni (`accessi-esterni-2`)
+- Accessibilité des ERP (`accessibilite-des-erp`)
+- Activity statistics A.N.C. June 2018 (`activity-statistics-anc-june-2018`)
+- API de consulta de actividades formativas de CyL Digital (`api-de-consulta-de-actividades-formativas-de-cyl-digital`)
+- API de consulta de estaciones meteorológicas en carreteras (`api-de-consulta-de-estaciones-meteorologicas-en-carreteras`)
+- Area stradale (`area-stradale`)
+- Area stradale (`area-stradale-12`)
+- Area stradale (`area-stradale-17`)
+- Area stradale (`area-stradale-9`)
+- Aree di circolazione ciclabili (`aree-di-circolazione-ciclabili`)
+- Aree di circolazione ciclabili (`aree-di-circolazione-ciclabili-1`)
+- Aree di circolazione ciclabili (`aree-di-circolazione-ciclabili-12`)
+- Aree di circolazione ciclabili (`aree-di-circolazione-ciclabili-13`)
+- Aree di circolazione ciclabili (`aree-di-circolazione-ciclabili-3`)
+- Aree di circolazione ciclabili (`aree-di-circolazione-ciclabili-8`)
+- Aree di circolazione pedonale (`aree-di-circolazione-pedonale`)
+- Aree di circolazione pedonale (`aree-di-circolazione-pedonale-16`)
+- Aree di circolazione pedonale (`aree-di-circolazione-pedonale-18`)
+- Aree di circolazione veicolare (`aree-di-circolazione-veicolare`)
+- …and 131 more
+
+### State changes (97)
+- Accessi esterni (`accessi-esterni-23`) — VERIFIED → FAILING
+- AIR: NO2 (`air-no2`) — FAILING → VERIFIED
+- All EPA Priority Urban Areas (`all-epa-priority-urban-areas`) — FAILING → VERIFIED
+- API Base nationale des défibrillateurs (`api-base-nationale-des-defibrillateurs`) — FAILING → VERIFIED
+- API d'écriture de la base nationale de la règlementation de circulation (`api-decriture-de-la-base-nationale-de-la-reglementation-de-circulation`) — FAILING → VERIFIED
+- Argiles RGA (zonage exposition) (`argiles-rga-zonage-exposition`) — FAILING → VERIFIED
+- Arvoredo (`arvoredo`) — VERIFIED → FAILING
+- Bodendenkmal (`bodendenkmal`) — FAILING → VERIFIED
+- Consumo de Água (Grandes Consumidores) (`consumo-de-agua-grandes-consumidores`) — VERIFIED → FAILING
+- Corine Landcover 2012 (`corine-landcover-2012`) — FAILING → VERIFIED
+- Corine Landcover 2018 (`corine-landcover-2018`) — FAILING → VERIFIED
+- Corine Landcover Change 2000 - 2006 (`corine-landcover-change-2000-2006`) — FAILING → VERIFIED
+- Datos georreferenciados de parcelas de los municipios de la Comunidad de Madrid a las que resulta de aplicación la Ley 3/2024. (`datos-georreferenciados-de-parcelas-de-los-municipios-de-la-comunidad-de-madrid-a-las-que-resulta-de-aplicacion-la-ley-32024`) — UNVERIFIED → VERIFIED
+- Ejendomme ejet af Aarhus Havn (`ejendomme-ejet-af-aarhus-havn`) — VERIFIED → FAILING
+- Eventdatabasen (`eventdatabasen`) — VERIFIED → FAILING
+- Farm and Landscape measures for Agriculture (`farm-and-landscape-measures-for-agriculture`) — FAILING → VERIFIED
+- Gemeinde Bad Endbach: Bauleitplanung (INSPIRE) (`gemeinde-bad-endbach-bauleitplanung-inspire-1`) — FAILING → VERIFIED
+- Gemeinde Lohra: Bauleitplanung (`gemeinde-lohra-bauleitplanung`) — FAILING → VERIFIED
+- Geologia Contínua de Portugal à escala 1:200 000 com Legenda Única – Protótipo (`geologia-continua-de-portugal-a-escala-1200-000-com-legenda-unica-prototipo`) — VERIFIED → FAILING
+- Groundwater Industry Pressures (`groundwater-industry-pressures`) — FAILING → VERIFIED
+- Groundwater Urban Waste Water Pressures (`groundwater-urban-waste-water-pressures`) — FAILING → VERIFIED
+- HR Statistical Bulletin (`hr-statistical-bulletin`) — FAILING → VERIFIED
+- IED_Anlagen (`iedanlagen`) — FAILING → VERIFIED
+- Impacting on Bathing Water (`impacting-on-bathing-water`) — FAILING → VERIFIED
+- INFOMAR Seabed Survey Coverage (`infomar-seabed-survey-coverage`) — FAILING → VERIFIED
+- …and 72 more
+
 ## 2026-07-16
 
 ### Added (334)

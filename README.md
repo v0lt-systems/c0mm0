@@ -9,12 +9,12 @@ catalog.
 <!-- stats:start -->
 | | |
 |---|---|
-| Snapshot | 2026-07-17 |
-| Entries | 5681 |
-| API | 2407 |
-| DATASET | 3186 |
+| Snapshot | 2026-07-18 |
+| Entries | 5782 |
+| API | 2427 |
+| DATASET | 3267 |
 | PORTAL | 88 |
-| Verified | 5354 |
+| Verified | 5583 |
 | Countries | 34 |
 <!-- stats:end -->
 

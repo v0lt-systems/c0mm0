@@ -2,6 +2,64 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-07-18
+
+### Added (101)
+- Acesso a dados registados no Gestor de Eventos - ePortugal (`acesso-a-dados-registados-no-gestor-de-eventos-eportugal-13`)
+- Afvalbakken Arnhem (`afvalbakken-arnhem`)
+- API Métadonnées (`api-metadonnees`)
+- Bradford MDC car parks (`bradford-mdc-car-parks-1`)
+- Caba Kraków,  ul. Dobrego Pasterza 53 (`caba-krakow-ul-dobrego-pasterza-53-3`)
+- Caba Kraków, ul. Macieja Słomczyńskiego 1 (`caba-krakow-ul-macieja-somczynskiego-1-3`)
+- Ceny ofertowe Dewelopera Apartamenty Nowy Świat 32 sp.z o.o. w 2026r. (`ceny-ofertowe-dewelopera-apartamenty-nowy-swiat-32-spz-oo-w-2026r-1`)
+- Ceny ofertowe lokali mieszkalnych - Wołomin ul. Sikorskiego 71 ABCDE -  2025 rok - Gawbet sc Jerzy i Robert Gawor 05-200 Wołomin ul, Andersa 9 (`ceny-ofertowe-lokali-mieszkalnych-woomin-ul-sikorskiego-71-abcde-2025-rok-gawbet-sc-jerzy-i-robert-gawor-05-200-woomin-ul-andersa-9-4`)
+- Ceny ofertowe mieszkań dewelopera ALGRO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-algro-spoka-z-ograniczona-odpowiedzialnoscia-w-2026-r`)
+- Ceny ofertowe mieszkań dewelopera ALGRO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-algro-spoka-z-ograniczona-odpowiedzialnoscia-w-2026-r-1`)
+- Ceny ofertowe mieszkań dewelopera Dermaproject Mirosława Borowska w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-dermaproject-mirosawa-borowska-w-2026-r`)
+- Ceny ofertowe mieszkań dewelopera DOMLUBLIN Mariusz Wlaszczyk w 2025 r. (`ceny-ofertowe-mieszkan-dewelopera-domlublin-mariusz-wlaszczyk-w-2025-r-2`)
+- Ceny ofertowe mieszkań dewelopera Double Royal Residence spółka z ograniczona odpowiedzialnością w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-double-royal-residence-spoka-z-ograniczona-odpowiedzialnoscia-w-2026-r`)
+- Ceny ofertowe mieszkań dewelopera FHU INSTALACJE DOMOWE RAFAŁ KUBICKI (`ceny-ofertowe-mieszkan-dewelopera-fhu-instalacje-domowe-rafa-kubicki-2`)
+- Ceny ofertowe mieszkań dewelopera FHU INSTALACJE DOMOWE RAFAŁ KUBICKI (`ceny-ofertowe-mieszkan-dewelopera-fhu-instalacje-domowe-rafa-kubicki-3`)
+- Ceny ofertowe mieszkań dewelopera GREG-BUD DEVELOPMENT GRZEGORZ NOWICKI w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-greg-bud-development-grzegorz-nowicki-w-2026-r`)
+- Ceny ofertowe mieszkań dewelopera INF ORION INWESTYCJE SPÓŁKA Z O. O. KRAKOWSKIE PRZEDMIEŚCIE SPÓŁKA KOMANDYTOWA w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-inf-orion-inwestycje-spoka-z-o-o-krakowskie-przedmiescie-spoka-komandytowa-w-2026-r-6`)
+- Ceny ofertowe mieszkań dewelopera INF ORION INWESTYCJE SPÓŁKA Z O. O. KRAKOWSKIE PRZEDMIEŚCIE SPÓŁKA KOMANDYTOWA w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-inf-orion-inwestycje-spoka-z-o-o-krakowskie-przedmiescie-spoka-komandytowa-w-2026-r-7`)
+- Ceny ofertowe mieszkań dewelopera Innova Paweł Krawczyk, Grzegorz Krawczyk Spółka Cywilna (`ceny-ofertowe-mieszkan-dewelopera-innova-pawe-krawczyk-grzegorz-krawczyk-spoka-cywilna-2`)
+- Ceny ofertowe mieszkań dewelopera K i K Kulka Development 1 spółka z ograniczoną odpowiedzialnością w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-k-i-k-kulka-development-1-spoka-z-ograniczona-odpowiedzialnoscia-w-2026-r-4`)
+- Ceny ofertowe mieszkań dewelopera LW Development 9 Sp. z o.o. w 2025 roku (`ceny-ofertowe-mieszkan-dewelopera-lw-development-9-sp-z-oo-w-2025-roku-4`)
+- Ceny ofertowe mieszkań dewelopera LW Development 9 Sp. z o.o. w 2025 roku (`ceny-ofertowe-mieszkan-dewelopera-lw-development-9-sp-z-oo-w-2025-roku-5`)
+- Ceny ofertowe mieszkań dewelopera LW Development 9 Sp. z o.o. w 2025 roku (`ceny-ofertowe-mieszkan-dewelopera-lw-development-9-sp-z-oo-w-2025-roku-6`)
+- Ceny ofertowe mieszkań dewelopera MB DEVELOPMENT Mariusz Będkowski (`ceny-ofertowe-mieszkan-dewelopera-mb-development-mariusz-bedkowski-4`)
+- Ceny ofertowe mieszkań dewelopera MB DEVELOPMENT Mariusz Będkowski (`ceny-ofertowe-mieszkan-dewelopera-mb-development-mariusz-bedkowski-5`)
+- …and 76 more
+
+### State changes (153)
+- Accessi esterni (`accessi-esterni-23`) — FAILING → VERIFIED
+- Afvalcontainer Arnhem (`afvalcontainer-arnhem`) — FAILING → VERIFIED
+- All Island River Catchments (`all-island-river-catchments`) — FAILING → VERIFIED
+- Ammonium Concentration in Irish Waters 2007 - 2009 (`ammonium-concentration-in-irish-waters-2007-2009`) — FAILING → VERIFIED
+- Ancient and Long-established Woodland Inventory 2010 (`ancient-and-long-established-woodland-inventory-2010-2`) — FAILING → VERIFIED
+- Aree di circolazione pedonale (`aree-di-circolazione-pedonale-21`) — FAILING → VERIFIED
+- Aree di circolazione veicolare (`aree-di-circolazione-veicolare-7`) — VERIFIED → FAILING
+- Arvoredo (`arvoredo`) — FAILING → VERIFIED
+- Atlantic Marine Energy Test Site (AMETS) Marker Points (`atlantic-marine-energy-test-site-amets-marker-points`) — FAILING → VERIFIED
+- Bathing Water Compliance (`bathing-water-compliance`) — FAILING → VERIFIED
+- Bestemmingsplannen in procedure Arnhem (`bestemmingsplannen-in-procedure-arnhem`) — FAILING → VERIFIED
+- Bestemmingsplannen vigerend Arnhem (`bestemmingsplannen-vigerend-arnhem`) — FAILING → VERIFIED
+- Bodemonderzoeken Arnhem (`bodemonderzoeken-arnhem`) — FAILING → VERIFIED
+- Bomenkaart Arnhem (`bomenkaart-arnhem`) — FAILING → VERIFIED
+- Catchment Projects (`catchment-projects`) — FAILING → VERIFIED
+- Communes raccordées au gaz (`communes-raccordees-au-gaz`) — VERIFIED → FAILING
+- Consumo de Água (Grandes Consumidores) (`consumo-de-agua-grandes-consumidores`) — FAILING → VERIFIED
+- Corine Landcover 2000 Revised (`corine-landcover-2000-revised`) — FAILING → VERIFIED
+- Corine Landcover 2006 Revised (`corine-landcover-2006-revised`) — FAILING → VERIFIED
+- Corine Landcover Change 2006 - 2012 (`corine-landcover-change-2006-2012`) — FAILING → VERIFIED
+- CSW Geokatalog Kreis Mettmann (`csw-geokatalog-kreis-mettmann`) — FAILING → VERIFIED
+- Designated Bathing Water Locations (`designated-bathing-water-locations`) — FAILING → VERIFIED
+- Dumping at Sea Chemical Monitoring Points (`dumping-at-sea-chemical-monitoring-points`) — FAILING → VERIFIED
+- Ejendomme ejet af Aarhus Havn (`ejendomme-ejet-af-aarhus-havn`) — FAILING → VERIFIED
+- Environmental Protection Agency Remedial Action List (`environmental-protection-agency-remedial-action-list`) — FAILING → VERIFIED
+- …and 128 more
+
 ## 2026-07-17
 
 ### Added (84)

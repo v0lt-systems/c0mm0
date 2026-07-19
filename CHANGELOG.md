@@ -2,6 +2,68 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-07-19
+
+### Added (365)
+- Οικισμοί (`-196`)
+- 03_Biodiversity (MapServer) (`03biodiversity-mapserver`)
+- Acesso a dados registados no Gestor de Eventos - ePortugal (`acesso-a-dados-registados-no-gestor-de-eventos-eportugal-14`)
+- Agglo - Mesures mobilité (linéaires) (`agglo-mesures-mobilite-lineaires`)
+- Analysis climatique 2020 - Vitesse et direction du vent nocturne, résolution 10m, 1981-2010 (`analysis-climatique-2020-vitesse-et-direction-du-vent-nocturne-resolution-10m-1981-2010`)
+- Andenne (`andenne`)
+- Áreas recreativas del Principado de Asturias (`areas-recreativas-del-principado-de-asturias`)
+- Asignaturas de las Titulaciones de la Universidad de Extremadura 2024-2025 (`asignaturas-de-las-titulaciones-de-la-universidad-de-extremadura-2024-2025`)
+- Base Cartográfica de Andalucía 1:10.000 (BCA10) (`base-cartografica-de-andalucia-110000-bca10`)
+- Base de datos EIDOS (`base-de-datos-eidos`)
+- Bâtiments 3D projets (`batiments-3d-projets`)
+- BEP (`bep`)
+- Deutsche Bundesbank — ATM, OTC and POS terminal transactions (BBZVS08) (`bundesbank-atm-otc-and-pos-terminal-transactions-bbzvs08`)
+- Deutsche Bundesbank — AUSTA - Banks in Germany (BBBEK1) (`bundesbank-austa-banks-in-germany-bbbek1`)
+- Deutsche Bundesbank — AUSTA - Consolidated Groups (BBBEK4) (`bundesbank-austa-consolidated-groups-bbbek4`)
+- Deutsche Bundesbank — AUSTA - Foreign branches (BBBEK2) (`bundesbank-austa-foreign-branches-bbbek2`)
+- Deutsche Bundesbank — AUSTA - Foreign subsidiaries (BBBEK3) (`bundesbank-austa-foreign-subsidiaries-bbbek3`)
+- Deutsche Bundesbank — Balance of payments (publication level) (BBFBOPV) (`bundesbank-balance-of-payments-publication-level-bbfbopv`)
+- Deutsche Bundesbank — Bank Lending Survey (BBBU2) (`bundesbank-bank-lending-survey-bbbu2`)
+- Deutsche Bundesbank — Bankenstatistik, EWU, Geldmengenaggregate (Veröffentlichungsebene) (BBBS2) (`bundesbank-bankenstatistik-ewu-geldmengenaggregate-veroffentlichungsebene-bbbs2`)
+- Deutsche Bundesbank — Bargeld Zeitreihen für Grafiker (BBTHB) (`bundesbank-bargeld-zeitreihen-fur-grafiker-bbthb`)
+- Deutsche Bundesbank — BBK01 time series general (BBK10) (`bundesbank-bbk01-time-series-general-bbk10`)
+- Deutsche Bundesbank — BSI - Banks in Germany (MFI and non-MFI credit institutions) (BBBK1) (`bundesbank-bsi-banks-in-germany-mfi-and-non-mfi-credit-institutions-bbbk1`)
+- Deutsche Bundesbank — BSI - Borrowers statistics (MFI) (BBBK3) (`bundesbank-bsi-borrowers-statistics-mfi-bbbk3`)
+- Deutsche Bundesbank — BSI - Building and loan associations (MFI) (BBBK2) (`bundesbank-bsi-building-and-loan-associations-mfi-bbbk2`)
+- …and 340 more
+
+### Removed (2)
+- Live Births (`live-births`)
+- Public Sector Facility Time Publication (`public-sector-facility-time-publication-1`)
+
+### State changes (59)
+- ΚΕΝΤΡΟ ΥΠΟΔΟΧΗΣ & ΑΛΛΗΛΕΓΓΥΗΣ ΔΗΜΟΥ ΑΘΗΝΑΙΩΝ (`-29`) — VERIFIED → FAILING
+- Δημοτικές Κοινότητες Δήμου Αθηναίων (`-40`) — VERIFIED → FAILING
+- Ταχυδρομικοί Κώδικες στο Δήμο Αθηναίων (`-52`) — VERIFIED → FAILING
+- Περιφέρεια Αττικής - Δήμοι (`-53`) — VERIFIED → FAILING
+- Γραμμές Τραμ (`-54`) — VERIFIED → FAILING
+- Αριθμοί Οικοδομικών Τετραγώνων (`-62`) — VERIFIED → FAILING
+- Πινακίδες Πολεοδομίας 1:500 (`1500`) — VERIFIED → FAILING
+- ΓΠΣ Χρήσεις Γης - ΦΕΚ80Δ/88 και τροποποιήσεις (`8088-1`) — VERIFIED → FAILING
+- Aldeias de Montanha (`aldeias-de-montanha`) — FAILING → UNVERIFIED
+- Aldeias de Xisto (`aldeias-de-xisto`) — FAILING → UNVERIFIED
+- Aldeias Históricas (`aldeias-historicas`) — FAILING → UNVERIFIED
+- Aldeias Vinhateiras (`aldeias-vinhateiras`) — FAILING → UNVERIFIED
+- ALKIS - ausgewählte Daten Hamburg (`alkis-ausgewahlte-daten-hamburg`) — VERIFIED → FAILING
+- Altares Marianos (`altares-marianos`) — FAILING → UNVERIFIED
+- API Mir@bel (revues) (`api-mirbel-revues`) — FAILING → UNVERIFIED
+- Aree di circolazione veicolare (`aree-di-circolazione-veicolare-7`) — FAILING → VERIFIED
+- BI-API (`bi-api`) — FAILING → UNVERIFIED
+- Caminhos de Fátima (`caminhos-de-fatima`) — FAILING → UNVERIFIED
+- Caminhos de Santiago (`caminhos-de-santiago`) — FAILING → UNVERIFIED
+- Centros BTT (`centros-btt`) — FAILING → UNVERIFIED
+- Crime and Anti-social Behaviour (ASB) (`crime-and-anti-social-behaviour-asb`) — VERIFIED → FAILING
+- Data on the provision of data from Infostatyba to the Topography and Engineering Infrastructure Information System (`data-on-the-provision-of-data-from-infostatyba-to-the-topography-and-engineering-infrastructure-information-system`) — VERIFIED → FAILING
+- Denumiri geografice pentru teritoriul României (`denumiri-geografice-pentru-teritoriul-romaniei`) — VERIFIED → FAILING
+- Ecopistas Cycling (`ecopistas-cycling`) — FAILING → UNVERIFIED
+- Ecopistas Walking (`ecopistas-walking`) — FAILING → UNVERIFIED
+- …and 34 more
+
 ## 2026-07-18
 
 ### Added (101)

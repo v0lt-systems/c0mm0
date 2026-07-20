@@ -2,6 +2,67 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-07-20
+
+### Added (254)
+- Accessi esterni (`accessi-esterni-26`)
+- Accessi esterni (`accessi-esterni-27`)
+- Accessi interno (`accessi-interno-4`)
+- Acesso a dados registados no Gestor de Eventos - ePortugal (`acesso-a-dados-registados-no-gestor-de-eventos-eportugal-15`)
+- Acesso a dados registados no Gestor de Eventos - ePortugal (`acesso-a-dados-registados-no-gestor-de-eventos-eportugal-16`)
+- Agglo - Atlas culturel transfrontalier (`agglo-atlas-culturel-transfrontalier`)
+- Agglo - Couverture du sol périmètre par analysis spectrale (basse) (`agglo-couverture-du-sol-perimetre-par-analysis-spectrale-basse`)
+- AGGLO - Divisions administratives au milieu du XVIIIè siècle (`agglo-divisions-administratives-au-milieu-du-xviiie-siecle`)
+- AGGLO - Saboia carolingienne (`agglo-saboia-carolingienne`)
+- AGGLO - Situation au début de l'Empire romain (`agglo-situation-au-debut-de-lempire-romain-1`)
+- AGGLO - Situation de 1567 à 1601 (`agglo-situation-de-1567-a-1601`)
+- Agglo - Structure urbaine (infra-communale) (`agglo-structure-urbaine-infra-communale`)
+- Aktuelle Verkehrsinformationen Polizei Hamburg (`aktuelle-verkehrsinformationen-polizei-hamburg`)
+- Allgemeiner Sozialer Dienst (ASD) Hamburg (`allgemeiner-sozialer-dienst-asd-hamburg`)
+- Analysis climatique 2020 - Vitesse et direction du vent nocturne, résolution 10m, 2020-2049 (`analysis-climatique-2020-vitesse-et-direction-du-vent-nocturne-resolution-10m-2020-2049`)
+- Analysis climatique 2020 - Vitesse et direction du vent nocturne, résolution 10m, 2045-2074 (`analysis-climatique-2020-vitesse-et-direction-du-vent-nocturne-resolution-10m-2045-2074`)
+- Analysis climatique 2020 - Vitesse et direction du vent nocturne, résolution 10m, 2070-2099 (`analysis-climatique-2020-vitesse-et-direction-du-vent-nocturne-resolution-10m-2070-2099`)
+- Arco Verde (`arco-verde-1`)
+- Area stradale (`area-stradale-27`)
+- Area stradale (`area-stradale-28`)
+- Áreas críticas frente al cambio climático: Fijación anual de dióxido de carbono (`areas-criticas-frente-al-cambio-climatico-fijacion-anual-de-dioxido-de-carbono`)
+- Aree di circolazione ciclabili (`aree-di-circolazione-ciclabili-23`)
+- Arten- und Biotopschutz - AuBS (ehem. APRO) (`arten-und-biotopschutz-aubs-ehem-apro`)
+- Basement Technical Cadastre (CTSS) - Geotechnical Point (`basement-technical-cadastre-ctss-geotechnical-point`)
+- Basement Technical Cadastre (CTSS) - Various points (`basement-technical-cadastre-ctss-various-points`)
+- …and 229 more
+
+### Removed (1)
+- Metas nacionais e europeias de redução de emissões de GEE (`metas-nacionais-e-europeias-de-reducao-de-emissoes-de-gee`)
+
+### State changes (90)
+- ΚΕΝΤΡΟ ΥΠΟΔΟΧΗΣ & ΑΛΛΗΛΕΓΓΥΗΣ ΔΗΜΟΥ ΑΘΗΝΑΙΩΝ (`-29`) — FAILING → VERIFIED
+- Δημοτικές Κοινότητες Δήμου Αθηναίων (`-40`) — FAILING → VERIFIED
+- Ταχυδρομικοί Κώδικες στο Δήμο Αθηναίων (`-52`) — FAILING → VERIFIED
+- Περιφέρεια Αττικής - Δήμοι (`-53`) — FAILING → VERIFIED
+- Γραμμές Τραμ (`-54`) — FAILING → VERIFIED
+- Αριθμοί Οικοδομικών Τετραγώνων (`-62`) — FAILING → VERIFIED
+- Πινακίδες Πολεοδομίας 1:500 (`1500`) — FAILING → VERIFIED
+- ΓΠΣ Χρήσεις Γης - ΦΕΚ80Δ/88 και τροποποιήσεις (`8088-1`) — FAILING → VERIFIED
+- AML — Telemetria e Alertas (dados de demonstração / temporário) (`aml-telemetria-e-alertas-dados-de-demonstracao-temporario`) — FAILING → VERIFIED
+- Arvoredo (`arvoredo`) — VERIFIED → FAILING
+- Deutsche Bundesbank — AUSTA - Banks in Germany (BBBEK1) (`bundesbank-austa-banks-in-germany-bbbek1`) — UNVERIFIED → VERIFIED
+- Deutsche Bundesbank — AUSTA - Consolidated Groups (BBBEK4) (`bundesbank-austa-consolidated-groups-bbbek4`) — UNVERIFIED → VERIFIED
+- Deutsche Bundesbank — AUSTA - Foreign branches (BBBEK2) (`bundesbank-austa-foreign-branches-bbbek2`) — UNVERIFIED → VERIFIED
+- Deutsche Bundesbank — AUSTA - Foreign subsidiaries (BBBEK3) (`bundesbank-austa-foreign-subsidiaries-bbbek3`) — UNVERIFIED → VERIFIED
+- Deutsche Bundesbank — Balance of payments (publication level) (BBFBOPV) (`bundesbank-balance-of-payments-publication-level-bbfbopv`) — UNVERIFIED → VERIFIED
+- Deutsche Bundesbank — Bank Lending Survey (BBBU2) (`bundesbank-bank-lending-survey-bbbu2`) — UNVERIFIED → VERIFIED
+- Deutsche Bundesbank — Bankenstatistik, EWU, Geldmengenaggregate (Veröffentlichungsebene) (BBBS2) (`bundesbank-bankenstatistik-ewu-geldmengenaggregate-veroffentlichungsebene-bbbs2`) — UNVERIFIED → VERIFIED
+- Deutsche Bundesbank — BBK01 time series general (BBK10) (`bundesbank-bbk01-time-series-general-bbk10`) — UNVERIFIED → VERIFIED
+- Deutsche Bundesbank — BSI - Banks in Germany (MFI and non-MFI credit institutions) (BBBK1) (`bundesbank-bsi-banks-in-germany-mfi-and-non-mfi-credit-institutions-bbbk1`) — UNVERIFIED → VERIFIED
+- Deutsche Bundesbank — BSI - Borrowers statistics (MFI) (BBBK3) (`bundesbank-bsi-borrowers-statistics-mfi-bbbk3`) — UNVERIFIED → VERIFIED
+- Deutsche Bundesbank — BSI - Building and loan associations (MFI) (BBBK2) (`bundesbank-bsi-building-and-loan-associations-mfi-bbbk2`) — UNVERIFIED → VERIFIED
+- Deutsche Bundesbank — BSI, ECB - historical time series (BBBK20) (`bundesbank-bsi-ecb-historical-time-series-bbbk20`) — UNVERIFIED → FAILING
+- Deutsche Bundesbank — BSI - Foreign branchess (MFI and non-MFI credit institutions) (BBBK5) (`bundesbank-bsi-foreign-branchess-mfi-and-non-mfi-credit-institutions-bbbk5`) — UNVERIFIED → VERIFIED
+- Deutsche Bundesbank — BSI - Foreign subsidiaries (MFI) (BBBK6) (`bundesbank-bsi-foreign-subsidiaries-mfi-bbbk6`) — UNVERIFIED → VERIFIED
+- Deutsche Bundesbank — BSI - Multi-office banks (MFI and non-MFI credit institutions) (BBBK4) (`bundesbank-bsi-multi-office-banks-mfi-and-non-mfi-credit-institutions-bbbk4`) — UNVERIFIED → VERIFIED
+- …and 65 more
+
 ## 2026-07-19
 
 ### Added (365)

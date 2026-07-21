@@ -2,6 +2,92 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-07-21
+
+### Added (205)
+- Accessi interno (`accessi-interno-3`)
+- AGGLO - Zones franches (`agglo-zones-franches`)
+- Angebote und Nutzung der Jugendsozialarbeit Hamburg (`angebote-und-nutzung-der-jugendsozialarbeit-hamburg`)
+- Anteile Kinder mit nicht-deutscher Familiensprache in Kitas Hamburg (`anteile-kinder-mit-nicht-deutscher-familiensprache-in-kitas-hamburg`)
+- API OpenData EDF https://opendata.edf.fr (`api-opendata-edf-httpsopendataedffr-1`)
+- Archeodromo con zona di ampliamento (anno 2025) (`archeodromo-con-zona-di-ampliamento-anno-2025`)
+- Area stradale (`area-stradale-29`)
+- Aree di circolazione ciclabili (`aree-di-circolazione-ciclabili-22`)
+- Aree di circolazione pedonale (`aree-di-circolazione-pedonale-25`)
+- Aree di circolazione pedonale (`aree-di-circolazione-pedonale-26`)
+- Aree di circolazione veicolare (`aree-di-circolazione-veicolare-26`)
+- Aree di circolazione veicolare (`aree-di-circolazione-veicolare-27`)
+- Autobahnkilometrierung Hamburg (`autobahnkilometrierung-hamburg`)
+- Basement Technical Cadastre (CTSS) - Heating Probe Areas (`basement-technical-cadastre-ctss-heating-probe-areas`)
+- Begegnungsstätten Assistenz in der Sozialpsychiatrie Hamburg (`begegnungsstatten-assistenz-in-der-sozialpsychiatrie-hamburg`)
+- Beratung zur Kindertagesbetreuung und Kindertagespflege Hamburg (`beratung-zur-kindertagesbetreuung-und-kindertagespflege-hamburg`)
+- Beratungsstellen für kommunale Leistungen nach § 16 a SGB II Hamburg (`beratungsstellen-fur-kommunale-leistungen-nach-16-a-sgb-ii-hamburg`)
+- Bevölkerungsprognosen in Hamburg (`bevolkerungsprognosen-in-hamburg`)
+- Bike + Ride Anlagen Hamburg (`bike-ride-anlagen-hamburg`)
+- Bodenformengesellschaften Hamburg (`bodenformengesellschaften-hamburg`)
+- Caba Kraków,  ul. Dobrego Pasterza 53 (`caba-krakow-ul-dobrego-pasterza-53-6`)
+- Caba Kraków,  ul. Dobrego Pasterza 53 (`caba-krakow-ul-dobrego-pasterza-53-7`)
+- Caba Kraków,  ul. Dobrego Pasterza 53 (`caba-krakow-ul-dobrego-pasterza-53-8`)
+- Caba Kraków, ul. Macieja Słomczyńskiego 1 (`caba-krakow-ul-macieja-somczynskiego-1-7`)
+- Caba Kraków, ul. Macieja Słomczyńskiego 1 (`caba-krakow-ul-macieja-somczynskiego-1-8`)
+- …and 180 more
+
+### Removed (1485)
+- Реєстр наборів даних, що перебувають у володінні Департаменту інвестиційної політики, проєктів, міжнародних зв'язків, туризму та промоцій міста Івано-Франківської міської ради (``)
+- Реєстр наборів даних, що перебувають у володінні Департаменту забезпечення ресурсних платежів Сумської міської ради (`-1`)
+- Χάρτης Δορυφορικές Εικόνες της Κρήτης (`-10`)
+- Σχολικό Δίκτυο καταγραφής βροχοπτώσεων (`-11`)
+- Управління транспорту та зв'язку Івано-Франківської міської ради (`-12`)
+- Адміністративні дані в значенні Закону України "Про державну статистику", що збираються (обробляються) та підлягають оприлюдненню відповідно до вимог закону розпорядником інформації (`-13`)
+- ΑΡΧΕΙΑ ΔΗΜΟΣΙΟΥ ΚΑΙ ΕΥΡΥΤΕΡΟΥ ΔΗΜΟΣΙΟΥ ΤΟΜΕΑ. ΓΑΚ ΚΑΣΤΟΡΙΑΣ (`-14`)
+- Αρχείο των δικαιολογητικών που απαιτούνται για την εκτέλεση των διαδικασιών που εκτελούν τα ΚΕΠ & σχετική νομολογία (`-15`)
+- Αρχείο των δικαιολογητικών που απαιτούνται για την εκτέλεση των διαδικασιών που εκτελούν τα ΚΕΠ & σχετική νομολογία (`-16`)
+- Στατιστικά στοιχεία Φαρμακείων (`-17`)
+- Στατιστικά Στοιχεία Υγειονομικών  Ελέγχων Επιχειρήσεων Υγειονομικού Ενδιαφέροντος (`-18`)
+- Αρχείο των δικαιολογητικών που απαιτούνται για την εκτέλεση των διαδικασιών που εκτελούν τα ΚΕΠ & σχετική νομολογία (`-19`)
+- Αρχείο των δικαιολογητικών που απαιτούνται για την εκτέλεση των διαδικασιών που εκτελούν τα ΚΕΠ & σχετική νομολογία (`-2`)
+- Αρχείο των δικαιολογητικών που απαιτούνται για την εκτέλεση των διαδικασιών που εκτελούν τα ΚΕΠ & σχετική νομολογία (`-20`)
+- Αρχείο διοργάνωσης Εκθέσεων του Τμήματος Κέντρου Ιστορίας Δήμου Θεσσαλονίκης (`-3`)
+- Αρχείο των δικαιολογητικών που απαιτούνται για την εκτέλεση των διαδικασιών που εκτελούν τα ΚΕΠ & σχετική νομολογία (`-4`)
+- ΣΤΑΤΙΣΤΙΚΑ ΤΜΗΜΑΤΟΣ ΚΕΠ (`-5`)
+- Στατιστικά Στοιχεία ακαδημαϊκών ταυτοτήτων φοιτητών – ΠΣ ΑΚΑΔΗΜΑΪΚΗ ΤΑΥΤΟΤΗΤΑ (`-6`)
+- Статистичні дані щодо наданих послуг (організаційні заходи, обслуговування споживачів послуг, пасажироперевезення, інші показники з основних видів діяльності) (`-7`)
+- Αδειοδοτημένες Υδροληψίες της Δ/νσης Υδάτων Κρήτης (`-8`)
+- Πόλεις - Οικισμοί (`-9`)
+- 03_Biodiversity (MapServer) (`03biodiversity-mapserver`)
+- Ενημέρωση κοινού σχετικά με το πρόγραμμα παρακολούθησης της ποιότητας των υδάτων κολύμβησης Περιφέρειας Κρήτης σύμφωνα με την Οδηγία 2006/7/ΕΚ (`20067`)
+- 2011 Census (`2011-census`)
+- 2011 Census QA Pack (`2011-census-qa-pack`)
+- …and 1460 more
+
+### State changes (39)
+- Χώροι πολιτισμού Δήμου Αθηναίων (`-26`) — VERIFIED → FAILING
+- Υδατοπίδακες (`-60`) — VERIFIED → FAILING
+- Κλειστά Γήπεδα (`-61`) — VERIFIED → FAILING
+- Agglo - Atlas culturel transfrontalier (`agglo-atlas-culturel-transfrontalier`) — UNVERIFIED → VERIFIED
+- AML — Telemetria e Alertas (dados de demonstração / temporário) (`aml-telemetria-e-alertas-dados-de-demonstracao-temporario`) — VERIFIED → FAILING
+- Arvoredo (`arvoredo`) — FAILING → VERIFIED
+- Ausgabestellen für Hundekot-Beutel im Stadtgebiet Wesel (`ausgabestellen-fur-hundekot-beutel-im-stadtgebiet-wesel`) — VERIFIED → FAILING
+- Baustellen in Wesel (`baustellen-in-wesel`) — VERIFIED → FAILING
+- Deutsche Bundesbank — Effective Exchange Rates (BBEE1) (`bundesbank-effective-exchange-rates-bbee1`) — VERIFIED → FAILING
+- Cobertura da Rede Móvel de Comunicações Eletrónicas (`cobertura-da-rede-movel-de-comunicacoes-eletronicas`) — VERIFIED → FAILING
+- Denumiri geografice pentru teritoriul României (`denumiri-geografice-pentru-teritoriul-romaniei`) — VERIFIED → FAILING
+- ESpacios Productivos de ANDalucía (ESPAND) (`espacios-productivos-de-andalucia-espand`) — FAILING → UNVERIFIED
+- Estadísticas de Población de Andalucía Basadas en Registros Administrativos (EPABRA) (`estadisticas-de-poblacion-de-andalucia-basadas-en-registros-administrativos-epabra`) — VERIFIED → UNVERIFIED
+- Estructuras locales para la igualdad de mujeres y hombres en Bizkaia (`estructuras-locales-para-la-igualdad-de-mujeres-y-hombres-en-bizkaia`) — VERIFIED → UNVERIFIED
+- Fahrradservicepunkte in Wesel (`fahrradservicepunkte-in-wesel`) — VERIFIED → FAILING
+- Gedenkstätten in Wesel (`gedenkstatten-in-wesel`) — VERIFIED → FAILING
+- Horsham District Council Listed Buildings (`horsham-district-council-listed-buildings`) — VERIFIED → UNVERIFIED
+- Kindertagesstätten in Wesel (`kindertagesstatten-in-wesel`) — VERIFIED → FAILING
+- Lake and TRaC Agriculture Pressures (`lake-and-trac-agriculture-pressures`) — FAILING → VERIFIED
+- LDNPA Tree Preservation Orders (`ldnpa-tree-preservation-orders`) — FAILING → VERIFIED
+- Mapa topográfico ráster de Andalucía 1:10.000 (2013) (`mapa-topografico-raster-de-andalucia-110000-2013`) — VERIFIED → UNVERIFIED
+- Mapas de ruido de las carreteras forales de Bizkaia (`mapas-de-ruido-de-las-carreteras-forales-de-bizkaia`) — VERIFIED → UNVERIFIED
+- Öffentliche Toiletten in Wesel (`offentliche-toiletten-in-wesel`) — VERIFIED → FAILING
+- Ortoimagini scara 1:5000 pentru teritoriul României (`ortoimagini-scara-15000-pentru-teritoriul-romaniei`) — VERIFIED → FAILING
+- Pistas en Espacios Naturales Protegidos de Bizkaia (`pistas-en-espacios-naturales-protegidos-de-bizkaia`) — VERIFIED → UNVERIFIED
+- …and 14 more
+
 ## 2026-07-20
 
 ### Added (254)

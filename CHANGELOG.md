@@ -2,6 +2,64 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-07-22
+
+### Added (142)
+- Agglo - Gares (`agglo-gares`)
+- Agglo - Sites et objets inscrits (lignes) (`agglo-sites-et-objets-inscrits-lignes`)
+- Agglo - Sites et objets inscrits (surfaces) (`agglo-sites-et-objets-inscrits-surfaces`)
+- Caba Kraków,  ul. Dobrego Pasterza 53 (`caba-krakow-ul-dobrego-pasterza-53-10`)
+- Caba Kraków,  ul. Dobrego Pasterza 53 (`caba-krakow-ul-dobrego-pasterza-53-9`)
+- Caba Kraków, ul. Macieja Słomczyńskiego 1 (`caba-krakow-ul-macieja-somczynskiego-1-10`)
+- Caba Kraków, ul. Macieja Słomczyńskiego 1 (`caba-krakow-ul-macieja-somczynskiego-1-11`)
+- Caba Kraków, ul. Macieja Słomczyńskiego 1 (`caba-krakow-ul-macieja-somczynskiego-1-9`)
+- Cadastre des événements d'inondation étendue (`cadastre-des-evenements-dinondation-etendue`)
+- Campagnes d'étiage (`campagnes-detiage`)
+- Carte hydrogéologique du canton (`carte-hydrogeologique-du-canton`)
+- Ceny ofertowe J.W. Construction Holding S.A. (`ceny-ofertowe-jw-construction-holding-sa-5`)
+- Ceny ofertowe J.W. Construction Holding S.A. (`ceny-ofertowe-jw-construction-holding-sa-6`)
+- Ceny ofertowe lokali mieszkalnych - Wołomin ul. Sikorskiego 71 ABCDE -  2025 rok - Gawbet sc Jerzy i Robert Gawor 05-200 Wołomin ul, Andersa 9 (`ceny-ofertowe-lokali-mieszkalnych-woomin-ul-sikorskiego-71-abcde-2025-rok-gawbet-sc-jerzy-i-robert-gawor-05-200-woomin-ul-andersa-9-6`)
+- Ceny Ofertowe mieszkań Aleksandria II Sp. z o.o. 2025/2026r. (`ceny-ofertowe-mieszkan-aleksandria-ii-sp-z-oo-20252026r-1`)
+- Ceny ofertowe mieszkań dewelopera Apartamenty Świeradowiec Sp. z o.o. w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-apartamenty-swieradowiec-sp-z-oo-w-2026-r-3`)
+- Ceny ofertowe mieszkań dewelopera AQR HOLDING Paweł Karpowicz- Sztamm w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-aqr-holding-pawe-karpowicz-sztamm-w-2026-r-5`)
+- Ceny ofertowe mieszkań dewelopera AQR HOLDING Paweł Karpowicz- Sztamm w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-aqr-holding-pawe-karpowicz-sztamm-w-2026-r-6`)
+- Ceny ofertowe mieszkań dewelopera B6 Sp. z o.o. (`ceny-ofertowe-mieszkan-dewelopera-b6-sp-z-oo-1`)
+- Ceny ofertowe mieszkań dewelopera Deweler Lalewicz, Róg Spółka Jawna w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-deweler-lalewicz-rog-spoka-jawna-w-2026-r-5`)
+- Ceny ofertowe mieszkań dewelopera Deweler Lalewicz, Róg Spółka Jawna w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-deweler-lalewicz-rog-spoka-jawna-w-2026-r-6`)
+- Ceny ofertowe mieszkań dewelopera Double Royal Residence spółka z ograniczona odpowiedzialnością w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-double-royal-residence-spoka-z-ograniczona-odpowiedzialnoscia-w-2026-r-2`)
+- Ceny ofertowe mieszkań dewelopera Ecoinwest Sp. z o.o. w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-ecoinwest-sp-z-oo-w-2026-r-5`)
+- Ceny ofertowe mieszkań dewelopera ESTATES sp. z o. o. - inwestycja Apartamenty Żerniki (`ceny-ofertowe-mieszkan-dewelopera-estates-sp-z-o-o-inwestycja-apartamenty-zerniki-1`)
+- Ceny ofertowe mieszkań dewelopera FHU INSTALACJE DOMOWE RAFAŁ KUBICKI (`ceny-ofertowe-mieszkan-dewelopera-fhu-instalacje-domowe-rafa-kubicki-10`)
+- …and 117 more
+
+### State changes (81)
+- Περιφέρεια Αττικής - Ενότητες (`-25`) — VERIFIED → FAILING
+- Συνοικίες Δήμου Αθηναίων (`-34`) — VERIFIED → FAILING
+- Υδατοπίδακες (`-60`) — FAILING → VERIFIED
+- Κλειστά Γήπεδα (`-61`) — FAILING → VERIFIED
+- Accessi esterni (`accessi-esterni-23`) — VERIFIED → FAILING
+- Aeroporturile principale din România (art. 7 dIn Directiva 2002/49/CE) (`aeroporturile-principale-din-romania-art-7-din-directiva-200249ce`) — VERIFIED → FAILING
+- Agrégats segmentés de consommation électrique au pas 1/2 h des points de soutirage <= 36kVA – Maille nationale (`agrgats-segments-de-consommation-lectrique-au-pas-12-h-des-points-de-soutirage-36kva-maille-nationale-2`) — VERIFIED → STALE
+- Aires de fitness - CA Saint-Quentin-en-Yvelines (`aires-de-fitness-ca-saint-quentin-en-yvelines`) — VERIFIED → STALE
+- API BDM (`api-bdm`) — VERIFIED → STALE
+- API Bulletin officiel des annonces civiles et commerciales (BODACC) (`api-bulletin-officiel-des-annonces-civiles-et-commerciales-bodacc`) — VERIFIED → STALE
+- API Bulletin officiel des annonces des marchés publics (BOAMP) (`api-bulletin-officiel-des-annonces-des-marches-publics-boamp`) — VERIFIED → STALE
+- API CaptchEtat (`api-captchetat`) — VERIFIED → STALE
+- API Gallica Document (`api-gallica-document`) — VERIFIED → STALE
+- API Géoplateforme - Diffusion de tuiles vectorielles TMS (`api-geoplateforme-diffusion-de-tuiles-vectorielles-tms`) — VERIFIED → STALE
+- API Judilibre (`api-judilibre`) — VERIFIED → STALE
+- API Métadonnées (`api-metadonnees`) — VERIFIED → STALE
+- API Mobilic (`api-mobilic`) — VERIFIED → STALE
+- API Métadonnées (`api-mtadonnes-2`) — VERIFIED → STALE
+- API Recherche des personnes physiques (R2P) (`api-recherche-des-personnes-physiques-r2p`) — VERIFIED → STALE
+- API Tourisme France Évasion Régions (`api-tourisme-france-evasion-regions`) — VERIFIED → STALE
+- API Tracabilité des déchets dangereux - Trackdéchets (`api-tracabilite-des-dechets-dangereux-trackdechets`) — VERIFIED → STALE
+- Arco Verde (`arco-verde-1`) — VERIFIED → UNVERIFIED
+- Aree di circolazione pedonale (`aree-di-circolazione-pedonale-26`) — VERIFIED → FAILING
+- Base Adresse Locale (BAL) sur le territoire de Saintes Grandes Rives, l'Agglo (`base-adresse-locale-bal-sur-le-territoire-de-saintes-grandes-rives-lagglo`) — VERIFIED → STALE
+- Baumkataster des ASG Wesel (`baumkataster-des-asg-wesel`) — VERIFIED → FAILING
+- …and 56 more
+
 ## 2026-07-21
 
 ### Added (205)

@@ -2,6 +2,64 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-07-23
+
+### Added (223)
+- Activité, emploi et chômage - résultats annuels 2025 (`activite-emploi-et-chomage-resultats-annuels-2025`)
+- Activité, emploi et chômage - séries longues (`activite-emploi-et-chomage-series-longues`)
+- Agglo - Mesures mobilité (surfaciques) (`agglo-mesures-mobilite-surfaciques`)
+- Bâtiments Ceard (1837-1840) (`batiments-ceard-1837-1840`)
+- Caba Kraków,  ul. Dobrego Pasterza 53 (`caba-krakow-ul-dobrego-pasterza-53-11`)
+- Caba Kraków,  ul. Dobrego Pasterza 53 (`caba-krakow-ul-dobrego-pasterza-53-12`)
+- Caba Kraków,  ul. Dobrego Pasterza 53 (`caba-krakow-ul-dobrego-pasterza-53-13`)
+- Caba Kraków, ul. Macieja Słomczyńskiego 1 (`caba-krakow-ul-macieja-somczynskiego-1-12`)
+- Caba Kraków, ul. Macieja Słomczyńskiego 1 (`caba-krakow-ul-macieja-somczynskiego-1-13`)
+- Caractéristiques de l'emploi - Principaux indicateurs (dossier complet) (`caracteristiques-de-lemploi-principaux-indicateurs-dossier-complet`)
+- Caractéristiques des résidences principales selon la PCS de la personne de référence - Données détaillées (PRINC 15) (`caracteristiques-des-residences-principales-selon-la-pcs-de-la-personne-de-reference-donnees-detaillees-princ-15`)
+- Ceny ofertowe J.W. Construction Holding S.A. (`ceny-ofertowe-jw-construction-holding-sa-7`)
+- Ceny ofertowe J.W. Construction Holding S.A. (`ceny-ofertowe-jw-construction-holding-sa-8`)
+- Ceny ofertowe lokali mieszkalnych - Wołomin ul. Sikorskiego 71 ABCDE -  2025 rok - Gawbet sc Jerzy i Robert Gawor 05-200 Wołomin ul, Andersa 9 (`ceny-ofertowe-lokali-mieszkalnych-woomin-ul-sikorskiego-71-abcde-2025-rok-gawbet-sc-jerzy-i-robert-gawor-05-200-woomin-ul-andersa-9-7`)
+- Ceny ofertowe mieszkań dewelopera Apartamenty Świeradowiec Sp. z o.o. w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-apartamenty-swieradowiec-sp-z-oo-w-2026-r-4`)
+- Ceny ofertowe mieszkań dewelopera Betpol Dzikiej Gęsi w 2025 r. (`ceny-ofertowe-mieszkan-dewelopera-betpol-dzikiej-gesi-w-2025-r-1`)
+- Ceny ofertowe mieszkań dewelopera B.J.D. sp. z o.o.  w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-bjd-sp-z-oo-w-2026-r-6`)
+- Ceny ofertowe mieszkań dewelopera B.J.D. sp. z o.o.  w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-bjd-sp-z-oo-w-2026-r-7`)
+- Ceny ofertowe mieszkań dewelopera B.J.D. sp. z o.o.  w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-bjd-sp-z-oo-w-2026-r-9`)
+- Ceny ofertowe mieszkań dewelopera Deweler Lalewicz, Róg Spółka Jawna w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-deweler-lalewicz-rog-spoka-jawna-w-2026-r-7`)
+- Ceny ofertowe mieszkań dewelopera Deweler Lalewicz, Róg Spółka Jawna w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-deweler-lalewicz-rog-spoka-jawna-w-2026-r-8`)
+- Ceny ofertowe mieszkań dewelopera DOMLUBLIN Mariusz Wlaszczyk w 2025 r. (`ceny-ofertowe-mieszkan-dewelopera-domlublin-mariusz-wlaszczyk-w-2025-r-5`)
+- Ceny ofertowe mieszkań dewelopera DOMLUBLIN Mariusz Wlaszczyk w 2025 r. (`ceny-ofertowe-mieszkan-dewelopera-domlublin-mariusz-wlaszczyk-w-2025-r-6`)
+- Ceny ofertowe mieszkań dewelopera Ecoinwest Sp. z o.o. w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-ecoinwest-sp-z-oo-w-2026-r-6`)
+- Ceny ofertowe mieszkań dewelopera Ecoinwest Sp. z o.o. w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-ecoinwest-sp-z-oo-w-2026-r-7`)
+- …and 198 more
+
+### State changes (149)
+- Περιφέρεια Αττικής - Ενότητες (`-25`) — FAILING → VERIFIED
+- Χώροι πολιτισμού Δήμου Αθηναίων (`-26`) — FAILING → VERIFIED
+- Συνοικίες Δήμου Αθηναίων (`-34`) — FAILING → VERIFIED
+- Agrégats segmentés de consommation électrique au pas 1/2 h des points de soutirage <= 36kVA – Maille nationale (`agrgats-segments-de-consommation-lectrique-au-pas-12-h-des-points-de-soutirage-36kva-maille-nationale-2`) — STALE → VERIFIED
+- Agrégats segmentés de consommation électrique au pas 1/2 h des points de soutirage > 36kVA – Maille régionale (`agrgats-segments-de-consommation-lectrique-au-pas-12-h-des-points-de-soutirage-36kva-maille-rgionale-2`) — VERIFIED → STALE
+- Aires de fitness - CA Saint-Quentin-en-Yvelines (`aires-de-fitness-ca-saint-quentin-en-yvelines`) — STALE → VERIFIED
+- ALKIS - ausgewählte Daten Hamburg (`alkis-ausgewahlte-daten-hamburg`) — FAILING → VERIFIED
+- API Aides Territoires (`api-aides-territoires`) — VERIFIED → STALE
+- API Attestation de vigilance - Urssaf | Bouquet API Entreprise (`api-attestation-de-vigilance-urssaf-bouquet-api-entreprise`) — VERIFIED → STALE
+- API Attestation fiscale - DGFIP | Bouquet API Entreprise (`api-attestation-fiscale-dgfip-bouquet-api-entreprise`) — VERIFIED → STALE
+- API BDM (`api-bdm`) — STALE → VERIFIED
+- API Bulletin officiel des annonces civiles et commerciales (BODACC) (`api-bulletin-officiel-des-annonces-civiles-et-commerciales-bodacc`) — STALE → VERIFIED
+- API Bulletin officiel des annonces des marchés publics (BOAMP) (`api-bulletin-officiel-des-annonces-des-marches-publics-boamp`) — STALE → VERIFIED
+- API CaptchEtat (`api-captchetat`) — STALE → VERIFIED
+- API Certificat cotisations congés pays et chômage intempéries - CIBTP | Bouquet API Entreprise (`api-certificat-cotisations-conges-pays-et-chomage-intemperies-cibtp-bouquet-api-entreprise`) — VERIFIED → STALE
+- API Conformité cotisations de sécurité sociale agricole - MSA | Bouquet API Entreprise (`api-conformite-cotisations-de-securite-sociale-agricole-msa-bouquet-api-entreprise`) — VERIFIED → STALE
+- API Conformité cotisations retraite complémentaire - ProBTP | Bouquet API Entreprise (`api-conformite-cotisations-retraite-complementaire-probtp-bouquet-api-entreprise`) — VERIFIED → STALE
+- API contrôle CVEC (contribution de vie étudiante) (`api-controle-cvec-contribution-de-vie-etudiante`) — VERIFIED → STALE
+- API de manipulation de données de SIGLOIRE (`api-de-manipulation-de-donnees-de-sigloire`) — VERIFIED → STALE
+- API Découpage Administratif - (API Geo) (`api-decoupage-administratif-api-geo`) — VERIFIED → STALE
+- API ECLAIRE (`api-eclaire`) — VERIFIED → STALE
+- API Ecobalyse - impacts environnementaux des produits textiles (`api-ecobalyse-impacts-environnementaux-des-produits-textiles`) — VERIFIED → STALE
+- API Effectifs annuels d'une unité légale - GIP MDS | Bouquet API Entreprise (`api-effectifs-annuels-dune-unite-legale-gip-mds-bouquet-api-entreprise`) — VERIFIED → STALE
+- API Export des Données de theses.fr (`api-export-des-donnees-de-thesesfr`) — VERIFIED → STALE
+- API FranceConnect (`api-franceconnect`) — VERIFIED → STALE
+- …and 124 more
+
 ## 2026-07-22
 
 ### Added (142)

@@ -2,6 +2,64 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-07-24
+
+### Added (135)
+- Activité des branches de l'économie (`activite-des-branches-de-leconomie`)
+- Agglo - Mesures environnement et paysage (`agglo-mesures-environnement-et-paysage`)
+- Betaald parkeerzone Arnhem (`betaald-parkeerzone-arnhem`)
+- Biological Sampling Survey Stations (`biological-sampling-survey-stations-1`)
+- Caba Kraków,  ul. Dobrego Pasterza 53 (`caba-krakow-ul-dobrego-pasterza-53-14`)
+- Caba Kraków, ul. Macieja Słomczyńskiego 1 (`caba-krakow-ul-macieja-somczynskiego-1-14`)
+- Capacités d'hébergements touristiques (`capacites-dhebergements-touristiques`)
+- Caractéristiques des résidences principales selon l'âge de la personne de référence - Données détaillées (PRINC1 et PRINC22) (`caracteristiques-des-residences-principales-selon-lage-de-la-personne-de-reference-donnees-detaillees-princ1-et-princ22`)
+- Caractéristiques du corps électoral (`caracteristiques-du-corps-electoral`)
+- Centralna Baza Danych Geologicznych – podsystem Jaskinie Polski (`centralna-baza-danych-geologicznych-podsystem-jaskinie-polski-1`)
+- Ceny ofertowe Dewelopera Apartamenty Nowy Świat 32 sp.z o.o. w 2026r. (`ceny-ofertowe-dewelopera-apartamenty-nowy-swiat-32-spz-oo-w-2026r-3`)
+- Ceny ofertowe J.W. Construction Holding S.A. (`ceny-ofertowe-jw-construction-holding-sa-9`)
+- Ceny ofertowe lokali mieszkalnych - Wołomin ul. Sikorskiego 71 ABCDE -  2025 rok - Gawbet sc Jerzy i Robert Gawor 05-200 Wołomin ul, Andersa 9 (`ceny-ofertowe-lokali-mieszkalnych-woomin-ul-sikorskiego-71-abcde-2025-rok-gawbet-sc-jerzy-i-robert-gawor-05-200-woomin-ul-andersa-9-8`)
+- Ceny ofertowe mieszkań dewelopera Aleja Zastavie Sp. z o.o.  w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-aleja-zastavie-sp-z-oo-w-2026-r-5`)
+- Ceny ofertowe mieszkań dewelopera Apartamenty Świeradowiec Sp. z o.o. w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-apartamenty-swieradowiec-sp-z-oo-w-2026-r-5`)
+- Ceny ofertowe mieszkań dewelopera AQR HOLDING Paweł Karpowicz- Sztamm w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-aqr-holding-pawe-karpowicz-sztamm-w-2026-r-7`)
+- Ceny ofertowe mieszkań dewelopera AQR HOLDING Paweł Karpowicz- Sztamm w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-aqr-holding-pawe-karpowicz-sztamm-w-2026-r-8`)
+- Ceny ofertowe mieszkań dewelopera B.J.D. sp. z o.o.  w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-bjd-sp-z-oo-w-2026-r-10`)
+- Ceny ofertowe mieszkań dewelopera B.J.D. sp. z o.o.  w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-bjd-sp-z-oo-w-2026-r-8`)
+- Ceny ofertowe mieszkań dewelopera Deweler Lalewicz, Róg Spółka Jawna w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-deweler-lalewicz-rog-spoka-jawna-w-2026-r-9`)
+- Ceny ofertowe mieszkań dewelopera DOMLUBLIN Mariusz Wlaszczyk w 2025 r. (`ceny-ofertowe-mieszkan-dewelopera-domlublin-mariusz-wlaszczyk-w-2025-r-7`)
+- Ceny ofertowe mieszkań dewelopera DOMLUBLIN Mariusz Wlaszczyk w 2025 r. (`ceny-ofertowe-mieszkan-dewelopera-domlublin-mariusz-wlaszczyk-w-2025-r-8`)
+- Ceny ofertowe mieszkań dewelopera Ecoinwest Sp. z o.o. w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-ecoinwest-sp-z-oo-w-2026-r-9`)
+- Ceny ofertowe mieszkań dewelopera Extramarket.pl Sp. z o. o. Sp. k. w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-extramarketpl-sp-z-o-o-sp-k-w-2026-r-4`)
+- Ceny ofertowe mieszkań dewelopera Extramarket.pl Sp. z o. o. Sp. k. w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-extramarketpl-sp-z-o-o-sp-k-w-2026-r-5`)
+- …and 110 more
+
+### State changes (195)
+- Πρωτεύον οδικό δίκτυο ΦΕΚ 398Β/2007 (`3982007`) — VERIFIED → FAILING
+- Accessi esterni (`accessi-esterni-4`) — VERIFIED → FAILING
+- ADEME - Car Labelling (`ademe-car-labelling`) — VERIFIED → STALE
+- Agenda Eventos (`agenda-eventos`) — VERIFIED → FAILING
+- Agrégats segmentés de consommation électrique au pas 1/2 h des points de soutirage > 36kVA – Maille régionale (`agrgats-segments-de-consommation-lectrique-au-pas-12-h-des-points-de-soutirage-36kva-maille-rgionale-2`) — STALE → VERIFIED
+- Aire de jeux - CA Saint-Quentin-en-Yvelines (`aire-de-jeux-ca-saint-quentin-en-yvelines`) — VERIFIED → STALE
+- Annuaire des déchèteries DMA sur le territoire de Saintes Grandes Rives, l'Agglo (`annuaire-des-decheteries-dma-sur-le-territoire-de-saintes-grandes-rives-lagglo`) — VERIFIED → STALE
+- API Accès à l'emploi des demandeurs d'emploi (`api-acces-a-lemploi-des-demandeurs-demploi`) — VERIFIED → STALE
+- API Aides Territoires (`api-aides-territoires`) — STALE → VERIFIED
+- API Annuaire de l’administration - compétence géographique des services locaux (`api-annuaire-de-ladministration-competence-geographique-des-services-locaux`) — VERIFIED → STALE
+- API Attestation de vigilance - Urssaf | Bouquet API Entreprise (`api-attestation-de-vigilance-urssaf-bouquet-api-entreprise`) — STALE → VERIFIED
+- API Attestation fiscale - DGFIP | Bouquet API Entreprise (`api-attestation-fiscale-dgfip-bouquet-api-entreprise`) — STALE → VERIFIED
+- API Bénéficiaires effectifs - Inpi | Bouquet API Entreprise (`api-beneficiaires-effectifs-inpi-bouquet-api-entreprise`) — VERIFIED → STALE
+- API Certificat cotisations congés pays et chômage intempéries - CIBTP | Bouquet API Entreprise (`api-certificat-cotisations-conges-pays-et-chomage-intemperies-cibtp-bouquet-api-entreprise`) — STALE → VERIFIED
+- API Chiffre d'affaires - DGFIP | Bouquet API Entreprise (`api-chiffre-daffaires-dgfip-bouquet-api-entreprise`) — VERIFIED → STALE
+- API Conformité cotisations de sécurité sociale agricole - MSA | Bouquet API Entreprise (`api-conformite-cotisations-de-securite-sociale-agricole-msa-bouquet-api-entreprise`) — STALE → VERIFIED
+- API Conformité cotisations retraite complémentaire - ProBTP | Bouquet API Entreprise (`api-conformite-cotisations-retraite-complementaire-probtp-bouquet-api-entreprise`) — STALE → VERIFIED
+- API contrôle CVEC (contribution de vie étudiante) (`api-controle-cvec-contribution-de-vie-etudiante`) — STALE → VERIFIED
+- API de manipulation de données de SIGLOIRE (`api-de-manipulation-de-donnees-de-sigloire`) — STALE → VERIFIED
+- API Découpage Administratif - (API Geo) (`api-decoupage-administratif-api-geo`) — STALE → VERIFIED
+- API données ouvertes de l'ONISEP (`api-donnees-ouvertes-de-lonisep`) — VERIFIED → STALE
+- API ECLAIRE (`api-eclaire`) — STALE → VERIFIED
+- API Ecobalyse - impacts environnementaux des produits textiles (`api-ecobalyse-impacts-environnementaux-des-produits-textiles`) — STALE → VERIFIED
+- API Effectifs annuels d'une unité légale - GIP MDS | Bouquet API Entreprise (`api-effectifs-annuels-dune-unite-legale-gip-mds-bouquet-api-entreprise`) — STALE → VERIFIED
+- API Export des Données de theses.fr (`api-export-des-donnees-de-thesesfr`) — STALE → VERIFIED
+- …and 170 more
+
 ## 2026-07-23
 
 ### Added (223)

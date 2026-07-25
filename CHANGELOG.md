@@ -2,6 +2,64 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-07-25
+
+### Added (221)
+- 12 Nautical Mile Fisheries Control Ireland (`12-nautical-mile-fisheries-control-ireland-2`)
+- Activités et loisirs labellisés 'Tourisme et handicap' en Loire-Atlantique (`activites-et-loisirs-labellises-tourisme-et-handicap-en-loire-atlantique`)
+- Activités touristiques en Loire-Atlantique (`activites-touristiques-en-loire-atlantique`)
+- Adoptions en Loire-Atlantique par commune (`adoptions-en-loire-atlantique-par-commune`)
+- Adoptions en Loire-Atlantique par EPCI (`adoptions-en-loire-atlantique-par-epci`)
+- Agglo - Périmètres naturels protégés au niveau européen (`agglo-perimetres-naturels-proteges-au-niveau-europeen`)
+- Aide ménagère pour les personnes âgées en Loire-Atlantique par EPCI (`aide-menagere-pour-les-personnes-agees-en-loire-atlantique-par-epci`)
+- Aide ménagère pour les personnes handicapées en Loire-Atlantique par EPCI (`aide-menagere-pour-les-personnes-handicapees-en-loire-atlantique-par-epci`)
+- Aides éducatives administratives - Soutien éducatif à domicile en Loire-Atlantique par EPCI (`aides-educatives-administratives-soutien-educatif-a-domicile-en-loire-atlantique-par-epci`)
+- Aires de camping-car en Loire-Atlantique (`aires-de-camping-car-en-loire-atlantique`)
+- API Travaux Rennes Métropole (`api-travaux-rennes-metropole`)
+- [Archive] Offre de formation en apprentissage en Région Centre-Val de Loire - 2024 (`archive-offre-de-formation-en-apprentissage-en-region-centre-val-de-loire-2024`)
+- Assistants familiaux agréés en Loire-Atlantique (`assistants-familiaux-agrees-en-loire-atlantique`)
+- Base élus de Rennes Ville et Métropole 2020 (`base-elus-de-rennes-ville-et-metropole-2020`)
+- Base élus Rennes Ville et Métropole 2017 (`base-elus-rennes-ville-et-metropole-2017`)
+- Bâtiments projets des opérations d'aménagement sur Rennes Métropole (`batiments-projets-des-operations-damenagement-sur-rennes-metropole`)
+- Bomen (`bomen-3`)
+- BP 2012 - Ville de Rennes - Budget Principal (`bp-2012-ville-de-rennes-budget-principal`)
+- BP 2014 - Ville de Rennes - Budget Annexes (`bp-2014-ville-de-rennes-budget-annexes`)
+- BP 2015 - Ville de Rennes - Subventions exceptionnelles aux associations (`bp-2015-ville-de-rennes-subventions-exceptionnelles-aux-associations`)
+- BP 2017 - Ville De Rennes - Budgets Annexes (`bp-2017-ville-de-rennes-budgets-annexes`)
+- BP 2018 - Ville De Rennes - Budgets Annexes (`bp-2018-ville-de-rennes-budgets-annexes`)
+- BP 2025 - Rennes Métropole (`bp-2025-rennes-metropole`)
+- Budget Participatif - Ville de Rennes - Saison 1 - Projets (`budget-participatif-ville-de-rennes-saison-1-projets`)
+- Budget primitif du budget annexe du Département de Loire-Atlantique : Fonds de solidarité pour le logement (FSL) de 2012 à 2015 (`budget-primitif-du-budget-annexe-du-departement-de-loire-atlantique-fonds-de-solidarite-pour-le-logement-fsl-de-2012-a-2015`)
+- …and 196 more
+
+### State changes (112)
+- Πρωτεύον οδικό δίκτυο ΦΕΚ 398Β/2007 (`3982007`) — FAILING → VERIFIED
+- Accessi esterni (`accessi-esterni-4`) — FAILING → VERIFIED
+- ADEME - Car Labelling (`ademe-car-labelling`) — STALE → VERIFIED
+- Aire de jeux - CA Saint-Quentin-en-Yvelines (`aire-de-jeux-ca-saint-quentin-en-yvelines`) — STALE → VERIFIED
+- Annuaire des déchèteries DMA sur le territoire de Saintes Grandes Rives, l'Agglo (`annuaire-des-decheteries-dma-sur-le-territoire-de-saintes-grandes-rives-lagglo`) — STALE → VERIFIED
+- API Accès à l'emploi des demandeurs d'emploi (`api-acces-a-lemploi-des-demandeurs-demploi`) — STALE → VERIFIED
+- API Annonces officielles et comptes annuels des associations (`api-annonces-officielles-et-comptes-annuels-des-associations`) — VERIFIED → STALE
+- API Annuaire de l’administration - compétence géographique des services locaux (`api-annuaire-de-ladministration-competence-geographique-des-services-locaux`) — STALE → VERIFIED
+- API Base nationale des défibrillateurs (`api-base-nationale-des-defibrillateurs`) — VERIFIED → STALE
+- API Bénéficiaires effectifs - Inpi | Bouquet API Entreprise (`api-beneficiaires-effectifs-inpi-bouquet-api-entreprise`) — STALE → VERIFIED
+- API Chiffre d'affaires - DGFIP | Bouquet API Entreprise (`api-chiffre-daffaires-dgfip-bouquet-api-entreprise`) — STALE → VERIFIED
+- API Data.Subvention (`api-datasubvention`) — VERIFIED → STALE
+- API Démarches du Ministère de la culture (`api-demarches-du-ministere-de-la-culture`) — VERIFIED → STALE
+- API Document unique de marché européen (Dume) (`api-document-unique-de-marche-europeen-dume`) — VERIFIED → STALE
+- API Données d'observation (`api-donnees-dobservation`) — VERIFIED → STALE
+- API données foncières (`api-donnees-foncieres`) — VERIFIED → STALE
+- API Données locales de consommation d'énergie (`api-donnees-locales-de-consommation-denergie`) — VERIFIED → STALE
+- API données ouvertes de l'ONISEP (`api-donnees-ouvertes-de-lonisep`) — STALE → VERIFIED
+- API Engagement (`api-engagement`) — VERIFIED → STALE
+- API Entreprise (`api-entreprise`) — VERIFIED → STALE
+- API Gallica Recherche (`api-gallica-recherche`) — VERIFIED → STALE
+- API Géoplateforme - Diffusion d'images tuilées WMTS (`api-geoplateforme-diffusion-dimages-tuilees-wmts`) — VERIFIED → STALE
+- API Géoplateforme - Diffusion d'images WMS-Vecteur (`api-geoplateforme-diffusion-dimages-wms-vecteur`) — VERIFIED → STALE
+- API Géoplateforme - Diffusion d'objets WFS (`api-geoplateforme-diffusion-dobjets-wfs`) — VERIFIED → STALE
+- API Géoplateforme - Téléchargement (`api-geoplateforme-telechargement`) — VERIFIED → STALE
+- …and 87 more
+
 ## 2026-07-24
 
 ### Added (135)

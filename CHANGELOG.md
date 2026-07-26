@@ -2,6 +2,64 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-07-26
+
+### Added (2458)
+- 01 Station météo Toulouse Météopole - archive2019 (`01-station-meteo-toulouse-meteopole-archive2019`)
+- 03 Station météo Toulouse Busca - archive2019 (`03-station-meteo-toulouse-busca-archive2019`)
+- 08 Station météo Toulouse Basso Cambo - archive 2020 (`08-station-meteo-toulouse-basso-cambo-archive-2020`)
+- 09 Station météo Toulouse La Salade - archive 2019 (`09-station-meteo-toulouse-la-salade-archive-2019`)
+- 10 Station météo Castelginest école - archive 2019 (`10-station-meteo-castelginest-ecole-archive-2019`)
+- 11 Station météo Toulouse Soupetard - archive 2020 (`11-station-meteo-toulouse-soupetard-archive-2020`)
+- 17 Station météo Fenouillet foyer - archive 2019 (`17-station-meteo-fenouillet-foyer-archive-2019`)
+- 18 Station météo Brax école - archive 2021 (`18-station-meteo-brax-ecole-archive-2021`)
+- 2019-2023 - Contrats publics SemBreizh (`2019-2023-contrats-publics-sembreizh`)
+- 2019-2023 -Données essentielles de la commande publique  - Région Bretagne (`2019-2023-donnees-essentielles-de-la-commande-publique-region-bretagne`)
+- 20241021_Fichier_adressage_LCM-A-Ajouter (`20241021fichieradressagelcm-a-ajouter`)
+- 2026 - Appli suivi trafic (`2026-appli-suivi-trafic`)
+- 23102025_Dane zgodne z ustawa deweloperską _Projekt Pawia _Kielce (`23102025dane-zgodne-z-ustawa-deweloperska-projekt-pawia-kielce`)
+- 25 ans de prêts des collections du musée des Augustins (`25-ans-de-prets-des-collections-du-musee-des-augustins`)
+- Abonnés aux réseaux sociaux d'Issy-les-Moulineaux par mois (`abonnes-aux-reseaux-sociaux-dissy-les-moulineaux-par-mois`)
+- Abris voyageurs et mobilier publicitaire (Territoires Marseille Provence, Martigues, Aubagne) (`abris-voyageurs-et-mobilier-publicitaire-territoires-marseille-provence-martigues-aubagne`)
+- Acceslibre - Accessibilité des établissements recevant du public (ERP) pour les personnes en situation de handicap à Issy-les-Moulineaux (`acceslibre-accessibilite-des-etablissements-recevant-du-public-erp-pour-les-personnes-en-situation-de-handicap-a-issy-les-moulineaux`)
+- Accessibilité des sites (lycées et administratifs) appartenant à la Région Bretagne (`accessibilite-des-sites-lycees-et-administratifs-appartenant-a-la-region-bretagne`)
+- Accessibilité par handicap des bâtiments (lycées et administratifs) appartenant à la Région Bretagne (`accessibilite-par-handicap-des-batiments-lycees-et-administratifs-appartenant-a-la-region-bretagne`)
+- Accidents corporels de la circulation de 2019 à 2024 (incluant les caractéristiques des lieux) (`accidents-corporels-de-la-circulation-de-2019-a-2024-incluant-les-caracteristiques-des-lieux`)
+- Accidents corporels de la circulation en France 2006-2011 (`accidents-corporels-de-la-circulation-en-france-2006-2011`)
+- Accidents corporels de la circulation millésimé (`accidents-corporels-de-la-circulation-millesime`)
+- Accidents corporels sur Rennes Métropole (`accidents-corporels-sur-rennes-metropole`)
+- Accueil vélo en Loire-Atlantique (`accueil-velo-en-loire-atlantique`)
+- Actes des organes délibérants - Ville d’Angers & d’Angers Loire Métropole (`actes-des-organes-deliberants-ville-dangers-dangers-loire-metropole`)
+- …and 2433 more
+
+### State changes (256)
+- Acteurs de l'économie circulaire - Que faire de mes objets et déchets (`acteurs-de-leconomie-circulaire-que-faire-de-mes-objets-et-dechets`) — VERIFIED → STALE
+- Activités touristiques en Loire-Atlantique (`activites-touristiques-en-loire-atlantique`) — UNVERIFIED → VERIFIED
+- Adoptions en Loire-Atlantique par commune (`adoptions-en-loire-atlantique-par-commune`) — UNVERIFIED → VERIFIED
+- Agrégats segmentés de consommation électrique au pas 1/2 h des points de soutirage > 36kVA – Maille nationale (`agregats-segmentes-de-consommation-electrique-au-pas-12-h-des-points-de-soutirage-36kva-maille-nationale`) — VERIFIED → STALE
+- Agrégats segmentés de consommation électrique au pas 1/2 h des points de soutirage <= 36kVA – Maille régionale (`agregats-segmentes-de-consommation-electrique-au-pas-12-h-des-points-de-soutirage-36kva-maille-regionale`) — VERIFIED → STALE
+- Agrégats segmentés de production électrique au pas 1/2 h – Maille nationale (`agregats-segmentes-de-production-electrique-au-pas-12-h-maille-nationale`) — VERIFIED → STALE
+- Agrégats segmentés de consommation électrique au pas 1/2 h des points de soutirage <= 36kVA – Maille nationale (`agrgats-segments-de-consommation-lectrique-au-pas-12-h-des-points-de-soutirage-36kva-maille-nationale-2`) — VERIFIED → STALE
+- Aires de fitness - CA Saint-Quentin-en-Yvelines (`aires-de-fitness-ca-saint-quentin-en-yvelines`) — VERIFIED → STALE
+- API 3 derniers bilans annuels - Banque de France | Bouquet API Entreprise (`api-3-derniers-bilans-annuels-banque-de-france-bouquet-api-entreprise`) — VERIFIED → STALE
+- API Accès libre (`api-acces-libre`) — VERIFIED → STALE
+- API actes et bilans - Inpi | Bouquet API Entreprise (`api-actes-et-bilans-inpi-bouquet-api-entreprise`) — VERIFIED → STALE
+- API Annonces officielles et comptes annuels des associations (`api-annonces-officielles-et-comptes-annuels-des-associations`) — STALE → VERIFIED
+- API Base nationale des défibrillateurs (`api-base-nationale-des-defibrillateurs`) — STALE → FAILING
+- API BDNB Open Plus (`api-bdnb-open-plus`) — VERIFIED → STALE
+- API Bulletin officiel des annonces civiles et commerciales (BODACC) (`api-bulletin-officiel-des-annonces-civiles-et-commerciales-bodacc`) — VERIFIED → STALE
+- API Bulletin officiel des annonces des marchés publics (BOAMP) (`api-bulletin-officiel-des-annonces-des-marches-publics-boamp`) — VERIFIED → STALE
+- API Certif Info (`api-certif-info`) — VERIFIED → STALE
+- API Certification RGE - Ademe | Bouquet API Entreprise (`api-certification-rge-ademe-bouquet-api-entreprise`) — VERIFIED → STALE
+- API Complémentaire santé solidaire | Bouquet API Particulier (`api-complementaire-sante-solidaire-bouquet-api-particulier`) — VERIFIED → STALE
+- API Data ES (`api-data-es`) — VERIFIED → STALE
+- API Data.Subvention (`api-datasubvention`) — STALE → VERIFIED
+- API Démarches du Ministère de la culture (`api-demarches-du-ministere-de-la-culture`) — STALE → VERIFIED
+- API Document unique de marché européen (Dume) (`api-document-unique-de-marche-europeen-dume`) — STALE → VERIFIED
+- API Données associations - DJEPVA | Bouquet API Entreprise (`api-donnees-associations-djepva-bouquet-api-entreprise`) — VERIFIED → STALE
+- API Données d'observation (`api-donnees-dobservation`) — STALE → VERIFIED
+- …and 231 more
+
 ## 2026-07-25
 
 ### Added (221)

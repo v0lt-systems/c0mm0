@@ -2,6 +2,64 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-07-27
+
+### Added (2858)
+- 08 Station météo Toulouse Basso Cambo - archive 2019 (`08-station-meteo-toulouse-basso-cambo-archive-2019`)
+- 08 Station météo Toulouse Basso Cambo - archive 2021 (`08-station-meteo-toulouse-basso-cambo-archive-2021`)
+- 09 Station météo Toulouse La Salade - archive 2020 (`09-station-meteo-toulouse-la-salade-archive-2020`)
+- 09 Station météo Toulouse La Salade - archive 2021 (`09-station-meteo-toulouse-la-salade-archive-2021`)
+- 12 Station météo Toulouse Montaudran - archive 2019 (`12-station-meteo-toulouse-montaudran-archive-2019`)
+- 12 Station météo Toulouse Montaudran - archive 2020 (`12-station-meteo-toulouse-montaudran-archive-2020`)
+- 13 Station météo Toulouse Pech David - archive 2020 (`13-station-meteo-toulouse-pech-david-archive-2020`)
+- 17 Station météo Fenouillet foyer - archive 2020 (`17-station-meteo-fenouillet-foyer-archive-2020`)
+- 18 Station météo Brax école - archive 2020 (`18-station-meteo-brax-ecole-archive-2020`)
+- 18 Station météo Brax école - archive 2022 (`18-station-meteo-brax-ecole-archive-2022`)
+- 2014-2020 Plans des quartiers "Elus" (`2014-2020-plans-des-quartiers-elus`)
+- 2014-2020 Quartiers "Elus" de la ville de Strasbourg (`2014-2020-quartiers-elus-de-la-ville-de-strasbourg`)
+- 2019-2023 - Contrats publics Région Bretagne - Données étendues (`2019-2023-contrats-publics-region-bretagne-donnees-etendues`)
+- 2020-2026 Périmètres des 20 référents.es de quartier de la Ville de Strasbourg (`2020-2026-perimetres-des-20-referentses-de-quartier-de-la-ville-de-strasbourg`)
+- 2020-2026 Plans des quartiers élus (`2020-2026-plans-des-quartiers-elus`)
+- 2020 - Membres du Conseil culturel de Bretagne (`2020-membres-du-conseil-culturel-de-bretagne`)
+- 20241021_Fichier_adressage_ETIOLLES-AAjouter (`20241021fichieradressageetiolles-aajouter`)
+- 2025 Social Housing Rental Inventory (`2025-social-housing-rental-inventory`)
+- 22 Station météo Colomiers ZA Perget - archive 2022 (`22-station-meteo-colomiers-za-perget-archive-2022`)
+- 4G Fixe (`4g-fixe`)
+- Abattements fiscaux d'Issy-les-Moulineaux (`abattements-fiscaux-dissy-les-moulineaux`)
+- Abonnés aux réseaux sociaux d'Issy-les-Moulineaux (`abonnes-aux-reseaux-sociaux-dissy-les-moulineaux`)
+- Abribus SAEIV (`abribus-saeiv`)
+- Abribus sur la voirie départementale à Issy (`abribus-sur-la-voirie-departementale-a-issy`)
+- Absentéisme des agents de la Région (siège et lycées) : arrêts par motif (`absenteisme-des-agents-de-la-region-siege-et-lycees-arrets-par-motif`)
+- …and 2833 more
+
+### State changes (896)
+- 03 Station météo Toulouse Busca - archive2019 (`03-station-meteo-toulouse-busca-archive2019`) — UNVERIFIED → VERIFIED
+- 10 Station météo Castelginest école - archive 2019 (`10-station-meteo-castelginest-ecole-archive-2019`) — UNVERIFIED → VERIFIED
+- 2026 - Appli suivi trafic (`2026-appli-suivi-trafic`) — UNVERIFIED → VERIFIED
+- Accessibilité par handicap des bâtiments (lycées et administratifs) appartenant à la Région Bretagne (`accessibilite-par-handicap-des-batiments-lycees-et-administratifs-appartenant-a-la-region-bretagne`) — UNVERIFIED → VERIFIED
+- Accidents corporels de la circulation en France 2006-2011 (`accidents-corporels-de-la-circulation-en-france-2006-2011`) — UNVERIFIED → VERIFIED
+- Action sociale en faveur des agents de la Région : détail des mesures et répartition genrée (`action-sociale-en-faveur-des-agents-de-la-region-detail-des-mesures-et-repartition-genree`) — UNVERIFIED → VERIFIED
+- Activité des services d’archives en France (`activite-des-services-darchives-en-france`) — UNVERIFIED → VERIFIED
+- Adoptions en Loire-Atlantique (`adoptions-en-loire-atlantique`) — UNVERIFIED → VERIFIED
+- Adresse sur Bordeaux Métropole au format BAL (`adresse-sur-bordeaux-metropole-au-format-bal`) — UNVERIFIED → VERIFIED
+- Agenda Eventos (`agenda-eventos`) — FAILING → VERIFIED
+- Agenda Jazz dans les jardins des Pays de la Loire [ Open Agenda ] (`agenda-jazz-dans-les-jardins-des-pays-de-la-loire-open-agenda`) — UNVERIFIED → VERIFIED
+- Agglobus offre théorique mobilité réseau urbain de Bourges (`agglobus-offre-theorique-mobilite-reseau-urbain-de-bourges`) — UNVERIFIED → VERIFIED
+- Agrégats segmentés de production électrique au pas 1/2 h – Maille régionale (`agregats-segmentes-de-production-electrique-au-pas-12-h-maille-regionale`) — VERIFIED → STALE
+- Agrégats segmentés de consommation électrique au pas 1/2 h des points de soutirage <= 36kVA – Maille nationale (`agrgats-segments-de-consommation-lectrique-au-pas-12-h-des-points-de-soutirage-36kva-maille-nationale-2`) — STALE → VERIFIED
+- Agrégats segmentés de consommation électrique au pas 1/2 h des points de soutirage > 36kVA – Maille régionale (`agrgats-segments-de-consommation-lectrique-au-pas-12-h-des-points-de-soutirage-36kva-maille-rgionale-2`) — VERIFIED → STALE
+- Aide à l'installation des agriculteurs en Loire-Atlantique de 2008 à 2015 (`aide-a-linstallation-des-agriculteurs-en-loire-atlantique-de-2008-a-2015`) — UNVERIFIED → VERIFIED
+- Aide aux départs en vacances : les organismes relais (2012) (`aide-aux-departs-en-vacances-les-organismes-relais-2012`) — UNVERIFIED → VERIFIED
+- Aide exceptionnelle « CPSTI RCI COVID-19 » en région Centre-Val de Loire (`aide-exceptionnelle-cpsti-rci-covid-19-en-region-centre-val-de-loire`) — UNVERIFIED → VERIFIED
+- Aide individuelle à l'insertion en Loire-Atlantique par commune (`aide-individuelle-a-linsertion-en-loire-atlantique-par-commune`) — UNVERIFIED → VERIFIED
+- Aide individuelle à l'insertion en Loire-Atlantique par EPCI (`aide-individuelle-a-linsertion-en-loire-atlantique-par-epci`) — UNVERIFIED → VERIFIED
+- Aide ménagère pour les personnes âgées en Loire-Atlantique par commune (`aide-menagere-pour-les-personnes-agees-en-loire-atlantique-par-commune`) — UNVERIFIED → VERIFIED
+- Aide ménagère pour les personnes handicapées en Loire-Atlantique par EPCI (`aide-menagere-pour-les-personnes-handicapees-en-loire-atlantique-par-epci`) — UNVERIFIED → VERIFIED
+- Aide sociale à l’hébergement pour les personnes agées en Loire-Atlantique (`aide-sociale-a-lhebergement-pour-les-personnes-agees-en-loire-atlantique`) — UNVERIFIED → VERIFIED
+- Aide sociale à l’hébergement pour les personnes agées en Loire-Atlantique par commune (`aide-sociale-a-lhebergement-pour-les-personnes-agees-en-loire-atlantique-par-commune`) — UNVERIFIED → VERIFIED
+- Aides aux entreprises dans le cadre de l'épidémie de COVID-19 en Région Centre-Val de Loire (`aides-aux-entreprises-dans-le-cadre-de-lepidemie-de-covid-19-en-region-centre-val-de-loire`) — UNVERIFIED → VERIFIED
+- …and 871 more
+
 ## 2026-07-26
 
 ### Added (2458)

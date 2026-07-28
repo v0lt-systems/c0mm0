@@ -2,6 +2,64 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-07-28
+
+### Added (485)
+- Accessibilité des grilles - Diagnostique accessibilité 2014 Toulouse Métropole (`accessibilite-des-grilles-diagnostique-accessibilite-2014-toulouse-metropole`)
+- Actes administratifs de Grand Paris Sud - Format SCDL (`actes-administratifs-de-grand-paris-sud-format-scdl`)
+- Activités dans les parcs naturels régionaux d'Île-de-France (`activites-dans-les-parcs-naturels-regionaux-dile-de-france`)
+- Agenda Bordeaux Métropole (`agenda-bordeaux-metropole`)
+- Agrégation statistiques population et parc immobilier (secteurs ville de Genève) (`agregation-statistiques-population-et-parc-immobilier-secteurs-ville-de-geneve`)
+- Aire d'agrès (`aire-dagres`)
+- Analyses d'eau - 2021 - Production (`analyses-deau-2021-production`)
+- Analyses d'eau - Archives 2015-2020 - Distribution (`analyses-deau-archives-2015-2020-distribution`)
+- Analyses d'eau - Archives 2015-2020 - Production (`analyses-deau-archives-2015-2020-production`)
+- Annuaire des organismes gestionnaires de CFA (`annuaire-des-organismes-gestionnaires-de-cfa`)
+- Annuaire et localisation des professionnels de santé en Île-de-France (`annuaire-et-localisation-des-professionnels-de-sante-en-ile-de-france`)
+- Anonymous vineyard parcels represented as polygons, 2018 — Auvergne-Rhône-Alpes (WFS service) (`anonymous-vineyard-parcels-represented-as-polygons-2018-auvergne-rhone-alpes-wfs-service`)
+- API Temps Réel TISSEO - Real Time TISSEO API (`api-temps-reel-tisseo-real-time-tisseo-api`)
+- Apprentissage - effectifs détaillés 2009-2010 (`apprentissage-effectifs-detailles-2009-2010`)
+- Arbres fruitiers Le Haillan (`arbres-fruitiers-le-haillan`)
+- Arceaux deux roues Bordeaux Métropole (`arceaux-deux-roues-bordeaux-metropole`)
+- Arrêt TAD Blagnac (`arret-tad-blagnac`)
+- Arrondissements - Vintage/Millésimé - Belgium (`arrondissements-vintagemillesime-belgium`)
+- Associations de la ville de Bordeaux (`associations-de-la-ville-de-bordeaux`)
+- Atlas de la biodiversité: cartographie des entités éco-géographiques (`atlas-de-la-biodiversite-cartographie-des-entites-eco-geographiques`)
+- Ausgleichsräume der LWKA (`ausgleichsraume-der-lwka-1`)
+- Base permanente des équipements (`base-permanente-des-equipements`)
+- Bassins pluviaux à accès public (`bassins-pluviaux-a-acces-public`)
+- Bassins versants élémentaires d'Île-de-France (`bassins-versants-elementaires-dile-de-france`)
+- Bezirke/Districts - Vintage/Millésimé - Switzerland (`bezirkedistricts-vintagemillesime-switzerland`)
+- …and 460 more
+
+### State changes (1574)
+- 01 Station météo Toulouse Météopole - archive2019 (`01-station-meteo-toulouse-meteopole-archive2019`) — VERIFIED → STALE
+- 08 Station météo Toulouse Basso Cambo - archive 2019 (`08-station-meteo-toulouse-basso-cambo-archive-2019`) — UNVERIFIED → VERIFIED
+- 08 Station météo Toulouse Basso Cambo - archive 2020 (`08-station-meteo-toulouse-basso-cambo-archive-2020`) — VERIFIED → STALE
+- 08 Station météo Toulouse Basso Cambo - archive 2021 (`08-station-meteo-toulouse-basso-cambo-archive-2021`) — UNVERIFIED → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2020 (`09-station-meteo-toulouse-la-salade-archive-2020`) — VERIFIED → STALE
+- 12 Station météo Toulouse Montaudran - archive 2020 (`12-station-meteo-toulouse-montaudran-archive-2020`) — UNVERIFIED → VERIFIED
+- 17 Station météo Fenouillet foyer - archive 2020 (`17-station-meteo-fenouillet-foyer-archive-2020`) — VERIFIED → STALE
+- 18 Station météo Brax école - archive 2022 (`18-station-meteo-brax-ecole-archive-2022`) — VERIFIED → STALE
+- 2019-2023 - Contrats publics SemBreizh (`2019-2023-contrats-publics-sembreizh`) — VERIFIED → FAILING
+- 2020-2026 Plans des quartiers élus (`2020-2026-plans-des-quartiers-elus`) — UNVERIFIED → VERIFIED
+- 25 ans de prêts des collections du musée des Augustins (`25-ans-de-prets-des-collections-du-musee-des-augustins`) — UNVERIFIED → VERIFIED
+- Abonnés aux réseaux sociaux d'Issy-les-Moulineaux (`abonnes-aux-reseaux-sociaux-dissy-les-moulineaux`) — UNVERIFIED → VERIFIED
+- Abonnés aux réseaux sociaux d'Issy-les-Moulineaux par mois (`abonnes-aux-reseaux-sociaux-dissy-les-moulineaux-par-mois`) — UNVERIFIED → VERIFIED
+- Accès aux îles de loisirs d’Île-de-France (`acces-aux-iles-de-loisirs-dile-de-france`) — UNVERIFIED → VERIFIED
+- Acteurs de l'économie circulaire - Que faire de mes objets et déchets (`acteurs-de-leconomie-circulaire-que-faire-de-mes-objets-et-dechets`) — STALE → VERIFIED
+- Actions de formations financées depuis 2020 par la Région Centre Val-de Loire (données détaillées) (`actions-de-formations-financees-depuis-2020-par-la-region-centre-val-de-loire-donnees-detaillees`) — UNVERIFIED → VERIFIED
+- Activités et loisirs labellisés 'Tourisme et handicap' en Loire-Atlantique (`activites-et-loisirs-labellises-tourisme-et-handicap-en-loire-atlantique`) — VERIFIED → STALE
+- Actualité (`actualite`) — UNVERIFIED → VERIFIED
+- ADEME - Car Labelling (`ademe-car-labelling`) — VERIFIED → STALE
+- Adhérents à l'association Issy seniors (`adherents-a-lassociation-issy-seniors`) — UNVERIFIED → VERIFIED
+- Adresse et géolocalisation des établissements d'enseignement du premier et second degrés (`adresse-et-geolocalisation-des-etablissements-denseignement-du-premier-et-second-degres-1`) — UNVERIFIED → VERIFIED
+- Affichage légal de la Ville et de l'Eurométropole de Strasbourg (`affichage-legal-de-la-ville-et-de-leurometropole-de-strasbourg`) — UNVERIFIED → VERIFIED
+- Agenda géolocalisé d'Issy-les-Moulineaux (`agenda-geolocalise-dissy-les-moulineaux`) — UNVERIFIED → VERIFIED
+- Agglo - Atlas culturel transfrontalier (`agglo-atlas-culturel-transfrontalier`) — VERIFIED → STALE
+- AGGLO - Divisions administratives au milieu du XVIIIè siècle (`agglo-divisions-administratives-au-milieu-du-xviiie-siecle`) — VERIFIED → STALE
+- …and 1549 more
+
 ## 2026-07-27
 
 ### Added (2858)

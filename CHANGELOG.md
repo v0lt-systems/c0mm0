@@ -2,6 +2,67 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-07-29
+
+### Added (155)
+- Agglo - addresses (`agglo-addresses`)
+- Agglo - Aires urbaines - INSEE 2010 (`agglo-aires-urbaines-insee-2010`)
+- Agglo - Bâtiments et objets protégés - Ponctuels (`agglo-batiments-et-objets-proteges-ponctuels`)
+- Agglo - Communes et territoires voisins (`agglo-communes-et-territoires-voisins`)
+- Aide à l'équipement des formations post-bac 2012-2013 (`aide-a-lequipement-des-formations-post-bac-2012-2013`)
+- Aide à l'équipement des lycéens 2012-2013 (`aide-a-lequipement-des-lyceens-2012-2013`)
+- Aides et appels à projets de la Région (`aides-et-appels-a-projets-de-la-region`)
+- Aires et produits AOC/AOP et IGP (`aires-et-produits-aocaop-et-igp-1`)
+- Aménagements cyclables sur Rennes Métropole (`amenagements-cyclables-sur-rennes-metropole`)
+- Angebote des freiwilligen Engagements Hamburg (`angebote-des-freiwilligen-engagements-hamburg`)
+- Atlas de l'Eurométropole 2026 (`atlas-de-leurometropole-2026`)
+- Autoroutes et voies rapides (tracé simplifié) en Île-de-France (`autoroutes-et-voies-rapides-trace-simplifie-en-ile-de-france`)
+- Bodenkühlleistungskarte Hamburg (`bodenkuhlleistungskarte-hamburg`)
+- Bodenkunde-Profile (`bodenkunde-profile`)
+- Budget primitif 2018 - Restauration Blagnac (`budget-primitif-2018-restauration-blagnac`)
+- Carte des pharmacies de Paris (`carte-des-pharmacies-de-paris`)
+- Cartographie du bruit sur Rennes Métropole - type a isophones (`cartographie-du-bruit-sur-rennes-metropole-type-a-isophones`)
+- Ceny ofertowe Dewelopera Apartamenty Nowy Świat 32 sp.z o.o. w 2026r. (`ceny-ofertowe-dewelopera-apartamenty-nowy-swiat-32-spz-oo-w-2026r-5`)
+- Ceny Ofertowe mieszkań Aleksandria II Sp. z o.o. 2025/2026r. (`ceny-ofertowe-mieszkan-aleksandria-ii-sp-z-oo-20252026r-2`)
+- Ceny ofertowe mieszkań dewelopera ALGRO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-algro-spoka-z-ograniczona-odpowiedzialnoscia-w-2026-r-6`)
+- Ceny ofertowe mieszkań dewelopera APARTAMENTY GOŚCINNA SP. Z O.O. w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-apartamenty-goscinna-sp-z-oo-w-2026-r-8`)
+- Ceny ofertowe mieszkań dewelopera Apartamenty Rogowski Remigiusz Spółka Komandytowa w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-apartamenty-rogowski-remigiusz-spoka-komandytowa-w-2026-r-6`)
+- Ceny ofertowe mieszkań dewelopera Apartamenty Świeradowiec Sp. z o.o. w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-apartamenty-swieradowiec-sp-z-oo-w-2026-r-11`)
+- Ceny ofertowe mieszkań dewelopera Apartamenty Świeradowiec Sp. z o.o. w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-apartamenty-swieradowiec-sp-z-oo-w-2026-r-12`)
+- Ceny ofertowe mieszkań dewelopera AQR HOLDING Paweł Karpowicz- Sztamm w 2026 r. (`ceny-ofertowe-mieszkan-dewelopera-aqr-holding-pawe-karpowicz-sztamm-w-2026-r-14`)
+- …and 130 more
+
+### Removed (1)
+- Verkehrslage auf Autobahnen (Schleifen) Hamburg (`verkehrslage-auf-autobahnen-schleifen-hamburg`)
+
+### State changes (2366)
+- 01 Station météo Toulouse Météopole - archive2019 (`01-station-meteo-toulouse-meteopole-archive2019`) — STALE → VERIFIED
+- 08 Station météo Toulouse Basso Cambo - archive 2020 (`08-station-meteo-toulouse-basso-cambo-archive-2020`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2019 (`09-station-meteo-toulouse-la-salade-archive-2019`) — UNVERIFIED → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2020 (`09-station-meteo-toulouse-la-salade-archive-2020`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2021 (`09-station-meteo-toulouse-la-salade-archive-2021`) — VERIFIED → STALE
+- 11 Station météo Toulouse Soupetard - archive 2020 (`11-station-meteo-toulouse-soupetard-archive-2020`) — VERIFIED → STALE
+- 17 Station météo Fenouillet foyer - archive 2019 (`17-station-meteo-fenouillet-foyer-archive-2019`) — VERIFIED → STALE
+- 17 Station météo Fenouillet foyer - archive 2020 (`17-station-meteo-fenouillet-foyer-archive-2020`) — STALE → VERIFIED
+- 18 Station météo Brax école - archive 2022 (`18-station-meteo-brax-ecole-archive-2022`) — STALE → VERIFIED
+- 2014-2020 Quartiers "Elus" de la ville de Strasbourg (`2014-2020-quartiers-elus-de-la-ville-de-strasbourg`) — UNVERIFIED → VERIFIED
+- 20241021_Fichier_adressage_ETIOLLES-AAjouter (`20241021fichieradressageetiolles-aajouter`) — VERIFIED → STALE
+- 20241021_Fichier_adressage_LCM-A-Ajouter (`20241021fichieradressagelcm-a-ajouter`) — UNVERIFIED → VERIFIED
+- 22 Station météo Colomiers ZA Perget - archive 2022 (`22-station-meteo-colomiers-za-perget-archive-2022`) — VERIFIED → STALE
+- 23102025_Dane zgodne z ustawa deweloperską _Projekt Pawia _Kielce (`23102025dane-zgodne-z-ustawa-deweloperska-projekt-pawia-kielce`) — VERIFIED → STALE
+- Abribus SAEIV (`abribus-saeiv`) — UNVERIFIED → VERIFIED
+- Absentéisme des agents de la Région (siège et lycées) : arrêts par motif (`absenteisme-des-agents-de-la-region-siege-et-lycees-arrets-par-motif`) — VERIFIED → STALE
+- Accessibilité autour des établissements recevant du public - Diagnostique accessibilité 2014 Toulouse Métropole (`accessibilite-autour-des-etablissements-recevant-du-public-diagnostique-accessibilite-2014-toulouse-metropole`) — VERIFIED → STALE
+- Accidents corporels de la circulation millésimé (`accidents-corporels-de-la-circulation-millesime`) — VERIFIED → STALE
+- Accueil vélo en Loire-Atlantique (`accueil-velo-en-loire-atlantique`) — VERIFIED → STALE
+- [Achats publics] Recensement des Achats issus de l'économie circulaire (AGEC) 2025 (`achats-publics-recensement-des-achats-issus-de-leconomie-circulaire-agec-2025`) — VERIFIED → STALE
+- Actes administratifs de Grand Paris Sud - Format SCDL (`actes-administratifs-de-grand-paris-sud-format-scdl`) — UNVERIFIED → VERIFIED
+- Actions d'insertion professionnelle (`actions-dinsertion-professionnelle`) — UNVERIFIED → VERIFIED
+- Actions éducatives dans les lycées en 2012-2013 (`actions-educatives-dans-les-lycees-en-2012-2013`) — UNVERIFIED → VERIFIED
+- Actions Numérique Responsable 2026 (`actions-numerique-responsable-2026`) — UNVERIFIED → VERIFIED
+- Active organization and associations - volunteers and members of the organization (`active-organization-and-associations-volunteers-and-members-of-the-organization`) — VERIFIED → STALE
+- …and 2341 more
+
 ## 2026-07-28
 
 ### Added (485)

@@ -2,6 +2,64 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-07-31
+
+### Added (458)
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 01 (`01-1`)
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0304 (`0304`)
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0305 (`0305`)
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0306 (`0306`)
+- Ρυμοτομικό Σχέδιο Ηρακλείου 1936 | Πινακίδα 09 (`1936-09`)
+- Ρυμοτομικό Σχέδιο Ηρακλείου 1936 | Πινακίδα 10 (`1936-10`)
+- Ρυμοτομικό Σχέδιο Ηρακλείου 1936 | Πινακίδα 19 (`1936-19`)
+- Ρυμοτομικό Σχέδιο Ηρακλείου 1956 - Εκτός Τειχών | Πινακίδα 17 (`1956-17`)
+- Σχέδιο ΠΕ περιοχής Πατέλες | Πινακίδα Φ2 (`2-12`)
+- Διάγραμμα Οριοθέτησης Οικισμού Μάραθος 2 (`2-2`)
+- Διάγραμμα Οριοθέτησης Οικισμού Καμάρι 2 (`2-4`)
+- Διάγραμμα Οριοθέτησης Οικισμού Παραθεριστικού Οικοδομικού Συνεταιρισμού Δασκάλων 2 (`2-7`)
+- Ρυμοτομικό Σχέδιο περιοχής Ν. Αλικαρνασσός | Πινακίδα 2.1.3 (`213`)
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Μαρίνας πινακίδα 3 (`3-4`)
+- Ρυμοτομικό Σχέδιο Θέρισσος Δειλινά | Πινακίδα 3 (`3-7`)
+- Αριθμός ημερών ανά έτος με ΤΧ > 35 °C - πολύ θερμές ημέρες (`35-c`)
+- Διάγραμμα Οριοθέτησης Οικισμού Γούρνες 6 (`6`)
+- Ρυμοτομικό σχέδιο περιοχής Σταλίδας πινακίδα 7 (`7-3`)
+- Ρυμοτομικό Σχέδιο περιοχής Λιμένα Χερσονήσου φύλλο 8 (`8`)
+- Ρυμοτομικό Σχέδιο περιοχής Λιμένα Χερσονήσου φύλλο 9 (`9`)
+- Adresse et géolocalisation des établissements d'enseignement des premier et second degrés (`adresse-et-geolocalisation-des-etablissements-denseignement-des-premier-et-second-degres`)
+- Agglo - Opérations d'aménagement (`agglo-operations-damenagement`)
+- Aménagements bus en Île-de-France (`amenagements-bus-en-ile-de-france`)
+- Aménagements cyclables (`amenagements-cyclables-1`)
+- Apprentissage - effectifs par CFA et par niveau 2006-2013 (`apprentissage-effectifs-par-cfa-et-par-niveau-2006-2013`)
+- …and 433 more
+
+### State changes (3481)
+- ΚΕΠ - Κέντρα Εξυπηρέτησης Πολιτών (`-24`) — VERIFIED → FAILING
+- 03 Station météo Toulouse Busca - archive2019 (`03-station-meteo-toulouse-busca-archive2019`) — VERIFIED → STALE
+- 08 Station météo Toulouse Basso Cambo - archive 2019 (`08-station-meteo-toulouse-basso-cambo-archive-2019`) — VERIFIED → STALE
+- 08 Station météo Toulouse Basso Cambo - archive 2021 (`08-station-meteo-toulouse-basso-cambo-archive-2021`) — VERIFIED → STALE
+- 09 Station météo Toulouse La Salade - archive 2021 (`09-station-meteo-toulouse-la-salade-archive-2021`) — STALE → VERIFIED
+- 11 Station météo Toulouse Soupetard - archive 2020 (`11-station-meteo-toulouse-soupetard-archive-2020`) — STALE → VERIFIED
+- 12 Station météo Toulouse Montaudran - archive 2019 (`12-station-meteo-toulouse-montaudran-archive-2019`) — VERIFIED → STALE
+- 12 Station météo Toulouse Montaudran - archive 2020 (`12-station-meteo-toulouse-montaudran-archive-2020`) — VERIFIED → STALE
+- 17 Station météo Fenouillet foyer - archive 2019 (`17-station-meteo-fenouillet-foyer-archive-2019`) — STALE → VERIFIED
+- 2014-2020 Plans des quartiers "Elus" (`2014-2020-plans-des-quartiers-elus`) — UNVERIFIED → VERIFIED
+- 2020-2026 Plans des quartiers élus (`2020-2026-plans-des-quartiers-elus`) — VERIFIED → STALE
+- 20241021_Fichier_adressage_ETIOLLES-AAjouter (`20241021fichieradressageetiolles-aajouter`) — STALE → VERIFIED
+- 22 Station météo Colomiers ZA Perget - archive 2022 (`22-station-meteo-colomiers-za-perget-archive-2022`) — STALE → VERIFIED
+- 23102025_Dane zgodne z ustawa deweloperską _Projekt Pawia _Kielce (`23102025dane-zgodne-z-ustawa-deweloperska-projekt-pawia-kielce`) — STALE → VERIFIED
+- 25 ans de prêts des collections du musée des Augustins (`25-ans-de-prets-des-collections-du-musee-des-augustins`) — VERIFIED → STALE
+- 4G Fixe (`4g-fixe`) — VERIFIED → STALE
+- Abonnés aux réseaux sociaux d'Issy-les-Moulineaux (`abonnes-aux-reseaux-sociaux-dissy-les-moulineaux`) — VERIFIED → STALE
+- Abonnés aux réseaux sociaux d'Issy-les-Moulineaux par mois (`abonnes-aux-reseaux-sociaux-dissy-les-moulineaux-par-mois`) — VERIFIED → STALE
+- Absentéisme des agents de la Région (siège et lycées) : arrêts par motif (`absenteisme-des-agents-de-la-region-siege-et-lycees-arrets-par-motif`) — STALE → VERIFIED
+- Accès aux îles de loisirs d’Île-de-France (`acces-aux-iles-de-loisirs-dile-de-france`) — VERIFIED → STALE
+- Accessibilité autour des établissements recevant du public - Diagnostique accessibilité 2014 Toulouse Métropole (`accessibilite-autour-des-etablissements-recevant-du-public-diagnostique-accessibilite-2014-toulouse-metropole`) — STALE → VERIFIED
+- Accidents corporels de la circulation millésimé (`accidents-corporels-de-la-circulation-millesime`) — STALE → VERIFIED
+- Accidents corporels de la circulation sur Bordeaux Métropole 2006-2011 (`accidents-corporels-de-la-circulation-sur-bordeaux-metropole-2006-2011`) — UNVERIFIED → VERIFIED
+- Accidents corporels de la circulation sur Bordeaux Métropole 2012-2019 (`accidents-corporels-de-la-circulation-sur-bordeaux-metropole-2012-2019`) — UNVERIFIED → VERIFIED
+- Accidents corporels sur Rennes Métropole (`accidents-corporels-sur-rennes-metropole`) — VERIFIED → STALE
+- …and 3456 more
+
 ## 2026-07-29
 
 ### Added (155)

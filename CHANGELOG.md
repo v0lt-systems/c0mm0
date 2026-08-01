@@ -2,6 +2,64 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-08-01
+
+### Added (2412)
+- Реєстр наборів даних, що перебувають у володінні Департаменту забезпечення ресурсних платежів Сумської міської ради (`-1`)
+- Адміністративні дані в значенні Закону України "Про державну статистику", що збираються (обробляються) та підлягають оприлюдненню відповідно до вимог закону розпорядником інформації (`-13`)
+- ΑΡΧΕΙΑ ΔΗΜΟΣΙΟΥ ΚΑΙ ΕΥΡΥΤΕΡΟΥ ΔΗΜΟΣΙΟΥ ΤΟΜΕΑ. ΓΑΚ ΚΑΣΤΟΡΙΑΣ (`-14`)
+- ΣΤΑΤΙΣΤΙΚΑ ΤΜΗΜΑΤΟΣ ΚΕΠ (`-5`)
+- Στατιστικά Στοιχεία ακαδημαϊκών ταυτοτήτων φοιτητών – ΠΣ ΑΚΑΔΗΜΑΪΚΗ ΤΑΥΤΟΤΗΤΑ (`-6`)
+- Статистичні дані щодо наданих послуг (організаційні заходи, обслуговування споживачів послуг, пасажироперевезення, інші показники з основних видів діяльності) (`-7`)
+- ΡΥΜΟΤΟΜΙΚΟ ΣΧΕΔΙΟ ΦΕΚ0/Α/ (`0`)
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0006 (`0006`)
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0007 (`0007`)
+- Διάγραμμα Εφαρμογής 001/2025 (`0012025`)
+- 008018FS000424-1976E (`008018fs000424-1976e`)
+- Ρυμοτομικό Σχέδιο περιοχής Πατέλες | Πινακίδα 01 (`01`)
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 01 (`01-2`)
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0105 (`0105`)
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0106 (`0106`)
+- Ρυμοτομικό Σχέδιο περιοχής Πατέλες | Πινακίδα 02 (`02`)
+- Ρυμοτομικό Σχέδιο Εκτός Τειχών - Δημητρίου | Πινακίδα 02 (`02-1`)
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 02 (`02-2`)
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 02 (`02-3`)
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0207 (`0207`)
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0208 (`0208`)
+- Ρυμοτομικό Σχέδιο περιοχής Πατέλες | Πινακίδα 03 (`03`)
+- Ρυμοτομικό Σχέδιο Εκτός Τειχών - Δημητρίου | Πινακίδα 03 (`03-1`)
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 03 (`03-2`)
+- 03_Biodiversity (MapServer) (`03biodiversity-mapserver`)
+- …and 2387 more
+
+### State changes (2815)
+- 01 Station météo Toulouse Météopole - archive2019 (`01-station-meteo-toulouse-meteopole-archive2019`) — VERIFIED → STALE
+- 03 Station météo Toulouse Busca - archive2019 (`03-station-meteo-toulouse-busca-archive2019`) — STALE → VERIFIED
+- 08 Station météo Toulouse Basso Cambo - archive 2019 (`08-station-meteo-toulouse-basso-cambo-archive-2019`) — STALE → VERIFIED
+- 08 Station météo Toulouse Basso Cambo - archive 2020 (`08-station-meteo-toulouse-basso-cambo-archive-2020`) — VERIFIED → STALE
+- 08 Station météo Toulouse Basso Cambo - archive 2021 (`08-station-meteo-toulouse-basso-cambo-archive-2021`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2019 (`09-station-meteo-toulouse-la-salade-archive-2019`) — VERIFIED → STALE
+- 09 Station météo Toulouse La Salade - archive 2020 (`09-station-meteo-toulouse-la-salade-archive-2020`) — VERIFIED → STALE
+- 12 Station météo Toulouse Montaudran - archive 2019 (`12-station-meteo-toulouse-montaudran-archive-2019`) — STALE → VERIFIED
+- 12 Station météo Toulouse Montaudran - archive 2020 (`12-station-meteo-toulouse-montaudran-archive-2020`) — STALE → VERIFIED
+- 17 Station météo Fenouillet foyer - archive 2020 (`17-station-meteo-fenouillet-foyer-archive-2020`) — VERIFIED → STALE
+- 18 Station météo Brax école - archive 2020 (`18-station-meteo-brax-ecole-archive-2020`) — VERIFIED → STALE
+- 18 Station météo Brax école - archive 2021 (`18-station-meteo-brax-ecole-archive-2021`) — VERIFIED → STALE
+- 18 Station météo Brax école - archive 2022 (`18-station-meteo-brax-ecole-archive-2022`) — VERIFIED → STALE
+- 2014-2020 Quartiers "Elus" de la ville de Strasbourg (`2014-2020-quartiers-elus-de-la-ville-de-strasbourg`) — VERIFIED → STALE
+- 2019-2023 - Contrats publics SemBreizh (`2019-2023-contrats-publics-sembreizh`) — FAILING → VERIFIED
+- 20241021_Fichier_adressage_LCM-A-Ajouter (`20241021fichieradressagelcm-a-ajouter`) — VERIFIED → STALE
+- 2025 Social Housing Rental Inventory (`2025-social-housing-rental-inventory`) — VERIFIED → STALE
+- 25 ans de prêts des collections du musée des Augustins (`25-ans-de-prets-des-collections-du-musee-des-augustins`) — STALE → VERIFIED
+- 4G Fixe (`4g-fixe`) — STALE → VERIFIED
+- Abonnés aux réseaux sociaux d'Issy-les-Moulineaux (`abonnes-aux-reseaux-sociaux-dissy-les-moulineaux`) — STALE → VERIFIED
+- Abonnés aux réseaux sociaux d'Issy-les-Moulineaux par mois (`abonnes-aux-reseaux-sociaux-dissy-les-moulineaux-par-mois`) — STALE → VERIFIED
+- Abribus SAEIV (`abribus-saeiv`) — VERIFIED → STALE
+- Abstellflächen und Parkverbotszonen E-Scooter Hamburg (`abstellflachen-und-parkverbotszonen-e-scooter-hamburg`) — VERIFIED → STALE
+- Acceslibre - Accessibilité des établissements recevant du public (ERP) pour les personnes en situation de handicap à Issy-les-Moulineaux (`acceslibre-accessibilite-des-etablissements-recevant-du-public-erp-pour-les-personnes-en-situation-de-handicap-a-issy-les-moulineaux`) — VERIFIED → STALE
+- Accessibilité des Traversées Piétonnes - Diagnostique accessibilité 2014 Toulouse Métropole (`accessibilite-des-traversees-pietonnes-diagnostique-accessibilite-2014-toulouse-metropole`) — VERIFIED → STALE
+- …and 2790 more
+
 ## 2026-07-31
 
 ### Added (458)

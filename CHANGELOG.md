@@ -2,6 +2,47 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-08-03
+
+### Added (9)
+- Αεροδρόμια - Ελικοδρόμια Π.Ε. Λασιθίου (`aerodromia-elikodromia-pe-lasithioy`)
+- Αρχαιλογικοί χώροι Π.Ε. Λασιθίου (`archailogikoi-choroi-pe-lasithioy`)
+- Χώροι απόθεσης απορριμάτων - μπαζών Π.Ε. Ηρακλείου (`choroi-apothesis-aporrimaton-mpazon-pe-irakleioy-1`)
+- Χώροι κατασκηνώσεων Π.Ε. Λασιθίου (`choroi-kataskinoseon-pe-lasithioy`)
+- Χώροι κατασκηνώσεων Π.Ε. Ρεθύμνου (`choroi-kataskinoseon-pe-rethymnoy`)
+- Δεξαμενές Π.Ε. Λασιθίου (`dexamenes-pe-lasithioy`)
+- Εκκλησιαστικά μνημεία Π.Ε. Ρεθύμνου (`ekklisiastika-mnimeia-pe-rethymnoy-1`)
+- Electoral Districts (Wahlkreise) - Germany (`electoral-districts-wahlkreise-germany`)
+- World Air Quality - OpenAQ (`world-air-quality-openaq`)
+
+### State changes (2792)
+- 01 Station météo Toulouse Météopole - archive2019 (`01-station-meteo-toulouse-meteopole-archive2019`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο Εκτός Τειχών - Δημητρίου | Πινακίδα 02 (`02-1`) — VERIFIED → STALE
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 02 (`02-3`) — UNVERIFIED → VERIFIED
+- Περιοχή συμβάντος - Αχλιά, Κρήτης 02/07/2025 (`02072025`) — UNVERIFIED → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Πατέλες | Πινακίδα 03 (`03`) — UNVERIFIED → VERIFIED
+- Ρυμοτομικό Σχέδιο Εκτός Τειχών - Δημητρίου | Πινακίδα 05 (`05`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 05 (`05-1`) — UNVERIFIED → VERIFIED
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0504 (`0504`) — UNVERIFIED → VERIFIED
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0705 (`0705`) — UNVERIFIED → VERIFIED
+- 08 Station météo Toulouse Basso Cambo - archive 2020 (`08-station-meteo-toulouse-basso-cambo-archive-2020`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2019 (`09-station-meteo-toulouse-la-salade-archive-2019`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2020 (`09-station-meteo-toulouse-la-salade-archive-2020`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2021 (`09-station-meteo-toulouse-la-salade-archive-2021`) — VERIFIED → STALE
+- Τοπικό Ρυμοτομικό ΒΙΠΕ-Τροποποίηση και επέκταση ρυμοτομικού - Πινακίδα 1 (`1-10`) — UNVERIFIED → VERIFIED
+- Π1 - Γενικό Πολεοδομικό Σχέδιο (ΓΠΣ) ΔΕ Παπάγου - Οριστική Πρόταση (`1-13`) — UNVERIFIED → VERIFIED
+- Διάγραμμα Πράξης Εφαρμογής - Συντ/νες Πολυγωνομετρικών- Πινακίδα 1 (`1-14`) — UNVERIFIED → VERIFIED
+- Π.1. ΧΡΗΣΕΙΣ ΓΗΣ - ΟΡΓΑΝΩΣΗ ΟΤΑ (`1-16`) — UNVERIFIED → VERIFIED
+- Διάγραμμα Πράξης Εφαρμογής Υπ' Αριθμ. 1 - Πινακίδα 3 (`1-3-1`) — UNVERIFIED → VERIFIED
+- Μελέτη Εφαρμογής Κοιν. Ωραιοκάστρου 1η-4η Πολ. Ενότητα (`1-4-1`) — UNVERIFIED → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Λιμένα Χερσονήσου φύλλο 10 (`10-1`) — VERIFIED → STALE
+- 10 Station météo Castelginest école - archive 2019 (`10-station-meteo-castelginest-ecole-archive-2019`) — VERIFIED → STALE
+- ΤΡΟΠΟΠΟΙΗΣΗ ΡΥΜΟΤΟΜΙΚΟΥ (ΦΕΚ 1053/1994/Ε) (`10531994-1`) — UNVERIFIED → VERIFIED
+- ΤΡΟΠΟΠΟΙΗΣΗ ΡΥΜΟΤΟΜΙΚΟΥ (ΦΕΚ 1053/1994/Ε) (`10531994-3`) — UNVERIFIED → VERIFIED
+- ΤΡΟΠΟΠΟΙΗΣΗ ΡΥΜΟΤΟΜΙΚΟΥ (ΦΕΚ 1053/1994/Ε) (`10531994-6`) — UNVERIFIED → VERIFIED
+- ΤΡΟΠΟΠΟΙΗΣΗ ΡΥΜΟΤΟΜΙΚΟΥ (ΦΕΚ 1053/1994/Ε) (`10531994-7`) — UNVERIFIED → VERIFIED
+- …and 2767 more
+
 ## 2026-08-02
 
 ### Added (757)

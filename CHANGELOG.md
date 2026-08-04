@@ -2,6 +2,43 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-08-04
+
+### Added (2)
+- Eurostat — Gross value added by industry, annual (nama_10_a64) (`eurostat-gva-by-industry-nama-10-a64`)
+- TED — Contract award notices, EU-wide (Search API v3) (`ted-contract-award-notices-eu`)
+
+### Removed (1)
+- Occupancy rate of accommodation establishments (October 2017) (`occupancy-rate-of-accommodation-establishments-october-2017`)
+
+### State changes (2729)
+- Πάρκα Τσέπης (`-42`) — VERIFIED → FAILING
+- ΚΥΑΔΑ (`-44`) — FAILING → VERIFIED
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0007 (`0007`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 01 (`01-1`) — UNVERIFIED → VERIFIED
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 01 (`01-2`) — UNVERIFIED → VERIFIED
+- Χάρτης Πυρκαγιάς - Αχλιά, Κρήτη 02-07-2025 (`02-07-2025`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 02 (`02-2`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0208 (`0208`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο Εκτός Τειχών - Δημητρίου | Πινακίδα 03 (`03-1`) — UNVERIFIED → VERIFIED
+- 03 Station météo Toulouse Busca - archive2019 (`03-station-meteo-toulouse-busca-archive2019`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο Εκτός Τειχών - Δημητρίου | Πινακίδα 04 (`04-1`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 04 (`04-2`) — VERIFIED → STALE
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 04 (`04-3`) — UNVERIFIED → VERIFIED
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0404 (`0404`) — UNVERIFIED → VERIFIED
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0605 (`0605`) — UNVERIFIED → VERIFIED
+- 08 Station météo Toulouse Basso Cambo - archive 2019 (`08-station-meteo-toulouse-basso-cambo-archive-2019`) — VERIFIED → STALE
+- 08 Station météo Toulouse Basso Cambo - archive 2021 (`08-station-meteo-toulouse-basso-cambo-archive-2021`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο Θέρισσος Δειλινά | Πινακίδα 1 (`1-11`) — VERIFIED → STALE
+- Ποτάμια Υδατικά Συστήματα Ελλάδας - 1η Αναθεώρηση (`1-18`) — UNVERIFIED → VERIFIED
+- Λιμναία Υδατικά Συστήματα Ελλάδας: Ταμιευτήρες - 1η Αναθεώρηση (`1-19`) — VERIFIED → STALE
+- Λιμναία Υδατικά Συστήματα Ελλάδας: Φυσικές Λίμνες - 1η Αναθεώρηση (`1-20`) — UNVERIFIED → VERIFIED
+- Υπόγεια Υδατικά Συστήματα Ελλάδας - 1η Αναθεώρηση (`1-21`) — UNVERIFIED → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Λιμένα Χερσονήσου φύλλο 1 (`1-4`) — UNVERIFIED → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Μαρίνας πινακίδα 1 (`1-7`) — UNVERIFIED → VERIFIED
+- Σχέδιο ΠΕ περιοχής Θαλασσινά Νέας Αλικαρνασσού | Πινακίδα Τ1 (`1-8`) — UNVERIFIED → VERIFIED
+- …and 2704 more
+
 ## 2026-08-03
 
 ### Added (9)

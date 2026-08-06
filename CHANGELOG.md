@@ -2,6 +2,39 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-08-06
+
+### Removed (1)
+- Probabilistic Disaster Risk (`probabilistic-disaster-risk`)
+
+### State changes (2868)
+- Ιστορικός Άξονας Οδού Πειραιώς (`-48`) — VERIFIED → FAILING
+- 01 Station météo Toulouse Météopole - archive2019 (`01-station-meteo-toulouse-meteopole-archive2019`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0105 (`0105`) — UNVERIFIED → VERIFIED
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 02 (`02-3`) — VERIFIED → STALE
+- Περιοχή συμβάντος - Αχλιά, Κρήτης 02/07/2025 (`02072025`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Πατέλες | Πινακίδα 03 (`03`) — VERIFIED → STALE
+- 03 Station météo Toulouse Busca - archive2019 (`03-station-meteo-toulouse-busca-archive2019`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0306 (`0306`) — UNVERIFIED → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 05 (`05-1`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0504 (`0504`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 07 (`07`) — UNVERIFIED → VERIFIED
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 07 (`07-1`) — UNVERIFIED → VERIFIED
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0705 (`0705`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 08 (`08`) — UNVERIFIED → VERIFIED
+- 08 Station météo Toulouse Basso Cambo - archive 2019 (`08-station-meteo-toulouse-basso-cambo-archive-2019`) — STALE → VERIFIED
+- 08 Station météo Toulouse Basso Cambo - archive 2020 (`08-station-meteo-toulouse-basso-cambo-archive-2020`) — VERIFIED → STALE
+- 08 Station météo Toulouse Basso Cambo - archive 2021 (`08-station-meteo-toulouse-basso-cambo-archive-2021`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2019 (`09-station-meteo-toulouse-la-salade-archive-2019`) — VERIFIED → STALE
+- 09 Station météo Toulouse La Salade - archive 2020 (`09-station-meteo-toulouse-la-salade-archive-2020`) — VERIFIED → STALE
+- Τοπικό Ρυμοτομικό ΒΙΠΕ-Τροποποίηση και επέκταση ρυμοτομικού - Πινακίδα 1 (`1-10`) — VERIFIED → STALE
+- Μεταβατικά Υδατικά Συστήματα Ελλάδας - 1η Αναθεώρηση (`1-17`) — UNVERIFIED → VERIFIED
+- Παράκτια Υδατικά Συστήματα Ελλάδας - 1η Αναθεώρηση (`1-22`) — UNVERIFIED → VERIFIED
+- Ρυμοτομικό σχέδιο περιοχής Σταλίδας πινακίδα 1 (`1-3`) — UNVERIFIED → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Ν. Αλικαρνασσός - Ανατολικά | Πινακίδα 1 (`1-6`) — UNVERIFIED → VERIFIED
+- Διάγραμμα Ρυμοτομικού Σχεδίου ΒΙ.ΠΕ-Πινακίδα 1 (`1-9`) — UNVERIFIED → VERIFIED
+- …and 2843 more
+
 ## 2026-08-05
 
 ### State changes (2684)

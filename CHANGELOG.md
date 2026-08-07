@@ -2,6 +2,44 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-08-07
+
+### Removed (6)
+- API: Ferdige datasett fra SSBs statistikkbank (`api-ferdige-datasett-fra-ssbs-statistikkbank`)
+- Felles datakatalogs begrepshøster (`felles-datakatalogs-begrepshster`)
+- Felles datakatalogs informasjonsmodellhøster (`felles-datakatalogs-informasjonsmodellhster`)
+- Felles datasettkatalogs datasetthøster (`felles-datasettkatalogs-datasetthster`)
+- Felles datasettkatalogs datatjenestehøster (`felles-datasettkatalogs-datatjenestehster`)
+- OED API (`oed-api`)
+
+### State changes (2784)
+- Νοσοκομεία στο Δήμο Αθηναίων (`-21`) — VERIFIED → FAILING
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0006 (`0006`) — UNVERIFIED → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 01 (`01-1`) — VERIFIED → STALE
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 01 (`01-2`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0106 (`0106`) — UNVERIFIED → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Πατέλες | Πινακίδα 02 (`02`) — UNVERIFIED → VERIFIED
+- Χάρτης Πυρκαγιάς - Αχλιά, Κρήτη 02-07-2025 (`02-07-2025`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο Εκτός Τειχών - Δημητρίου | Πινακίδα 03 (`03-1`) — VERIFIED → STALE
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 03 (`03-3`) — UNVERIFIED → VERIFIED
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 04 (`04-3`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0404 (`0404`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0605 (`0605`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Πατέλες | Πινακίδα Φ1 (`1-1`) — UNVERIFIED → VERIFIED
+- Ποτάμια Υδατικά Συστήματα Ελλάδας - 1η Αναθεώρηση (`1-18`) — VERIFIED → STALE
+- Λιμναία Υδατικά Συστήματα Ελλάδας: Φυσικές Λίμνες - 1η Αναθεώρηση (`1-20`) — VERIFIED → STALE
+- Υπόγεια Υδατικά Συστήματα Ελλάδας - 1η Αναθεώρηση (`1-21`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Λιμένα Χερσονήσου φύλλο 1 (`1-4`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Γαζίου πινακίδα 1 (`1-5`) — UNVERIFIED → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Μαρίνας πινακίδα 1 (`1-7`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Θαλασσινά Νέας Αλικαρνασσού | Πινακίδα Τ1 (`1-8`) — VERIFIED → STALE
+- Ρυμοτομικό σχέδιο περιοχής Σταλίδας πινακίδα 11 (`11`) — VERIFIED → STALE
+- 11 Station météo Toulouse Soupetard - archive 2020 (`11-station-meteo-toulouse-soupetard-archive-2020`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Λιμένα Χερσονήσου φύλλο 12 (`12-1`) — UNVERIFIED → VERIFIED
+- Χάρτης Πλημμύρας - Μάλια 13-11-2020 (`13-11-2020`) — STALE → VERIFIED
+- Χάρτης Πλημμύρας 13-11-2020 - Αδελιανός Κάμπος Ρεθύμνου - Οδικό Δίκτυο (`13-11-2020-10`) — VERIFIED → STALE
+- …and 2759 more
+
 ## 2026-08-06
 
 ### Removed (1)

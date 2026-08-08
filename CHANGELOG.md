@@ -2,6 +2,36 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-08-08
+
+### State changes (2660)
+- Νοσοκομεία στο Δήμο Αθηναίων (`-21`) — FAILING → VERIFIED
+- Ιστορικός Άξονας Οδού Πειραιώς (`-48`) — FAILING → VERIFIED
+- 01 Station météo Toulouse Météopole - archive2019 (`01-station-meteo-toulouse-meteopole-archive2019`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0405 (`0405`) — UNVERIFIED → VERIFIED
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 05 (`05-2`) — UNVERIFIED → VERIFIED
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0505 (`0505`) — VERIFIED → STALE
+- 08 Station météo Toulouse Basso Cambo - archive 2020 (`08-station-meteo-toulouse-basso-cambo-archive-2020`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2019 (`09-station-meteo-toulouse-la-salade-archive-2019`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2020 (`09-station-meteo-toulouse-la-salade-archive-2020`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2021 (`09-station-meteo-toulouse-la-salade-archive-2021`) — VERIFIED → STALE
+- Λιμναία Υδατικά Συστήματα Ελλάδας: Ταμιευτήρες - 1η Αναθεώρηση (`1-19`) — STALE → VERIFIED
+- 10 Station météo Castelginest école - archive 2019 (`10-station-meteo-castelginest-ecole-archive-2019`) — VERIFIED → STALE
+- Χάρτης Πλημμύρας 13-11-2020 - Μάλια Ηρακλείου - Υδρογραφία (Πολύγωνα) (`13-11-2020-1`) — VERIFIED → STALE
+- Χάρτης Πλημμύρας 13-11-2020 - Αδελιανός Κάμπος Ρεθύμνου - Κάλυψη Γης (`13-11-2020-13`) — STALE → VERIFIED
+- Χάρτης Πλημμύρας 13-11-2020 - Αδελιανός Κάμπος Ρεθύμνου - Ίχνη Διαγραμμάτων (`13-11-2020-14`) — VERIFIED → STALE
+- Χάρτης Πλημμύρας 13-11-2020 - Τζερμιάδο Λασιθίου - Υποδομές Δικτύου Μεταφορών (`13-11-2020-20`) — VERIFIED → STALE
+- Χάρτης Πλημμύρας 13-11-2020 - Τζερμιάδο Λασιθίου - Υδρογραφία (Πολύγωνα) (`13-11-2020-26`) — STALE → VERIFIED
+- Χάρτης Πλημμύρας 13-11-2020 - Τζερμιάδο Λασιθίου - Κτήρια (Πολύγωνα) (`13-11-2020-28`) — STALE → VERIFIED
+- Χάρτης Πλημμύρας 13-11-2020 - Τζερμιάδο Λασιθίου - Κτήρια (Σημεία) (`13-11-2020-29`) — STALE → VERIFIED
+- Χάρτης Πλημμύρας 13-11-2020 - Μάλια Ηρακλείου - Οδικό Δίκτυο (`13-11-2020-32`) — VERIFIED → STALE
+- Χάρτης Πλημμύρας 13-11-2020 - Μάλια Ηρακλείου - Ισοϋψείς (`13-11-2020-33`) — STALE → VERIFIED
+- Χάρτης Πλημμύρας 13-11-2020 - Μάλια Ηρακλείου - Δεδομένα Περιστατικού (`13-11-2020-34`) — VERIFIED → STALE
+- Χάρτης Πλημμύρας 13-11-2020 - Μάλια Ηρακλείου - Κάλυψη Γης (`13-11-2020-35`) — STALE → VERIFIED
+- Χάρτης Πλημμύρας 13-11-2020 - Βωλεώνες Ρεθύμνου - Οδικό Δίκτυο (`13-11-2020-38`) — VERIFIED → STALE
+- Χάρτης Πλημμύρας 13-11-2020 - Βωλεώνες Ρεθύμνου - Υδρογραφία (Γραμμές) (`13-11-2020-6`) — VERIFIED → STALE
+- …and 2635 more
+
 ## 2026-08-07
 
 ### Removed (6)

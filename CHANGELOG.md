@@ -2,6 +2,39 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-08-09
+
+### Removed (1)
+- [DEPRECATED]  Official Journals of the European Union (Slovak) (`deprecated-official-journals-of-the-european-union-slovak`)
+
+### State changes (2836)
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0105 (`0105`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0207 (`0207`) — UNVERIFIED → VERIFIED
+- 03 Station météo Toulouse Busca - archive2019 (`03-station-meteo-toulouse-busca-archive2019`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0306 (`0306`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 06 (`06`) — UNVERIFIED → VERIFIED
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 06 (`06-1`) — UNVERIFIED → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 07 (`07`) — VERIFIED → STALE
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 07 (`07-1`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 08 (`08`) — VERIFIED → STALE
+- 08 Station météo Toulouse Basso Cambo - archive 2019 (`08-station-meteo-toulouse-basso-cambo-archive-2019`) — VERIFIED → STALE
+- 08 Station météo Toulouse Basso Cambo - archive 2021 (`08-station-meteo-toulouse-basso-cambo-archive-2021`) — VERIFIED → STALE
+- 09 Station météo Toulouse La Salade - archive 2021 (`09-station-meteo-toulouse-la-salade-archive-2021`) — STALE → VERIFIED
+- Μεταβατικά Υδατικά Συστήματα Ελλάδας - 1η Αναθεώρηση (`1-17`) — VERIFIED → STALE
+- Διάγραμμα Οριοθέτησης Οικισμού Παραθεριστικού Οικοδομικού Συνεταιρισμού Δασκάλων 1 (`1-2`) — UNVERIFIED → VERIFIED
+- Παράκτια Υδατικά Συστήματα Ελλάδας - 1η Αναθεώρηση (`1-22`) — VERIFIED → STALE
+- Ρυμοτομικό σχέδιο περιοχής Σταλίδας πινακίδα 1 (`1-3`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Ν. Αλικαρνασσός - Ανατολικά | Πινακίδα 1 (`1-6`) — VERIFIED → STALE
+- Διάγραμμα Ρυμοτομικού Σχεδίου ΒΙ.ΠΕ-Πινακίδα 1 (`1-9`) — VERIFIED → STALE
+- 11 Station météo Toulouse Soupetard - archive 2020 (`11-station-meteo-toulouse-soupetard-archive-2020`) — STALE → VERIFIED
+- 12 Station météo Toulouse Montaudran - archive 2019 (`12-station-meteo-toulouse-montaudran-archive-2019`) — VERIFIED → STALE
+- 12 Station météo Toulouse Montaudran - archive 2020 (`12-station-meteo-toulouse-montaudran-archive-2020`) — VERIFIED → STALE
+- Χάρτης Πλημμύρας 13-11-2020 - Αδελιανός Κάμπος Ρεθύμνου - Δεδομένα Περιστατικού (`13-11-2020-12`) — STALE → VERIFIED
+- Χάρτης Πλημμύρας 13-11-2020 - Αδελιανός Κάμπος Ρεθύμνου - Υδρογραφία (Γραμμές) (`13-11-2020-16`) — STALE → VERIFIED
+- Χάρτης Πλημμύρας 13-11-2020 - Μάλια Ηρακλείου - Υδρογραφία (Γραμμές) (`13-11-2020-2`) — VERIFIED → STALE
+- Χάρτης Πλημμύρας 13-11-2020 - Τζερμιάδο Λασιθίου - Οδικό Δίκτυο (`13-11-2020-21`) — STALE → VERIFIED
+- …and 2811 more
+
 ## 2026-08-08
 
 ### State changes (2660)

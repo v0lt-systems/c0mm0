@@ -2,6 +2,36 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-08-18
+
+### State changes (2745)
+- ΚΕΠ - Κέντρα Εξυπηρέτησης Πολιτών (`-24`) — VERIFIED → FAILING
+- Τοπωνύμια Δήμου Αθηναίων (`-59`) — VERIFIED → FAILING
+- 01 Station météo Toulouse Météopole - archive2019 (`01-station-meteo-toulouse-meteopole-archive2019`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0105 (`0105`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0405 (`0405`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 06 (`06`) — STALE → VERIFIED
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 06 (`06-1`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 07 (`07`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 08 (`08`) — VERIFIED → STALE
+- 08 Station météo Toulouse Basso Cambo - archive 2020 (`08-station-meteo-toulouse-basso-cambo-archive-2020`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2020 (`09-station-meteo-toulouse-la-salade-archive-2020`) — STALE → VERIFIED
+- Διάγραμμα Οριοθέτησης Οικισμού Παραθεριστικού Οικοδομικού Συνεταιρισμού Δασκάλων 1 (`1-2`) — STALE → VERIFIED
+- Λιμναία Υδατικά Συστήματα Ελλάδας: Φυσικές Λίμνες - 1η Αναθεώρηση (`1-20`) — STALE → VERIFIED
+- Υπόγεια Υδατικά Συστήματα Ελλάδας - 1η Αναθεώρηση (`1-21`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Ν. Αλικαρνασσός - Ανατολικά | Πινακίδα 1 (`1-6`) — VERIFIED → STALE
+- Διάγραμμα Ρυμοτομικού Σχεδίου ΒΙ.ΠΕ-Πινακίδα 1 (`1-9`) — VERIFIED → STALE
+- 10 Station météo Castelginest école - archive 2019 (`10-station-meteo-castelginest-ecole-archive-2019`) — VERIFIED → STALE
+- 12 Station météo Toulouse Montaudran - archive 2019 (`12-station-meteo-toulouse-montaudran-archive-2019`) — VERIFIED → STALE
+- Χάρτης Πλημμύρας 13-11-2020 - Μάλια Ηρακλείου - Υδρογραφία (Πολύγωνα) (`13-11-2020-1`) — STALE → VERIFIED
+- Χάρτης Πλημμύρας 13-11-2020 - Αδελιανός Κάμπος Ρεθύμνου - Ίχνη Διαγραμμάτων (`13-11-2020-14`) — STALE → VERIFIED
+- Χάρτης Πλημμύρας 13-11-2020 - Τζερμιάδο Λασιθίου - Υποδομές Δικτύου Μεταφορών (`13-11-2020-20`) — STALE → VERIFIED
+- Χάρτης Πλημμύρας 13-11-2020 - Τζερμιάδο Λασιθίου - Οδικό Δίκτυο (`13-11-2020-21`) — VERIFIED → STALE
+- Χάρτης Πλημμύρας 13-11-2020 - Τζερμιάδο Λασιθίου - Υδρογραφία (Πολύγωνα) (`13-11-2020-26`) — VERIFIED → STALE
+- Χάρτης Πλημμύρας 13-11-2020 - Τζερμιάδο Λασιθίου - Κτήρια (Πολύγωνα) (`13-11-2020-28`) — VERIFIED → STALE
+- Χάρτης Πλημμύρας 13-11-2020 - Τζερμιάδο Λασιθίου - Κτήρια (Σημεία) (`13-11-2020-29`) — VERIFIED → STALE
+- …and 2720 more
+
 ## 2026-08-17
 
 ### State changes (2847)

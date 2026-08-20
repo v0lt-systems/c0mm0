@@ -2,6 +2,36 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-08-20
+
+### State changes (2753)
+- ΚΕΠ - Κέντρα Εξυπηρέτησης Πολιτών (`-24`) — FAILING → VERIFIED
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0208 (`0208`) — STALE → VERIFIED
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 03 (`03-3`) — VERIFIED → STALE
+- 03 Station météo Toulouse Busca - archive2019 (`03-station-meteo-toulouse-busca-archive2019`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο Εκτός Τειχών - Δημητρίου | Πινακίδα 04 (`04-1`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 04 (`04-2`) — STALE → VERIFIED
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 05 (`05-2`) — VERIFIED → STALE
+- 09 Station météo Toulouse La Salade - archive 2019 (`09-station-meteo-toulouse-la-salade-archive-2019`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο Θέρισσος Δειλινά | Πινακίδα 1 (`1-11`) — STALE → VERIFIED
+- Ποτάμια Υδατικά Συστήματα Ελλάδας - 1η Αναθεώρηση (`1-18`) — VERIFIED → STALE
+- Παράκτια Υδατικά Συστήματα Ελλάδας - 1η Αναθεώρηση (`1-22`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Γαζίου πινακίδα 1 (`1-5`) — VERIFIED → STALE
+- Ρυμοτομικό σχέδιο περιοχής Σταλίδας πινακίδα 10 (`10`) — STALE → VERIFIED
+- 10 Station météo Castelginest école - archive 2019 (`10-station-meteo-castelginest-ecole-archive-2019`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Λιμένα Χερσονήσου φύλλο 11 (`11-1`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Λιμένα Χερσονήσου φύλλο 12 (`12-1`) — VERIFIED → STALE
+- 12 Station météo Toulouse Montaudran - archive 2019 (`12-station-meteo-toulouse-montaudran-archive-2019`) — STALE → VERIFIED
+- Χάρτης Πλημμύρας 13-11-2020 - Αδελιανός Κάμπος Ρεθύμνου - Οδικό Δίκτυο (`13-11-2020-10`) — VERIFIED → STALE
+- Χάρτης Πλημμύρας 13-11-2020 - Αδελιανός Κάμπος Ρεθύμνου - Ισοϋψείς (`13-11-2020-11`) — VERIFIED → STALE
+- Χάρτης Πλημμύρας 13-11-2020 - Αδελιανός Κάμπος Ρεθύμνου - Υδρογραφία (Πολύγωνα) (`13-11-2020-15`) — VERIFIED → STALE
+- Χάρτης Πλημμύρας 13-11-2020 - Αδελιανός Κάμπος Ρεθύμνου - Κτήρια (`13-11-2020-17`) — STALE → VERIFIED
+- Χάρτης Πλημμύρας 13-11-2020 - Αδελιανός Κάμπος Ρεθύμνου - Περιοχή Ενδιαφέροντος (`13-11-2020-18`) — VERIFIED → STALE
+- Χάρτης Πλημμύρας 13-11-2020 - Τζερμιάδο Λασιθίου - Ισοϋψείς (`13-11-2020-22`) — STALE → VERIFIED
+- Χάρτης Πλημμύρας 13-11-2020 - Τζερμιάδο Λασιθίου - Δεδομένα Περιστατικού (`13-11-2020-23`) — STALE → VERIFIED
+- Χάρτης Πλημμύρας 13-11-2020 - Τζερμιάδο Λασιθίου - Κάλυψη Γης (`13-11-2020-24`) — VERIFIED → STALE
+- …and 2728 more
+
 ## 2026-08-19
 
 ### State changes (2712)

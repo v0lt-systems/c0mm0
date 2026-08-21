@@ -2,6 +2,36 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-08-21
+
+### State changes (2915)
+- Διοικητικές, Οικονομικές, Τεχνικές κλπ Υπηρεσίες Δήμου Αθηναίων (`-36`) — FAILING → VERIFIED
+- Τοπωνύμια Δήμου Αθηναίων (`-59`) — FAILING → VERIFIED
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0007 (`0007`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Πατέλες | Πινακίδα 01 (`01`) — STALE → VERIFIED
+- 01 Station météo Toulouse Météopole - archive2019 (`01-station-meteo-toulouse-meteopole-archive2019`) — VERIFIED → STALE
+- Χάρτης Πυρκαγιάς - Αχλιά, Κρήτη 02-07-2025 (`02-07-2025`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 02 (`02-2`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 03 (`03-2`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0304 (`0304`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0405 (`0405`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 06 (`06`) — VERIFIED → STALE
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 06 (`06-1`) — VERIFIED → STALE
+- 08 Station météo Toulouse Basso Cambo - archive 2019 (`08-station-meteo-toulouse-basso-cambo-archive-2019`) — STALE → VERIFIED
+- 08 Station météo Toulouse Basso Cambo - archive 2020 (`08-station-meteo-toulouse-basso-cambo-archive-2020`) — VERIFIED → STALE
+- 08 Station météo Toulouse Basso Cambo - archive 2021 (`08-station-meteo-toulouse-basso-cambo-archive-2021`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 09 (`09`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2020 (`09-station-meteo-toulouse-la-salade-archive-2020`) — VERIFIED → STALE
+- Λιμναία Υδατικά Συστήματα Ελλάδας: Ταμιευτήρες - 1η Αναθεώρηση (`1-19`) — STALE → VERIFIED
+- Διάγραμμα Οριοθέτησης Οικισμού Παραθεριστικού Οικοδομικού Συνεταιρισμού Δασκάλων 1 (`1-2`) — VERIFIED → STALE
+- Λιμναία Υδατικά Συστήματα Ελλάδας: Φυσικές Λίμνες - 1η Αναθεώρηση (`1-20`) — VERIFIED → STALE
+- Υπόγεια Υδατικά Συστήματα Ελλάδας - 1η Αναθεώρηση (`1-21`) — VERIFIED → STALE
+- Τοπικό Ρυμοτομικό 10ο Γυμνάσιο Ηρακλέιου (`10-2`) — STALE → VERIFIED
+- Γ.Π.Σ. Μαλίων (1/3) (`13`) — STALE → VERIFIED
+- Χάρτης Πλημμύρας - Μάλια 13-11-2020 (`13-11-2020`) — STALE → VERIFIED
+- Χάρτης Πλημμύρας 13-11-2020 - Μάλια Ηρακλείου - Υδρογραφία (Πολύγωνα) (`13-11-2020-1`) — VERIFIED → STALE
+- …and 2890 more
+
 ## 2026-08-20
 
 ### State changes (2753)

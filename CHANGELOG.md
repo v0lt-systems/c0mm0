@@ -2,6 +2,36 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-08-22
+
+### State changes (2759)
+- 01 Station météo Toulouse Météopole - archive2019 (`01-station-meteo-toulouse-meteopole-archive2019`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο Εκτός Τειχών - Δημητρίου | Πινακίδα 02 (`02-1`) — VERIFIED → STALE
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 02 (`02-3`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0207 (`0207`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Πατέλες | Πινακίδα 03 (`03`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο Εκτός Τειχών - Δημητρίου | Πινακίδα 05 (`05`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 05 (`05-1`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0504 (`0504`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0705 (`0705`) — STALE → VERIFIED
+- 08 Station météo Toulouse Basso Cambo - archive 2020 (`08-station-meteo-toulouse-basso-cambo-archive-2020`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2019 (`09-station-meteo-toulouse-la-salade-archive-2019`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2020 (`09-station-meteo-toulouse-la-salade-archive-2020`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2021 (`09-station-meteo-toulouse-la-salade-archive-2021`) — VERIFIED → STALE
+- Τοπικό Ρυμοτομικό ΒΙΠΕ-Τροποποίηση και επέκταση ρυμοτομικού - Πινακίδα 1 (`1-10`) — STALE → VERIFIED
+- Μεταβατικά Υδατικά Συστήματα Ελλάδας - 1η Αναθεώρηση (`1-17`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Λιμένα Χερσονήσου φύλλο 10 (`10-1`) — VERIFIED → STALE
+- 11 Station météo Toulouse Soupetard - archive 2020 (`11-station-meteo-toulouse-soupetard-archive-2020`) — VERIFIED → STALE
+- Ρυμοτομικό σχέδιο περιοχής Σταλίδας πινακίδα 12 (`12`) — STALE → VERIFIED
+- Χάρτης Πλημμύρας 13-11-2020 - Αδελιανός Κάμπος Ρεθύμνου - Δεδομένα Περιστατικού (`13-11-2020-12`) — STALE → VERIFIED
+- Χάρτης Πλημμύρας 13-11-2020 - Αδελιανός Κάμπος Ρεθύμνου - Υδρογραφία (Γραμμές) (`13-11-2020-16`) — STALE → VERIFIED
+- Χάρτης Πλημμύρας 13-11-2020 - Μάλια Ηρακλείου - Υδρογραφία (Γραμμές) (`13-11-2020-2`) — VERIFIED → STALE
+- Χάρτης Πλημμύρας 13-11-2020 - Τζερμιάδο Λασιθίου - Οδικό Δίκτυο (`13-11-2020-21`) — STALE → VERIFIED
+- Χάρτης Πλημμύρας 13-11-2020 - Τζερμιάδο Λασιθίου - Ίχνη Διαγραμμάτων (`13-11-2020-25`) — STALE → VERIFIED
+- Χάρτης Πλημμύρας 13-11-2020 - Τζερμιάδο Λασιθίου - Υδρογραφία (Πολύγωνα) (`13-11-2020-26`) — STALE → VERIFIED
+- Χάρτης Πλημμύρας 13-11-2020 - Μάλια Ηρακλείου - Οδικό Δίκτυο (`13-11-2020-32`) — VERIFIED → STALE
+- …and 2734 more
+
 ## 2026-08-21
 
 ### State changes (2915)

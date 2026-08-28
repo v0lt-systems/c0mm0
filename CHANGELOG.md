@@ -2,6 +2,64 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-08-28
+
+### Removed (34)
+- Cartografía de Ocupación del Suelo de la Comunitat Valenciana (COSCV). Año de edición 2024 (`cartografia-de-ocupacion-del-suelo-de-la-comunitat-valenciana-coscv-ano-de-edicion-2024-1`)
+- Hojas de la cartografía histórica 1:25.000 (1923-1925), toponímicas y topográficas de Bizkaia (`hojas-de-la-cartografia-historica-125000-1923-1925-toponimicas-y-topograficas-de-bizkaia-1`)
+- Instalaciones con autorización ambiental integrada (IPPC) en la Comunitat Valenciana (`instalaciones-con-autorizacion-ambiental-integrada-ippc-en-la-comunitat-valenciana-1`)
+- Mapa electoral municipal de la Comunitat Valenciana: Elecciones Europeas (`mapa-electoral-municipal-de-la-comunitat-valenciana-elecciones-europeas-1`)
+- Mapas Agroclimáticos de la Comunitat Valenciana: Zonas aptas para el cultivo del aguacate (`mapas-agroclimaticos-de-la-comunitat-valenciana-zonas-aptas-para-el-cultivo-del-aguacate-1`)
+- Municipios afectados por la dana del 29/10/2024 incluidos en el Decreto 163/2024 (`municipios-afectados-por-la-dana-del-29102024-incluidos-en-el-decreto-1632024-1`)
+- Nivel de riesgo municipal por inundación fluvial de la dana del 29/10/2024 (`nivel-de-riesgo-municipal-por-inundacion-fluvial-de-la-dana-del-29102024-1`)
+- Ortofoto de 1977 Interministerial de la Comunitat Valenciana pancromática y de 25 cm de resolución (`ortofoto-de-1977-interministerial-de-la-comunitat-valenciana-pancromatica-y-de-25-cm-de-resolucion-1`)
+- Ortofoto de 1985 Nacional de la Comunitat Valenciana pancromática y de 50 cm de resolución (`ortofoto-de-1985-nacional-de-la-comunitat-valenciana-pancromatica-y-de-50-cm-de-resolucion-1`)
+- Ortofoto de 2007 de la franja costera valenciana en RGB y de 10 cm de resolución (`ortofoto-de-2007-de-la-franja-costera-valenciana-en-rgb-y-de-10-cm-de-resolucion-1`)
+- Ortofoto de 2009 de la franja costera valenciana en RGB y de 10 cm de resolución (`ortofoto-de-2009-de-la-franja-costera-valenciana-en-rgb-y-de-10-cm-de-resolucion-1`)
+- Ortoimágenes de Bizkaia del año 1956 (`ortoimagenes-de-bizkaia-del-ano-1956-1`)
+- Pesca. Zonas con presencia de especies catalogadas como invasoras antes de 2007 de la Comunitat Valenciana (`pesca-zonas-con-presencia-de-especies-catalogadas-como-invasoras-antes-de-2007-de-la-comunitat-valenciana-1`)
+- Pistas en Espacios Naturales Protegidos de Bizkaia (`pistas-en-espacios-naturales-protegidos-de-bizkaia-1`)
+- Planes de mejora de la Calidad del Aire en la Comunitat Valenciana (`planes-de-mejora-de-la-calidad-del-aire-en-la-comunitat-valenciana-1`)
+- Población asalariada registrada de 16 a 24 años de edad. Media anual. Barrios de Canarias. 2024. Mapa temático de coropletas de 5 intervalos por cuantiles (`poblacion-asalariada-registrada-de-16-a-24-anos-de-edad-media-anual-barrios-de-canarias-2024-mapa-tematico-de-coropletas-de-5-intervalos-por-cuantiles-1`)
+- Población asalariada registrada de 25 a 34 años de edad. Media anual. Barrios de Canarias. 2024. Mapa temático de coropletas de 5 intervalos por cuantiles (`poblacion-asalariada-registrada-de-25-a-34-anos-de-edad-media-anual-barrios-de-canarias-2024-mapa-tematico-de-coropletas-de-5-intervalos-por-cuantiles-1`)
+- Población asalariada registrada de 45 a 54 años de edad. Media anual. Barrios de Canarias. 2024. Mapa temático de coropletas de 5 intervalos por cuantiles (`poblacion-asalariada-registrada-de-45-a-54-anos-de-edad-media-anual-barrios-de-canarias-2024-mapa-tematico-de-coropletas-de-5-intervalos-por-cuantiles-1`)
+- Población asalariada registrada de 55 o más años de edad. Media anual. Barrios de Canarias. 2024. Mapa temático de coropletas de 5 intervalos por cuantiles (`poblacion-asalariada-registrada-de-55-o-mas-anos-de-edad-media-anual-barrios-de-canarias-2024-mapa-tematico-de-coropletas-de-5-intervalos-por-cuantiles-1`)
+- Población asalariada registrada del sector privado. Mujeres. Media anual. Barrios de Canarias. 2024. Mapa temático de coropletas de 5 intervalos por cuantiles (`poblacion-asalariada-registrada-del-sector-privado-mujeres-media-anual-barrios-de-canarias-2024-mapa-tematico-de-coropletas-de-5-intervalos-por-cuantiles-1`)
+- Población asalariada registrada del sector público. Media anual. Barrios de Canarias. 2024. Mapa temático de coropletas de 5 intervalos por cuantiles (`poblacion-asalariada-registrada-del-sector-publico-media-anual-barrios-de-canarias-2024-mapa-tematico-de-coropletas-de-5-intervalos-por-cuantiles-1`)
+- Población asalariada registrada del sector público. Mujeres. Media anual. Barrios de Canarias. 2024. Mapa temático de coropletas de 5 intervalos por cuantiles (`poblacion-asalariada-registrada-del-sector-publico-mujeres-media-anual-barrios-de-canarias-2024-mapa-tematico-de-coropletas-de-5-intervalos-por-cuantiles-1`)
+- Población asalariada registrada. Hombres de 45 a 54 años de edad. Media anual. Barrios de Canarias. 2024. Mapa temático de coropletas de 5 intervalos por cuantiles (`poblacion-asalariada-registrada-hombres-de-45-a-54-anos-de-edad-media-anual-barrios-de-canarias-2024-mapa-tematico-de-coropletas-de-5-intervalos-por-cuantiles-1`)
+- Población asalariada registrada. Hombres de 55 o más años de edad. Media anual. Barrios de Canarias. 2024. Mapa temático de coropletas de 5 intervalos por cuantiles (`poblacion-asalariada-registrada-hombres-de-55-o-mas-anos-de-edad-media-anual-barrios-de-canarias-2024-mapa-tematico-de-coropletas-de-5-intervalos-por-cuantiles-1`)
+- Población asalariada registrada. Media anual. Barrios de Canarias. 2024. Mapa temático de coropletas de 5 intervalos por cuantiles (`poblacion-asalariada-registrada-media-anual-barrios-de-canarias-2024-mapa-tematico-de-coropletas-de-5-intervalos-por-cuantiles-1`)
+- …and 9 more
+
+### State changes (2012)
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0006 (`0006`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0007 (`0007`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Πατέλες | Πινακίδα 01 (`01`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0105 (`0105`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0106 (`0106`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Πατέλες | Πινακίδα 02 (`02`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 02 (`02-2`) — STALE → VERIFIED
+- Περιοχή συμβάντος - Αχλιά, Κρήτης 02/07/2025 (`02072025`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 03 (`03-2`) — STALE → VERIFIED
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 03 (`03-3`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0304 (`0304`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0305 (`0305`) — FAILING → VERIFIED
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0306 (`0306`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Πατέλες | Πινακίδα 04 (`04`) — FAILING → VERIFIED
+- Ρυμοτομικό Σχέδιο Εκτός Τειχών - Δημητρίου | Πινακίδα 04 (`04-1`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 05 (`05-1`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0504 (`0504`) — STALE → VERIFIED
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 07 (`07-1`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0705 (`0705`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 09 (`09`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Πατέλες | Πινακίδα Φ1 (`1-1`) — VERIFIED → STALE
+- Τοπικό Ρυμοτομικό ΒΙΠΕ-Τροποποίηση και επέκταση ρυμοτομικού - Πινακίδα 1 (`1-10`) — STALE → VERIFIED
+- Μεταβατικά Υδατικά Συστήματα Ελλάδας - 1η Αναθεώρηση (`1-17`) — VERIFIED → STALE
+- Ποτάμια Υδατικά Συστήματα Ελλάδας - 1η Αναθεώρηση (`1-18`) — STALE → VERIFIED
+- Ρυμοτομικό σχέδιο περιοχής Σταλίδας πινακίδα 1 (`1-3`) — VERIFIED → STALE
+- …and 1987 more
+
 ## 2026-08-27
 
 ### State changes (2550)

@@ -2,6 +2,43 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-09-01
+
+### Removed (5)
+- Bevölkerungsprognosen in Hamburg (`bevolkerungsprognosen-in-hamburg`)
+- Durchfahrtsbeschränkungen für Dieselfahrzeuge Hamburg (`durchfahrtsbeschrankungen-fur-dieselfahrzeuge-hamburg`)
+- Parkanlagen (`parkanlagen`)
+- Tempo-30-Zonen Hamburg (`tempo-30-zonen-hamburg`)
+- Velorouten Hamburg (`velorouten-hamburg`)
+
+### State changes (1988)
+- Ζώνες δακτυλίου (`-28`) — VERIFIED → FAILING
+- Λέσχες Φιλίας (`-56`) — VERIFIED → FAILING
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 01 (`01-1`) — VERIFIED → STALE
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 01 (`01-2`) — VERIFIED → STALE
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 02 (`02-3`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0207 (`0207`) — STALE → VERIFIED
+- Περιοχή συμβάντος - Αχλιά, Κρήτης 02/07/2025 (`02072025`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Πατέλες | Πινακίδα 03 (`03`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο Εκτός Τειχών - Δημητρίου | Πινακίδα 03 (`03-1`) — VERIFIED → STALE
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 04 (`04-3`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0404 (`0404`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0405 (`0405`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 05 (`05-1`) — VERIFIED → STALE
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 05 (`05-2`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0504 (`0504`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 06 (`06`) — STALE → VERIFIED
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 06 (`06-1`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0605 (`0605`) — VERIFIED → STALE
+- 08 Station météo Toulouse Basso Cambo - archive 2019 (`08-station-meteo-toulouse-basso-cambo-archive-2019`) — STALE → VERIFIED
+- 08 Station météo Toulouse Basso Cambo - archive 2021 (`08-station-meteo-toulouse-basso-cambo-archive-2021`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2019 (`09-station-meteo-toulouse-la-salade-archive-2019`) — VERIFIED → STALE
+- Μεταβατικά Υδατικά Συστήματα Ελλάδας - 1η Αναθεώρηση (`1-17`) — VERIFIED → STALE
+- Διάγραμμα Οριοθέτησης Οικισμού Παραθεριστικού Οικοδομικού Συνεταιρισμού Δασκάλων 1 (`1-2`) — STALE → VERIFIED
+- Λιμναία Υδατικά Συστήματα Ελλάδας: Φυσικές Λίμνες - 1η Αναθεώρηση (`1-20`) — VERIFIED → STALE
+- Υπόγεια Υδατικά Συστήματα Ελλάδας - 1η Αναθεώρηση (`1-21`) — VERIFIED → STALE
+- …and 1963 more
+
 ## 2026-08-31
 
 ### State changes (1960)

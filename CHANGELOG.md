@@ -2,6 +2,47 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-09-14
+
+### Removed (9)
+- Cantonal Inventory of Isolated Trees (`cantonal-inventory-of-isolated-trees`)
+- Consolidated essential public procurement data (tabular format) (`consolidated-essential-public-procurement-data-tabular-format`)
+- deegree (`deegree-1`)
+- Historical maps Tyrol (`historical-maps-tyrol`)
+- Macrophytes du lit et des Berges des rivières (`macrophytes-du-lit-et-des-berges-des-rivieres`)
+- Open Data (`open-data-2`)
+- Open Data (`open-data-4`)
+- Open Data (`open-data-5`)
+- Zensusatlas (`zensusatlas-1`)
+
+### State changes (2131)
+- Ύψη κτηρίων περιοχής Δήμου Αθηναίων (`-31`) — VERIFIED → FAILING
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 01 (`01-1`) — VERIFIED → STALE
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 01 (`01-2`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο Εκτός Τειχών - Δημητρίου | Πινακίδα 02 (`02-1`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0207 (`0207`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο Εκτός Τειχών - Δημητρίου | Πινακίδα 03 (`03-1`) — VERIFIED → STALE
+- 03 Station météo Toulouse Busca - archive2019 (`03-station-meteo-toulouse-busca-archive2019`) — STALE → VERIFIED
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 04 (`04-3`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0404 (`0404`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο Εκτός Τειχών - Δημητρίου | Πινακίδα 05 (`05`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0505 (`0505`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 06 (`06`) — STALE → VERIFIED
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 06 (`06-1`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0605 (`0605`) — VERIFIED → STALE
+- Ποτάμια Υδατικά Συστήματα Ελλάδας - 1η Αναθεώρηση (`1-18`) — VERIFIED → STALE
+- Διάγραμμα Οριοθέτησης Οικισμού Παραθεριστικού Οικοδομικού Συνεταιρισμού Δασκάλων 1 (`1-2`) — STALE → VERIFIED
+- Λιμναία Υδατικά Συστήματα Ελλάδας: Φυσικές Λίμνες - 1η Αναθεώρηση (`1-20`) — VERIFIED → STALE
+- Υπόγεια Υδατικά Συστήματα Ελλάδας - 1η Αναθεώρηση (`1-21`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Λιμένα Χερσονήσου φύλλο 1 (`1-4`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Μαρίνας πινακίδα 1 (`1-7`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Θαλασσινά Νέας Αλικαρνασσού | Πινακίδα Τ1 (`1-8`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Λιμένα Χερσονήσου φύλλο 10 (`10-1`) — STALE → VERIFIED
+- 12 Station météo Toulouse Montaudran - archive 2019 (`12-station-meteo-toulouse-montaudran-archive-2019`) — STALE → VERIFIED
+- Χάρτης Πλημμύρας 13-11-2020 - Μάλια Ηρακλείου - Υδρογραφία (Πολύγωνα) (`13-11-2020-1`) — VERIFIED → STALE
+- Χάρτης Πλημμύρας 13-11-2020 - Αδελιανός Κάμπος Ρεθύμνου - Δεδομένα Περιστατικού (`13-11-2020-12`) — STALE → VERIFIED
+- …and 2106 more
+
 ## 2026-09-13
 
 ### Removed (1)

@@ -2,6 +2,36 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-09-17
+
+### State changes (2212)
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 01 (`01-1`) — STALE → VERIFIED
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 01 (`01-2`) — STALE → VERIFIED
+- Χάρτης Πυρκαγιάς - Αχλιά, Κρήτη 02-07-2025 (`02-07-2025`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο Εκτός Τειχών - Δημητρίου | Πινακίδα 02 (`02-1`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0207 (`0207`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο Εκτός Τειχών - Δημητρίου | Πινακίδα 03 (`03-1`) — STALE → VERIFIED
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 04 (`04-3`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0404 (`0404`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο Εκτός Τειχών - Δημητρίου | Πινακίδα 05 (`05`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0505 (`0505`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 06 (`06`) — VERIFIED → STALE
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 06 (`06-1`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0605 (`0605`) — STALE → VERIFIED
+- 08 Station météo Toulouse Basso Cambo - archive 2019 (`08-station-meteo-toulouse-basso-cambo-archive-2019`) — VERIFIED → STALE
+- 08 Station météo Toulouse Basso Cambo - archive 2021 (`08-station-meteo-toulouse-basso-cambo-archive-2021`) — VERIFIED → STALE
+- Διάγραμμα Οριοθέτησης Οικισμού Παραθεριστικού Οικοδομικού Συνεταιρισμού Δασκάλων 1 (`1-2`) — VERIFIED → STALE
+- Παράκτια Υδατικά Συστήματα Ελλάδας - 1η Αναθεώρηση (`1-22`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Λιμένα Χερσονήσου φύλλο 1 (`1-4`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Μαρίνας πινακίδα 1 (`1-7`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Θαλασσινά Νέας Αλικαρνασσού | Πινακίδα Τ1 (`1-8`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Λιμένα Χερσονήσου φύλλο 10 (`10-1`) — VERIFIED → STALE
+- 10 Station météo Castelginest école - archive 2019 (`10-station-meteo-castelginest-ecole-archive-2019`) — STALE → VERIFIED
+- Ρυμοτομικό σχέδιο περιοχής Σταλίδας πινακίδα 11 (`11`) — STALE → VERIFIED
+- 12 Station météo Toulouse Montaudran - archive 2020 (`12-station-meteo-toulouse-montaudran-archive-2020`) — VERIFIED → STALE
+- Χάρτης Πλημμύρας - Μάλια 13-11-2020 (`13-11-2020`) — STALE → VERIFIED
+- …and 2187 more
+
 ## 2026-09-16
 
 ### State changes (1962)

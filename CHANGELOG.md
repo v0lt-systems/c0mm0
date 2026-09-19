@@ -2,6 +2,39 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-09-19
+
+### Removed (1)
+- Référentiel_produits_lycées (test) (`referentielproduitslycees-test`)
+
+### State changes (2202)
+- Συνοικίες Δήμου Αθηναίων (`-34`) — FAILING → VERIFIED
+- Δημόσια Σχολεία Δήμου Αθηναίων (`-35`) — VERIFIED → FAILING
+- Θέσεις φόρτισης ηλεκτρικών αυτοκινήτων (`-37`) — FAILING → VERIFIED
+- Γραμμές Μετρό (`-38`) — VERIFIED → FAILING
+- Κολυμβητήρια (`-41`) — FAILING → VERIFIED
+- Ζώνη προστασίας Ακρόπολης ΥΠΠΟΑ (`-63`) — VERIFIED → FAILING
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0006 (`0006`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Πατέλες | Πινακίδα 01 (`01`) — VERIFIED → STALE
+- 01 Station météo Toulouse Météopole - archive2019 (`01-station-meteo-toulouse-meteopole-archive2019`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0106 (`0106`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Πατέλες | Πινακίδα 02 (`02`) — STALE → VERIFIED
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 02 (`02-3`) — VERIFIED → STALE
+- Περιοχή συμβάντος - Αχλιά, Κρήτης 02/07/2025 (`02072025`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Πατέλες | Πινακίδα 03 (`03`) — VERIFIED → STALE
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 03 (`03-3`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0305 (`0305`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Πατέλες | Πινακίδα 04 (`04`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 05 (`05-1`) — VERIFIED → STALE
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 05 (`05-2`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0504 (`0504`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0705 (`0705`) — VERIFIED → STALE
+- 08 Station météo Toulouse Basso Cambo - archive 2020 (`08-station-meteo-toulouse-basso-cambo-archive-2020`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2019 (`09-station-meteo-toulouse-la-salade-archive-2019`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2020 (`09-station-meteo-toulouse-la-salade-archive-2020`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2021 (`09-station-meteo-toulouse-la-salade-archive-2021`) — VERIFIED → STALE
+- …and 2177 more
+
 ## 2026-09-18
 
 ### State changes (2229)

@@ -1,5 +1,7 @@
 # Commodity — European Public-Data Catalog Snapshots
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21249994.svg)](https://doi.org/10.5281/zenodo.21249994)
+
 Nightly snapshots of the [Commodity](https://c0mm0.com) catalog: continuously
 verified **official public-sector APIs and datasets** from Europe and beyond.
 Every entry is uptime-checked every 15 minutes and re-verified every 6 hours by

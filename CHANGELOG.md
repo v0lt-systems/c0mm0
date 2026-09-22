@@ -2,6 +2,48 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-09-22
+
+### Removed (10)
+- 12 Nautical Mile Fisheries Control Ireland (`12-nautical-mile-fisheries-control-ireland-2`)
+- Arklow Bank Wind Park Connection Cable (`arklow-bank-wind-park-connection-cable-2`)
+- Biological Sampling Survey Stations (`biological-sampling-survey-stations-1`)
+- Designated Blue Flag Beach (`designated-blue-flag-beach`)
+- Fisheries Control (`fisheries-control-1`)
+- Fishing Port (`fishing-port-2`)
+- Inshore Pot Fishing Activity (`inshore-pot-fishing-activity-1`)
+- Nephrops Grounds (`nephrops-grounds-2`)
+- Nephrops Underwater Television Survey Functional Units (`nephrops-underwater-television-survey-functional-units-1`)
+- Nephrops Underwater Television Survey Functional Units Statistical Rectangles (`nephrops-underwater-television-survey-functional-units-statistical-rectangles-2`)
+
+### State changes (2110)
+- Δημοτικές Κοινότητες Δήμου Αθηναίων (`-40`) — FAILING → VERIFIED
+- Τομείς Διεύθυνσης Αστυνομίας Αθηνών (`-51`) — FAILING → VERIFIED
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0006 (`0006`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Πατέλες | Πινακίδα 01 (`01`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0106 (`0106`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Πατέλες | Πινακίδα 02 (`02`) — VERIFIED → STALE
+- Χάρτης Πυρκαγιάς - Αχλιά, Κρήτη 02-07-2025 (`02-07-2025`) — STALE → VERIFIED
+- Περιοχή συμβάντος - Αχλιά, Κρήτης 02/07/2025 (`02072025`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Πατέλες | Πινακίδα 03 (`03`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 03 (`03-2`) — STALE → VERIFIED
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 03 (`03-3`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0304 (`0304`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0305 (`0305`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Πατέλες | Πινακίδα 04 (`04`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 05 (`05-1`) — STALE → VERIFIED
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 05 (`05-2`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0504 (`0504`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0705 (`0705`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 09 (`09`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Πατέλες | Πινακίδα Φ1 (`1-1`) — VERIFIED → STALE
+- Τοπικό Ρυμοτομικό ΒΙΠΕ-Τροποποίηση και επέκταση ρυμοτομικού - Πινακίδα 1 (`1-10`) — STALE → VERIFIED
+- Λιμναία Υδατικά Συστήματα Ελλάδας: Ταμιευτήρες - 1η Αναθεώρηση (`1-19`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Γαζίου πινακίδα 1 (`1-5`) — VERIFIED → STALE
+- Τοπικό Ρυμοτομικό 10ο Γυμνάσιο Ηρακλέιου (`10-2`) — STALE → VERIFIED
+- Ρυμοτομικό σχέδιο περιοχής Σταλίδας πινακίδα 12 (`12`) — STALE → VERIFIED
+- …and 2085 more
+
 ## 2026-09-21
 
 ### Removed (1)

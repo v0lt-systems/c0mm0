@@ -2,6 +2,36 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-09-25
+
+### State changes (2218)
+- Δένδρα Εθνικού Κήπου (`-45`) — VERIFIED → FAILING
+- Λέσχες Φιλίας (`-56`) — VERIFIED → FAILING
+- Κλειστά Γήπεδα (`-61`) — VERIFIED → FAILING
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0006 (`0006`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Πατέλες | Πινακίδα 01 (`01`) — VERIFIED → STALE
+- 01 Station météo Toulouse Météopole - archive2019 (`01-station-meteo-toulouse-meteopole-archive2019`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0106 (`0106`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Πατέλες | Πινακίδα 02 (`02`) — STALE → VERIFIED
+- Χάρτης Πυρκαγιάς - Αχλιά, Κρήτη 02-07-2025 (`02-07-2025`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Πατέλες | Πινακίδα 03 (`03`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 03 (`03-2`) — VERIFIED → STALE
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 03 (`03-3`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0304 (`0304`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0305 (`0305`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Πατέλες | Πινακίδα 04 (`04`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 05 (`05-1`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0504 (`0504`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0705 (`0705`) — VERIFIED → STALE
+- 08 Station météo Toulouse Basso Cambo - archive 2020 (`08-station-meteo-toulouse-basso-cambo-archive-2020`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 09 (`09`) — VERIFIED → STALE
+- 09 Station météo Toulouse La Salade - archive 2020 (`09-station-meteo-toulouse-la-salade-archive-2020`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Πατέλες | Πινακίδα Φ1 (`1-1`) — STALE → VERIFIED
+- Τοπικό Ρυμοτομικό ΒΙΠΕ-Τροποποίηση και επέκταση ρυμοτομικού - Πινακίδα 1 (`1-10`) — VERIFIED → STALE
+- Μεταβατικά Υδατικά Συστήματα Ελλάδας - 1η Αναθεώρηση (`1-17`) — STALE → VERIFIED
+- Λιμναία Υδατικά Συστήματα Ελλάδας: Ταμιευτήρες - 1η Αναθεώρηση (`1-19`) — VERIFIED → STALE
+- …and 2193 more
+
 ## 2026-09-24
 
 ### State changes (2233)

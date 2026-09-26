@@ -11,11 +11,11 @@ catalog.
 <!-- stats:start -->
 | | |
 |---|---|
-| Snapshot | 2026-09-25 |
+| Snapshot | 2026-09-26 |
 | Entries | 13663 |
 | API | 10557 |
 | DATASET | 3106 |
-| Verified | 11301 |
+| Verified | 11579 |
 | Countries | 34 |
 <!-- stats:end -->
 

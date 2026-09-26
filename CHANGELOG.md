@@ -2,6 +2,36 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-09-26
+
+### State changes (2173)
+- Κολυμβητήρια (`-41`) — VERIFIED → FAILING
+- Δένδρα Εθνικού Κήπου (`-45`) — FAILING → VERIFIED
+- Κτήρια Διοίκησης Δήμου Αθηναίων (`-46`) — FAILING → VERIFIED
+- Τοπωνύμια Δήμου Αθηναίων (`-59`) — VERIFIED → FAILING
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 01 (`01-1`) — VERIFIED → STALE
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 01 (`01-2`) — VERIFIED → STALE
+- 01 Station météo Toulouse Météopole - archive2019 (`01-station-meteo-toulouse-meteopole-archive2019`) — STALE → VERIFIED
+- Χάρτης Πυρκαγιάς - Αχλιά, Κρήτη 02-07-2025 (`02-07-2025`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο Εκτός Τειχών - Δημητρίου | Πινακίδα 02 (`02-1`) — STALE → VERIFIED
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 02 (`02-3`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0207 (`0207`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο Εκτός Τειχών - Δημητρίου | Πινακίδα 03 (`03-1`) — VERIFIED → STALE
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 04 (`04-3`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0404 (`0404`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0405 (`0405`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο Εκτός Τειχών - Δημητρίου | Πινακίδα 05 (`05`) — STALE → VERIFIED
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 05 (`05-2`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0505 (`0505`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 06 (`06`) — STALE → VERIFIED
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 06 (`06-1`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0605 (`0605`) — VERIFIED → STALE
+- 08 Station météo Toulouse Basso Cambo - archive 2020 (`08-station-meteo-toulouse-basso-cambo-archive-2020`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2020 (`09-station-meteo-toulouse-la-salade-archive-2020`) — STALE → VERIFIED
+- Λιμναία Υδατικά Συστήματα Ελλάδας: Ταμιευτήρες - 1η Αναθεώρηση (`1-19`) — STALE → VERIFIED
+- Διάγραμμα Οριοθέτησης Οικισμού Παραθεριστικού Οικοδομικού Συνεταιρισμού Δασκάλων 1 (`1-2`) — STALE → VERIFIED
+- …and 2148 more
+
 ## 2026-09-25
 
 ### State changes (2218)

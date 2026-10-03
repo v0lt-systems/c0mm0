@@ -2,6 +2,36 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-10-03
+
+### State changes (1993)
+- Θέσεις φόρτισης ηλεκτρικών αυτοκινήτων (`-37`) — VERIFIED → FAILING
+- ΚΥΑΔΑ (`-44`) — VERIFIED → FAILING
+- Κτήρια Διοίκησης Δήμου Αθηναίων (`-46`) — VERIFIED → FAILING
+- Статистичні дані щодо наданих послуг (організаційні заходи, обслуговування споживачів послуг, пасажироперевезення, інші показники з основних видів діяльності) (`-7`) — VERIFIED → FAILING
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0006 (`0006`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0007 (`0007`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0105 (`0105`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0106 (`0106`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 02 (`02-2`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0208 (`0208`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0306 (`0306`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο Εκτός Τειχών - Δημητρίου | Πινακίδα 04 (`04-1`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 04 (`04-2`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 07 (`07`) — VERIFIED → STALE
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 07 (`07-1`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 08 (`08`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο Θέρισσος Δειλινά | Πινακίδα 1 (`1-11`) — STALE → VERIFIED
+- Ρυμοτομικό σχέδιο περιοχής Σταλίδας πινακίδα 1 (`1-3`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Ν. Αλικαρνασσός - Ανατολικά | Πινακίδα 1 (`1-6`) — VERIFIED → STALE
+- Διάγραμμα Ρυμοτομικού Σχεδίου ΒΙ.ΠΕ-Πινακίδα 1 (`1-9`) — VERIFIED → STALE
+- Ρυμοτομικό σχέδιο περιοχής Σταλίδας πινακίδα 10 (`10`) — STALE → VERIFIED
+- 10 Station météo Castelginest école - archive 2019 (`10-station-meteo-castelginest-ecole-archive-2019`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Λιμένα Χερσονήσου φύλλο 11 (`11-1`) — STALE → VERIFIED
+- 12 Station météo Toulouse Montaudran - archive 2019 (`12-station-meteo-toulouse-montaudran-archive-2019`) — VERIFIED → STALE
+- 13 Station météo Toulouse Pech David - archive 2020 (`13-station-meteo-toulouse-pech-david-archive-2020`) — VERIFIED → STALE
+- …and 1968 more
+
 ## 2026-10-02
 
 ### State changes (1979)

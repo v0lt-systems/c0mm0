@@ -2,6 +2,36 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-10-09
+
+### State changes (2104)
+- Μικρός δακτύλιος - Όρια εφαρμογής (`-23`) — FAILING → VERIFIED
+- ΚΕΝΤΡΟ ΥΠΟΔΟΧΗΣ & ΑΛΛΗΛΕΓΓΥΗΣ ΔΗΜΟΥ ΑΘΗΝΑΙΩΝ (`-29`) — VERIFIED → FAILING
+- Πάρκα Τσέπης (`-42`) — FAILING → VERIFIED
+- Δένδρα Εθνικού Κήπου (`-45`) — VERIFIED → FAILING
+- ΟΣΕ (`-49`) — FAILING → VERIFIED
+- Ταχυδρομικοί Κώδικες στο Δήμο Αθηναίων (`-52`) — FAILING → VERIFIED
+- 01 Station météo Toulouse Météopole - archive2019 (`01-station-meteo-toulouse-meteopole-archive2019`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0105 (`0105`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο Εκτός Τειχών - Δημητρίου | Πινακίδα 02 (`02-1`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 04 (`04-2`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο Εκτός Τειχών - Δημητρίου | Πινακίδα 05 (`05`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0505 (`0505`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 07 (`07`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 08 (`08`) — VERIFIED → STALE
+- 08 Station météo Toulouse Basso Cambo - archive 2020 (`08-station-meteo-toulouse-basso-cambo-archive-2020`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2019 (`09-station-meteo-toulouse-la-salade-archive-2019`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2020 (`09-station-meteo-toulouse-la-salade-archive-2020`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο Θέρισσος Δειλινά | Πινακίδα 1 (`1-11`) — STALE → VERIFIED
+- Παράκτια Υδατικά Συστήματα Ελλάδας - 1η Αναθεώρηση (`1-22`) — FAILING → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Ν. Αλικαρνασσός - Ανατολικά | Πινακίδα 1 (`1-6`) — VERIFIED → STALE
+- Διάγραμμα Ρυμοτομικού Σχεδίου ΒΙ.ΠΕ-Πινακίδα 1 (`1-9`) — VERIFIED → STALE
+- Ρυμοτομικό σχέδιο περιοχής Σταλίδας πινακίδα 10 (`10`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Λιμένα Χερσονήσου φύλλο 10 (`10-1`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Λιμένα Χερσονήσου φύλλο 11 (`11-1`) — STALE → VERIFIED
+- 11 Station météo Toulouse Soupetard - archive 2020 (`11-station-meteo-toulouse-soupetard-archive-2020`) — VERIFIED → STALE
+- …and 2079 more
+
 ## 2026-10-08
 
 ### State changes (2202)

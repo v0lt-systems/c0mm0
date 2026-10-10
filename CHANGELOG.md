@@ -2,6 +2,51 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-10-10
+
+### Removed (13)
+- Cadastro da rede de abastecimento de água dos concelhos de Mira, Montemor-o-Velho e Soure - Acessórios - WFS (`cadastro-da-rede-de-abastecimento-de-agua-dos-concelhos-de-mira-montemor-o-velho-e-soure-acessorios-wfs`)
+- Cadastro da rede de abastecimento de água dos concelhos de Mira, Montemor-o-Velho e Soure - Acessórios - WMS (`cadastro-da-rede-de-abastecimento-de-agua-dos-concelhos-de-mira-montemor-o-velho-e-soure-acessorios-wms`)
+- Cadastro da rede de abastecimento de água dos concelhos de Mira, Montemor-o-Velho e Soure - Hidrantes - WFS (`cadastro-da-rede-de-abastecimento-de-agua-dos-concelhos-de-mira-montemor-o-velho-e-soure-hidrantes-wfs`)
+- Cadastro da rede de abastecimento de água dos concelhos de Mira, Montemor-o-Velho e Soure - Hidrantes - WMS (`cadastro-da-rede-de-abastecimento-de-agua-dos-concelhos-de-mira-montemor-o-velho-e-soure-hidrantes-wms`)
+- Cadastro da rede de abastecimento de água dos concelhos de Mira, Montemor-o-Velho e Soure - Reservatórios - WFS (`cadastro-da-rede-de-abastecimento-de-agua-dos-concelhos-de-mira-montemor-o-velho-e-soure-reservatorios-wfs`)
+- Cadastro da rede de abastecimento de água dos concelhos de Mira, Montemor-o-Velho e Soure - Reservatórios - WMS (`cadastro-da-rede-de-abastecimento-de-agua-dos-concelhos-de-mira-montemor-o-velho-e-soure-reservatorios-wms`)
+- Cadastro da rede de abastecimento de água dos concelhos de Mira, Montemor-o-Velho e Soure - Tubagens - WMS (`cadastro-da-rede-de-abastecimento-de-agua-dos-concelhos-de-mira-montemor-o-velho-e-soure-tubagens-wms`)
+- Cadastro da rede de A.R. dos concelhos de Mira, Montemor-o-Velho e Soure - Câmaras de Visita - WFS (`cadastro-da-rede-de-ar-dos-concelhos-de-mira-montemor-o-velho-e-soure-camaras-de-visita-wfs`)
+- Cadastro da rede de A.R. dos concelhos de Mira, Montemor-o-Velho e Soure - Câmaras de Visita - WMS (`cadastro-da-rede-de-ar-dos-concelhos-de-mira-montemor-o-velho-e-soure-camaras-de-visita-wms`)
+- Cadastro da rede de A.R. dos concelhos de Mira, Montemor-o-Velho e Soure - Coletores - WFS (`cadastro-da-rede-de-ar-dos-concelhos-de-mira-montemor-o-velho-e-soure-coletores-wfs`)
+- Cadastro da rede de A.R. dos concelhos de Mira, Montemor-o-Velho e Soure - Coletores - WMS (`cadastro-da-rede-de-ar-dos-concelhos-de-mira-montemor-o-velho-e-soure-coletores-wms`)
+- Cadastro da rede de A.R. dos concelhos de Mira, Montemor-o-Velho e Soure - Estações Elevatórias - WFS (`cadastro-da-rede-de-ar-dos-concelhos-de-mira-montemor-o-velho-e-soure-estacoes-elevatorias-wfs`)
+- Cadastro da rede de A.R. dos concelhos de Mira, Montemor-o-Velho e Soure - Estações Elevatórias - WMS (`cadastro-da-rede-de-ar-dos-concelhos-de-mira-montemor-o-velho-e-soure-estacoes-elevatorias-wms`)
+
+### State changes (2172)
+- Δημόσια Σχολεία Δήμου Αθηναίων (`-35`) — VERIFIED → FAILING
+- Διοικητικές, Οικονομικές, Τεχνικές κλπ Υπηρεσίες Δήμου Αθηναίων (`-36`) — VERIFIED → FAILING
+- Παιδικές Χαρές Δήμου Αθηναίων (`-39`) — FAILING → VERIFIED
+- Περιφέρεια Αττικής - Δήμοι (`-53`) — VERIFIED → FAILING
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0006 (`0006`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0007 (`0007`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Πατέλες | Πινακίδα 01 (`01`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0106 (`0106`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Πατέλες | Πινακίδα 02 (`02`) — VERIFIED → STALE
+- Χάρτης Πυρκαγιάς - Αχλιά, Κρήτη 02-07-2025 (`02-07-2025`) — FAILING → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 02 (`02-2`) — STALE → VERIFIED
+- Περιοχή συμβάντος - Αχλιά, Κρήτης 02/07/2025 (`02072025`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0208 (`0208`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 03 (`03-2`) — STALE → VERIFIED
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 03 (`03-3`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0304 (`0304`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0305 (`0305`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Κορώνη | Πινακίδα 0306 (`0306`) — VERIFIED → STALE
+- Ρυμοτομικό Σχέδιο περιοχής Πατέλες | Πινακίδα 04 (`04`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο Εκτός Τειχών - Δημητρίου | Πινακίδα 04 (`04-1`) — STALE → VERIFIED
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 07 (`07-1`) — VERIFIED → STALE
+- Σχέδιο ΠΕ περιοχής Ατσαλένιο | Πινακίδα 0705 (`0705`) — STALE → VERIFIED
+- Ρυμοτομικό Σχέδιο περιοχής Αγ. Ιωάννης - Μεσαμπελιές - Φορτέτσα | Πινακίδα 09 (`09`) — STALE → VERIFIED
+- Σχέδιο ΠΕ περιοχής Πατέλες | Πινακίδα Φ1 (`1-1`) — VERIFIED → STALE
+- Τοπικό Ρυμοτομικό ΒΙΠΕ-Τροποποίηση και επέκταση ρυμοτομικού - Πινακίδα 1 (`1-10`) — STALE → VERIFIED
+- …and 2147 more
+
 ## 2026-10-09
 
 ### State changes (2104)

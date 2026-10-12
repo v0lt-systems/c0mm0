@@ -2,6 +2,92 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-10-12
+
+### Added (1219)
+- Άδειες Δόμησης (ΤΕΕ) (`adeies-domisis-tee`)
+- Адміністративні дані в значенні Закону України "Про державну статистику", що збираються (обробляються) та підлягають оприлюдненню відповідно до вимог закону розпорядником інформації (`administratyvni-dani-v-znachenni-zakonu-ukrainy-pro-derzhavnu-statystyku-shcho-zbyraiutsia-obrobliaiutsia-ta-pidliahaiut-opryliudnenniu-vidpovidno-do-vymoh-zakonu-rozporiadnykom-informatsii`)
+- Αεροφωτογραφία (1/2) (`aerofotografia-12`)
+- Αεροφωτογραφία (2/2) (`aerofotografia-22`)
+- Αγωγοί Ομβρίων (`agogoi-omvrion`)
+- Ακίνητη Περιουσία Δήμου (`akiniti-perioysia-dimoy`)
+- Αναπτυξιακός Νόμος 3908/2011 (`anaptyxiakos-nomos-39082011`)
+- Αναπτυξιακός Νόμος 4399/2016 (`anaptyxiakos-nomos-43992016`)
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 01 (`anatheorisi-topikoy-rymotomikoy-schedioy-vipe-pinakida-01`)
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 02 (`anatheorisi-topikoy-rymotomikoy-schedioy-vipe-pinakida-02`)
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 03 (`anatheorisi-topikoy-rymotomikoy-schedioy-vipe-pinakida-03`)
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 04 (`anatheorisi-topikoy-rymotomikoy-schedioy-vipe-pinakida-04`)
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 05 (`anatheorisi-topikoy-rymotomikoy-schedioy-vipe-pinakida-05`)
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 06 (`anatheorisi-topikoy-rymotomikoy-schedioy-vipe-pinakida-06`)
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 07 (`anatheorisi-topikoy-rymotomikoy-schedioy-vipe-pinakida-07`)
+- Ανοιχτά Αθλητικά Κέντρα (`anoichta-athlitika-kentra`)
+- Ανοιχτά Οικοδομικά Τετράγωνα (`anoichta-oikodomika-tetragona`)
+- Απαγόρευση κυκλοφορίας σε δείκτη κινδύνου πυρκαγιάς 4 & 5 Π.Ε. Χανίων (`apagoreysi-kykloforias-se-deikti-kindynoy-pyrkagias-4-5-pe-chanion`)
+- Απαγόρευση κυκλοφορίας σε δείκτη κινδύνου πυρκαγιάς 4 & 5 Π.Ε. Χανίων 2022 (`apagoreysi-kykloforias-se-deikti-kindynoy-pyrkagias-4-5-pe-chanion-2022`)
+- Απαγόρευση κυκλοφορίας σε δείκτη κινδύνου πυρκαγιάς 4 & 5 Π.Ε. Ηρακλείου (`apagoreysi-kykloforias-se-deikti-kindynoy-pyrkagias-4-5-pe-irakleioy`)
+- Απαγόρευση κυκλοφορίας σε δείκτη κινδύνου πυρκαγιάς 4 & 5 Π.Ε. Ηρακλείου (`apagoreysi-kykloforias-se-deikti-kindynoy-pyrkagias-4-5-pe-irakleioy-2`)
+- Απαγόρευση κυκλοφορίας σε δείκτη κινδύνου πυρκαγιάς 4 & 5 Π.Ε. Λασιθίου (`apagoreysi-kykloforias-se-deikti-kindynoy-pyrkagias-4-5-pe-lasithioy`)
+- Απαγόρευση κυκλοφορίας σε δείκτη κινδύνου πυρκαγιάς 4 & 5 Π.Ε. Λασιθίου (`apagoreysi-kykloforias-se-deikti-kindynoy-pyrkagias-4-5-pe-lasithioy-2`)
+- Απαγόρευση κυκλοφορίας σε δείκτη κινδύνου πυρκαγιάς 4 & 5 Π.Ε. Ρεθύμνου (γραμμικό) (`apagoreysi-kykloforias-se-deikti-kindynoy-pyrkagias-4-5-pe-rethymnoy-grammiko`)
+- Απαγόρευση κυκλοφορίας σε δείκτη κινδύνου πυρκαγιάς 4 & 5 Π.Ε. Ρεθύμνου (γραμμικό) (`apagoreysi-kykloforias-se-deikti-kindynoy-pyrkagias-4-5-pe-rethymnoy-grammiko-2`)
+- …and 1194 more
+
+### Removed (1221)
+- Реєстр наборів даних, що перебувають у володінні Департаменту забезпечення ресурсних платежів Сумської міської ради (`-1`)
+- Περιοχές που εξαιρούνται από την Πολεοδομική Μελέτη (`-100`)
+- Οικοδομικά τετράγωνα (χωρίς τμήμα Πεύκο Πολίτη) (`-103`)
+- Οικοδομικά Τετράγωνα (`-105`)
+- Διοικητικά Όρια Δήμου Χαλανδρίου (`-106`)
+- Οικοδομικές Γραμμές (`-108`)
+- Οδικό Δίκτυο (`-110`)
+- Παιδικές Χαρές (`-112`)
+- Πινακίδες περιορισμού (`-114`)
+- Πινακίδες διπλής κατεύθυνσης (`-117`)
+- Πινακίδες μονής κατεύθυνσης (`-118`)
+- Πινακίδες προειδοποίησης κινδύνου (`-121`)
+- Διαφημιστικές πινακίδες (`-123`)
+- Πινακίδες εκτός Κ.Ο.Κ (`-124`)
+- Δεδομένα Ονοματοθεσίας Οδών (`-127`)
+- Καταστήματα Υγειονομικού Ενδιαφέροντος (`-129`)
+- Адміністративні дані в значенні Закону України "Про державну статистику", що збираються (обробляються) та підлягають оприлюдненню відповідно до вимог закону розпорядником інформації (`-13`)
+- Κτίρια (`-130`)
+- Κοινωνική Πρόνοια (`-132`)
+- Αγωγοί Ομβρίων (`-135`)
+- Περιοχές Σταθμών Φόρτισης Ηλεκτρικών Οχημάτων (ΣΦΗΟ) (`-136`)
+- Σταθμοί Εθνικού Δικτύου Παρακολούθησης Ατμοσφαιρικής Ρύπανσης (ΕΔΠΑΡ) (`-137`)
+- Σταθμοί Φόρτισης Ηλεκτρικών Οχημάτων (ΣΦΗΟ) (`-139`)
+- ΑΡΧΕΙΑ ΔΗΜΟΣΙΟΥ ΚΑΙ ΕΥΡΥΤΕΡΟΥ ΔΗΜΟΣΙΟΥ ΤΟΜΕΑ. ΓΑΚ ΚΑΣΤΟΡΙΑΣ (`-14`)
+- Εκπαίδευση (`-140`)
+- …and 1196 more
+
+### State changes (1704)
+- 18 Station météo Brax école - archive 2021 (`18-station-meteo-brax-ecole-archive-2021`) — VERIFIED → STALE
+- 2020-2026 Plans des quartiers élus (`2020-2026-plans-des-quartiers-elus`) — STALE → VERIFIED
+- Abribus SAEIV (`abribus-saeiv`) — STALE → VERIFIED
+- Absentéisme des agents de la Région (siège et lycées) : arrêts par motif (`absenteisme-des-agents-de-la-region-siege-et-lycees-arrets-par-motif`) — STALE → VERIFIED
+- Accessibilité des Traversées Piétonnes - Diagnostique accessibilité 2014 Toulouse Métropole (`accessibilite-des-traversees-pietonnes-diagnostique-accessibilite-2014-toulouse-metropole`) — VERIFIED → STALE
+- Accessibilité PMR aux points d'arrêt du réseau bus (`accessibilite-pmr-aux-points-darret-du-reseau-bus`) — STALE → VERIFIED
+- Accidents corporels de la circulation sur Bordeaux Métropole 2006-2011 (`accidents-corporels-de-la-circulation-sur-bordeaux-metropole-2006-2011`) — VERIFIED → STALE
+- Accidents corporels de la circulation sur Bordeaux Métropole 2012-2019 (`accidents-corporels-de-la-circulation-sur-bordeaux-metropole-2012-2019`) — VERIFIED → STALE
+- Accueil (`accueil`) — VERIFIED → STALE
+- Actes administratifs de Grand Paris Sud - Format SCDL (`actes-administratifs-de-grand-paris-sud-format-scdl`) — VERIFIED → STALE
+- Action sociale en faveur des agents de la Région : détail des mesures et répartition genrée (`action-sociale-en-faveur-des-agents-de-la-region-detail-des-mesures-et-repartition-genree`) — VERIFIED → STALE
+- Active organization and associations - average number of employees in organizations (`active-organization-and-associations-average-number-of-employees-in-organizations`) — STALE → FAILING
+- Active organization and associations - volunteers and members of the organization (`active-organization-and-associations-volunteers-and-members-of-the-organization`) — STALE → VERIFIED
+- Activités dans les parcs naturels régionaux d'Île-de-France (`activites-dans-les-parcs-naturels-regionaux-dile-de-france`) — VERIFIED → STALE
+- Actualité (`actualite`) — STALE → VERIFIED
+- ADEME - Car Labelling (`ademe-car-labelling`) — STALE → VERIFIED
+- Adresse sur la Métropole (`adresse-sur-la-metropole`) — VERIFIED → STALE
+- Adresses géoréférencées non postales (`adresses-georeferencees-non-postales`) — VERIFIED → STALE
+- Αεροδρόμια - Ελικοδρόμια - Χώροι προσγείωσης ελικοπτέρων Π.Ε. Λασιθίου (`aerodromia-elikodromia-choroi-prosgeiosis-elikopteron-pe-lasithioy`) — VERIFIED → STALE
+- Αεροδρόμια - Ελικοδρόμια Π.Ε. Ηρακλείου (`aerodromia-elikodromia-pe-irakleioy-1`) — STALE → VERIFIED
+- Affichage légal de la Ville et de l'Eurométropole de Strasbourg (`affichage-legal-de-la-ville-et-de-leurometropole-de-strasbourg`) — STALE → VERIFIED
+- Agenda Bordeaux Métropole (`agenda-bordeaux-metropole`) — VERIFIED → STALE
+- Agglo - Aires urbaines - Stratégie du PA (`agglo-aires-urbaines-strategie-du-pa`) — VERIFIED → STALE
+- Agglo - Carroyage de population et emplois (`agglo-carroyage-de-population-et-emplois`) — VERIFIED → STALE
+- AGGLO - Departments et cantons (`agglo-departments-et-cantons`) — VERIFIED → STALE
+- …and 1679 more
+
 ## 2026-10-11
 
 ### Removed (1)

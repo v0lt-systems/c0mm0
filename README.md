@@ -11,12 +11,12 @@ catalog.
 <!-- stats:start -->
 | | |
 |---|---|
-| Snapshot | 2026-10-12 |
-| Entries | 13653 |
-| API | 10562 |
-| DATASET | 3091 |
-| Verified | 11536 |
-| Countries | 40 |
+| Snapshot | 2026-10-13 |
+| Entries | 13784 |
+| API | 10344 |
+| DATASET | 3440 |
+| Verified | 11659 |
+| Countries | 34 |
 <!-- stats:end -->
 
 ## Files

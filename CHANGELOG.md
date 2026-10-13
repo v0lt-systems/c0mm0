@@ -2,6 +2,92 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-10-13
+
+### Added (641)
+- 2019 electronic publication &quot;NDNT Key Performance Indicators&quot; (`2019-electronic-publication-quotndnt-key-performance-indicatorsquot`)
+- 3D Data Hack Docklands Model Starter Guides (`3d-data-hack-docklands-model-starter-guides-1`)
+- Access statistics by moers.de for 2017 (`access-statistics-by-moersde-for-2017`)
+- Access Statistics by moers.de for 2019 (`access-statistics-by-moersde-for-2019`)
+- Access statistics by moers.de for 2025 (`access-statistics-by-moersde-for-2025`)
+- Access statistics of moers.de for 2021 (`access-statistics-of-moersde-for-2021`)
+- Acesso a dados registados no Gestor de Eventos - ePortugal (`acesso-a-dados-registados-no-gestor-de-eventos-eportugal-2`)
+- Acid sulphate soil (`acid-sulphate-soil`)
+- Αδειοδοτημένες Υδροληψίες της Δ/νσης Υδάτων Κρήτης (`adeiodotimenes-ydrolipsies-tis-dnsis-ydaton-kritis`)
+- AFIS - Altitude Fixed Points (NivP - Levelling Points) (`afis-altitude-fixed-points-nivp-levelling-points`)
+- AFIS - Gravity Fixed Points (`afis-gravity-fixed-points`)
+- Age and gender - Statistical data for Malmö's areas (`age-and-gender-statistical-data-for-malmos-areas`)
+- Агенция за устойчиво енергийно развитие (`ahentsyia-za-ustoychyvo-enerhyyno-razvytye`)
+- ALKIS Map Bottrop (`alkis-map-bottrop`)
+- Amsterdam City Archives Image Bank (`amsterdam-city-archives-image-bank`)
+- Andenne (`andenne`)
+- Anketa o delovni sili, 2003 (`anketa-o-delovni-sili-2003`)
+- Anketa o delovni sili, 2003 (`anketa-o-delovni-sili-2003-1`)
+- Anketa o delovni sili, 2006 (`anketa-o-delovni-sili-2006`)
+- Anketa o delovni sili, 2009 (`anketa-o-delovni-sili-2009`)
+- Anketa o delovni sili, 2010 (`anketa-o-delovni-sili-2010`)
+- Anketa o delovni sili, 2011 (`anketa-o-delovni-sili-2011`)
+- Anonymised rulings (`anonymised-rulings`)
+- API de Pesquisa de Imagens v1.1 (beta) (`api-de-pesquisa-de-imagens-v11-beta`)
+- APIs der Geodaten des Landes Rheinland (`apis-der-geodaten-des-landes-rheinland`)
+- …and 616 more
+
+### Removed (510)
+- 2025 Social Housing Rental Inventory (`2025-social-housing-rental-inventory`)
+- Accidents corporels de la circulation en France 2006-2011 (`accidents-corporels-de-la-circulation-en-france-2006-2011`)
+- Accidents corporels de la circulation millésimé (`accidents-corporels-de-la-circulation-millesime`)
+- Aides aux entreprises dans le cadre de l'épidémie de COVID-19 en France (`aides-aux-entreprises-dans-le-cadre-de-lepidemie-de-covid-19-en-france`)
+- Aides aux entreprises dans le cadre de l'épidémie de COVID-19 en France - Catégorie juridique (`aides-aux-entreprises-dans-le-cadre-de-lepidemie-de-covid-19-en-france-categorie-juridique`)
+- Aides aux entreprises dans le cadre de l'épidémie de COVID-19 en France - Classe d'effectifs (`aides-aux-entreprises-dans-le-cadre-de-lepidemie-de-covid-19-en-france-classe-deffectifs`)
+- Aire géographique des IGP (`aire-geographique-des-igp`)
+- Aires de covoiturage en France (`aires-de-covoiturage-en-france`)
+- Aires de jeux - France - données OSM (`aires-de-jeux-france-donnees-osm`)
+- Aires et produits AOC/AOP et IGP (`aires-et-produits-aocaop-et-igp-1`)
+- Airports code (`airports-code`)
+- All Vehicles Model (`all-vehicles-model`)
+- Aménagements bus en Île-de-France (`amenagements-bus-en-ile-de-france`)
+- Annuaire et localisation des professionnels de santé (`annuaire-et-localisation-des-professionnels-de-sante`)
+- Annuaire Santé : Liste, localisation et tarifs des professionnels de santé (`annuaire-sante-liste-localisation-et-tarifs-des-professionnels-de-sante`)
+- Arbres [recensement GPS + OSM] (`arbres-recensement-gps-osm`)
+- Arrondissements - Belgium (`arrondissements-belgium`)
+- Arrondissements départementaux - France (`arrondissements-departementaux-france`)
+- Arrondissements départementaux - Millésimé - France (`arrondissements-departementaux-millesime-france`)
+- Arrondissements - Vintage/Millésimé - Belgium (`arrondissements-vintagemillesime-belgium`)
+- Ateliers d'autoréparation de vélo (`ateliers-dautoreparation-de-velo`)
+- Automated External Defibrillators - Australia - OSM data (`automated-external-defibrillators-australia-osm-data`)
+- Automated External Defibrillators - New Zealand - OSM data (`automated-external-defibrillators-new-zealand-osm-data`)
+- Autonomous communities - Spain (`autonomous-communities-spain`)
+- Autonomous communities - Vintage/Millésimé - Spain (`autonomous-communities-vintagemillesime-spain`)
+- …and 485 more
+
+### State changes (1811)
+- 13 Station météo Toulouse Pech David - archive 2020 (`13-station-meteo-toulouse-pech-david-archive-2020`) — VERIFIED → STALE
+- 18 Station météo Brax école - archive 2021 (`18-station-meteo-brax-ecole-archive-2021`) — STALE → VERIFIED
+- 2013 — Foreign population: Activity (`2013-foreign-population-activity`) — STALE → VERIFIED
+- 2013 — Foreign population — Ile de France sheet (`2013-foreign-population-ile-de-france-sheet`) — STALE → VERIFIED
+- 2013 — Housing occupation status of immigrant and non-immigrant households (`2013-housing-occupation-status-of-immigrant-and-non-immigrant-households`) — STALE → VERIFIED
+- 2013 — Immigrant population: Type of households (`2013-immigrant-population-type-of-households`) — STALE → VERIFIED
+- 2024 grants (COPAMO) (`2024-grants-copamo`) — VERIFIED → STALE
+- Αριθμός ημερών ανά έτος με ΤΧ > 35 °C - πολύ θερμές ημέρες (`35-c-4`) — VERIFIED → STALE
+- Accès aux îles de loisirs d’Île-de-France (`acces-aux-iles-de-loisirs-dile-de-france`) — VERIFIED → STALE
+- Accessi esterni (`accessi-esterni-23`) — FAILING → VERIFIED
+- Accessibilité des Traversées Piétonnes - Diagnostique accessibilité 2014 Toulouse Métropole (`accessibilite-des-traversees-pietonnes-diagnostique-accessibilite-2014-toulouse-metropole`) — STALE → VERIFIED
+- Accidents corporels de la circulation sur Bordeaux Métropole 2006-2011 (`accidents-corporels-de-la-circulation-sur-bordeaux-metropole-2006-2011`) — STALE → VERIFIED
+- Accidents corporels de la circulation sur Bordeaux Métropole 2012-2019 (`accidents-corporels-de-la-circulation-sur-bordeaux-metropole-2012-2019`) — STALE → VERIFIED
+- Accidents corporels sur Rennes Métropole (`accidents-corporels-sur-rennes-metropole`) — FAILING → VERIFIED
+- [Achats publics] Recensement des Achats issus de l'économie circulaire (AGEC) 2025 (`achats-publics-recensement-des-achats-issus-de-leconomie-circulaire-agec-2025`) — VERIFIED → STALE
+- Actes administratifs de Grand Paris Sud - Format SCDL (`actes-administratifs-de-grand-paris-sud-format-scdl`) — STALE → VERIFIED
+- Acteurs de l'économie circulaire - Que faire de mes objets et déchets (`acteurs-de-leconomie-circulaire-que-faire-de-mes-objets-et-dechets`) — VERIFIED → STALE
+- Action sociale en faveur des agents de la Région : détail des mesures et répartition genrée (`action-sociale-en-faveur-des-agents-de-la-region-detail-des-mesures-et-repartition-genree`) — STALE → VERIFIED
+- Activités dans les parcs naturels régionaux d'Île-de-France (`activites-dans-les-parcs-naturels-regionaux-dile-de-france`) — STALE → VERIFIED
+- Adresse sur Bordeaux Métropole au format BAL (`adresse-sur-bordeaux-metropole-au-format-bal`) — VERIFIED → STALE
+- Adresse sur la Métropole (`adresse-sur-la-metropole`) — STALE → VERIFIED
+- Adresses géoréférencées non postales (`adresses-georeferencees-non-postales`) — STALE → VERIFIED
+- Αεροδρόμια - Ελικοδρόμια - Χώροι προσγείωσης ελικοπτέρων Π.Ε. Λασιθίου (`aerodromia-elikodromia-choroi-prosgeiosis-elikopteron-pe-lasithioy`) — STALE → VERIFIED
+- Agenda Bordeaux Métropole (`agenda-bordeaux-metropole`) — STALE → VERIFIED
+- Agenda culturel 2019-2020 (`agenda-culturel-2019-2020`) — VERIFIED → STALE
+- …and 1786 more
+
 ## 2026-10-12
 
 ### Added (1219)

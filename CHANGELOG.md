@@ -2,6 +2,36 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-10-14
+
+### State changes (1820)
+- 13 Station météo Toulouse Pech David - archive 2020 (`13-station-meteo-toulouse-pech-david-archive-2020`) — STALE → VERIFIED
+- 2013 — Composition of immigrant households (`2013-composition-of-immigrant-households`) — VERIFIED → STALE
+- 2013 — Foreign population: Chomage (`2013-foreign-population-chomage`) — STALE → VERIFIED
+- 2013 — Foreign population: IDF Diploma (`2013-foreign-population-idf-diploma`) — VERIFIED → STALE
+- 2013 — Immigrant households (`2013-immigrant-households`) — VERIFIED → STALE
+- 2013 — Immigrant population — Pyramid of the ages (`2013-immigrant-population-pyramid-of-the-ages`) — STALE → VERIFIED
+- 2018 Library Statistics of the City of Echirolles (`2018-library-statistics-of-the-city-of-echirolles`) — VERIFIED → STALE
+- Αριθμός ημερών ανά έτος με ΤΧ > 30 °C - θερμές ημέρες (`30-c-4`) — VERIFIED → STALE
+- Αριθμός ημερών ανά έτος με ΤΧ > 35 °C - πολύ θερμές ημέρες (`35-c-4`) — STALE → VERIFIED
+- Accès aux îles de loisirs d’Île-de-France (`acces-aux-iles-de-loisirs-dile-de-france`) — STALE → VERIFIED
+- Accessi esterni (`accessi-esterni-23`) — VERIFIED → FAILING
+- Accessi esterni (`accessi-esterni-24`) — VERIFIED → FAILING
+- Accessi esterni (`accessi-esterni-27`) — VERIFIED → FAILING
+- Accueil (`accueil`) — STALE → VERIFIED
+- [Achats publics] Recensement des Achats issus de l'économie circulaire (AGEC) 2025 (`achats-publics-recensement-des-achats-issus-de-leconomie-circulaire-agec-2025`) — STALE → VERIFIED
+- Actions éducatives dans les lycées en 2012-2013 (`actions-educatives-dans-les-lycees-en-2012-2013`) — VERIFIED → STALE
+- Activité partielle - Heures autorisées en région Centre-Val de Loire par secteur d'activité-trimestriel (`activite-partielle-heures-autorisees-en-region-centre-val-de-loire-par-secteur-dactivite-trimestriel`) — VERIFIED → STALE
+- Activités des îles de loisirs (`activites-des-iles-de-loisirs`) — VERIFIED → STALE
+- Adresse et géolocalisation des établissements d'enseignement des premier et second degrés (`adresse-et-geolocalisation-des-etablissements-denseignement-des-premier-et-second-degres`) — VERIFIED → STALE
+- Adresses géoréférencées à l'entrée du bâtiment (`adresses-georeferencees-a-lentree-du-batiment`) — VERIFIED → STALE
+- Αεροδρόμια - Ελικοδρόμια Π.Ε. Ηρακλείου (`aerodromia-elikodromia-pe-irakleioy`) — VERIFIED → STALE
+- Αεροδρόμια - Ελικοδρόμια Π.Ε. Λασιθίου (`aerodromia-elikodromia-pe-lasithioy`) — VERIFIED → STALE
+- Αεροδρόμια - Ελικοδρόμια Π.Ε.Χανίων (`aerodromia-elikodromia-pechanion`) — VERIFIED → STALE
+- Agenda culturel 2019-2020 (`agenda-culturel-2019-2020`) — STALE → VERIFIED
+- Agenda Ville de Talence (`agenda-ville-de-talence`) — STALE → VERIFIED
+- …and 1795 more
+
 ## 2026-10-13
 
 ### Added (641)

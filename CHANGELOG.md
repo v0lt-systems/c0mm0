@@ -2,6 +2,36 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-10-15
+
+### State changes (1876)
+- 01 Station météo Toulouse Météopole - archive2019 (`01-station-meteo-toulouse-meteopole-archive2019`) — VERIFIED → STALE
+- 08 Station météo Toulouse Basso Cambo - archive 2020 (`08-station-meteo-toulouse-basso-cambo-archive-2020`) — VERIFIED → STALE
+- 17 Station météo Fenouillet foyer - archive 2020 (`17-station-meteo-fenouillet-foyer-archive-2020`) — VERIFIED → STALE
+- 18 Station météo Brax école - archive 2020 (`18-station-meteo-brax-ecole-archive-2020`) — VERIFIED → STALE
+- 2024 grants (COPAMO) (`2024-grants-copamo`) — STALE → VERIFIED
+- 20241021_Fichier_adressage_LCM-A-Ajouter (`20241021fichieradressagelcm-a-ajouter`) — VERIFIED → STALE
+- Αριθμός ημερών ανά έτος με ΤΧ > 30 °C - θερμές ημέρες (`30-c-4`) — STALE → VERIFIED
+- Abribus SAEIV (`abribus-saeiv`) — VERIFIED → STALE
+- Absentéisme des agents de la Région (siège et lycées) : arrêts par motif (`absenteisme-des-agents-de-la-region-siege-et-lycees-arrets-par-motif`) — VERIFIED → STALE
+- Accessi esterni (`accessi-esterni-24`) — FAILING → VERIFIED
+- Accessi esterni (`accessi-esterni-27`) — FAILING → VERIFIED
+- Accessibilité PMR aux points d'arrêt du réseau bus (`accessibilite-pmr-aux-points-darret-du-reseau-bus`) — VERIFIED → STALE
+- Actions de formations financées depuis 2020 par la Région Centre Val-de Loire (données détaillées) (`actions-de-formations-financees-depuis-2020-par-la-region-centre-val-de-loire-donnees-detaillees`) — VERIFIED → STALE
+- Actions d'insertion professionnelle (`actions-dinsertion-professionnelle`) — VERIFIED → STALE
+- Actions éducatives dans les lycées en 2012-2013 (`actions-educatives-dans-les-lycees-en-2012-2013`) — STALE → VERIFIED
+- Active organization and associations - volunteers and members of the organization (`active-organization-and-associations-volunteers-and-members-of-the-organization`) — VERIFIED → STALE
+- Activité partielle - Heures autorisées en région Centre-Val de Loire par secteur d'activité-trimestriel (`activite-partielle-heures-autorisees-en-region-centre-val-de-loire-par-secteur-dactivite-trimestriel`) — STALE → VERIFIED
+- Activités des îles de loisirs (`activites-des-iles-de-loisirs`) — STALE → VERIFIED
+- Actualité (`actualite`) — VERIFIED → STALE
+- ADEME - Car Labelling (`ademe-car-labelling`) — VERIFIED → STALE
+- Adresse et géolocalisation des établissements d'enseignement des premier et second degrés (`adresse-et-geolocalisation-des-etablissements-denseignement-des-premier-et-second-degres`) — STALE → VERIFIED
+- Adresse sur Bordeaux Métropole au format BAL (`adresse-sur-bordeaux-metropole-au-format-bal`) — STALE → VERIFIED
+- Adresses géoréférencées à l'entrée du bâtiment (`adresses-georeferencees-a-lentree-du-batiment`) — STALE → VERIFIED
+- Αεροδρόμια - Ελικοδρόμια Π.Ε. Ηρακλείου (`aerodromia-elikodromia-pe-irakleioy`) — STALE → VERIFIED
+- Αεροδρόμια - Ελικοδρόμια Π.Ε. Ηρακλείου (`aerodromia-elikodromia-pe-irakleioy-1`) — VERIFIED → STALE
+- …and 1851 more
+
 ## 2026-10-14
 
 ### State changes (1820)

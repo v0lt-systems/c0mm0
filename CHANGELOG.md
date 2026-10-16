@@ -2,6 +2,40 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-10-16
+
+### Removed (2)
+- Inventaire général du patrimoine culturel d'Occitanie - Architecture (`inventaire-general-du-patrimoine-culturel-doccitanie-architecture`)
+- [UPCITI / KPIs] Flux d'occupation des parking pour les cumuls dashboard (`upciti-kpis-flux-doccupation-des-parking-pour-les-cumuls-dashboard`)
+
+### State changes (1885)
+- 01 Station météo Toulouse Météopole - archive2019 (`01-station-meteo-toulouse-meteopole-archive2019`) — STALE → VERIFIED
+- 08 Station météo Toulouse Basso Cambo - archive 2020 (`08-station-meteo-toulouse-basso-cambo-archive-2020`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2021 (`09-station-meteo-toulouse-la-salade-archive-2021`) — VERIFIED → STALE
+- 17 Station météo Fenouillet foyer - archive 2020 (`17-station-meteo-fenouillet-foyer-archive-2020`) — STALE → VERIFIED
+- 18 Station météo Brax école - archive 2020 (`18-station-meteo-brax-ecole-archive-2020`) — STALE → VERIFIED
+- 2013 — Foreign population: Activity (`2013-foreign-population-activity`) — VERIFIED → STALE
+- 2013 — Foreign population: IDF Diploma (`2013-foreign-population-idf-diploma`) — STALE → VERIFIED
+- 2013 — Foreign population — Ile de France sheet (`2013-foreign-population-ile-de-france-sheet`) — VERIFIED → STALE
+- 2013 — Housing occupation status of immigrant and non-immigrant households (`2013-housing-occupation-status-of-immigrant-and-non-immigrant-households`) — VERIFIED → STALE
+- 2013 — Immigrant population: Type of households (`2013-immigrant-population-type-of-households`) — VERIFIED → STALE
+- 2014-2020 Plans des quartiers "Elus" (`2014-2020-plans-des-quartiers-elus`) — VERIFIED → STALE
+- 2018 Library Statistics of the City of Echirolles (`2018-library-statistics-of-the-city-of-echirolles`) — STALE → VERIFIED
+- 20241021_Fichier_adressage_ETIOLLES-AAjouter (`20241021fichieradressageetiolles-aajouter`) — VERIFIED → STALE
+- 20241021_Fichier_adressage_LCM-A-Ajouter (`20241021fichieradressagelcm-a-ajouter`) — STALE → VERIFIED
+- 22 Station météo Colomiers ZA Perget - archive 2022 (`22-station-meteo-colomiers-za-perget-archive-2022`) — VERIFIED → FAILING
+- Abribus SAEIV (`abribus-saeiv`) — STALE → VERIFIED
+- Absentéisme des agents de la Région (siège et lycées) : arrêts par motif (`absenteisme-des-agents-de-la-region-siege-et-lycees-arrets-par-motif`) — STALE → VERIFIED
+- Accessi esterni (`accessi-esterni-14`) — VERIFIED → FAILING
+- Accessibilité autour des établissements recevant du public - Diagnostique accessibilité 2014 Toulouse Métropole (`accessibilite-autour-des-etablissements-recevant-du-public-diagnostique-accessibilite-2014-toulouse-metropole`) — VERIFIED → STALE
+- Accessibilité PMR aux points d'arrêt du réseau bus (`accessibilite-pmr-aux-points-darret-du-reseau-bus`) — STALE → VERIFIED
+- Accidents corporels de la circulation sur Bordeaux Métropole 2006-2011 (`accidents-corporels-de-la-circulation-sur-bordeaux-metropole-2006-2011`) — VERIFIED → STALE
+- Accidents corporels de la circulation sur Bordeaux Métropole 2012-2019 (`accidents-corporels-de-la-circulation-sur-bordeaux-metropole-2012-2019`) — VERIFIED → STALE
+- Acteurs de l'économie circulaire - Que faire de mes objets et déchets (`acteurs-de-leconomie-circulaire-que-faire-de-mes-objets-et-dechets`) — STALE → VERIFIED
+- Action sociale en faveur des agents de la Région : détail des mesures et répartition genrée (`action-sociale-en-faveur-des-agents-de-la-region-detail-des-mesures-et-repartition-genree`) — VERIFIED → STALE
+- Actions de formations financées depuis 2020 par la Région Centre Val-de Loire (données détaillées) (`actions-de-formations-financees-depuis-2020-par-la-region-centre-val-de-loire-donnees-detaillees`) — STALE → VERIFIED
+- …and 1860 more
+
 ## 2026-10-15
 
 ### State changes (1876)

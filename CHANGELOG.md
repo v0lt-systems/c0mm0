@@ -2,6 +2,39 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-10-17
+
+### Removed (1)
+- [Enseignement supérieur] Effectifs des étudiants en Île-de-France (`enseignement-superieur-effectifs-des-etudiants-en-ile-de-france`)
+
+### State changes (1889)
+- 08 Station météo Toulouse Basso Cambo - archive 2019 (`08-station-meteo-toulouse-basso-cambo-archive-2019`) — VERIFIED → STALE
+- 08 Station météo Toulouse Basso Cambo - archive 2021 (`08-station-meteo-toulouse-basso-cambo-archive-2021`) — VERIFIED → STALE
+- 09 Station météo Toulouse La Salade - archive 2021 (`09-station-meteo-toulouse-la-salade-archive-2021`) — STALE → VERIFIED
+- 12 Station météo Toulouse Montaudran - archive 2020 (`12-station-meteo-toulouse-montaudran-archive-2020`) — VERIFIED → STALE
+- 2013 — Composition of immigrant households (`2013-composition-of-immigrant-households`) — STALE → VERIFIED
+- 2013 — Foreign population: Chomage (`2013-foreign-population-chomage`) — VERIFIED → STALE
+- 2013 — Immigrant households (`2013-immigrant-households`) — STALE → VERIFIED
+- 2013 — Immigrant population — Pyramid of the ages (`2013-immigrant-population-pyramid-of-the-ages`) — VERIFIED → STALE
+- 2014-2020 Plans des quartiers "Elus" (`2014-2020-plans-des-quartiers-elus`) — STALE → VERIFIED
+- 20241021_Fichier_adressage_ETIOLLES-AAjouter (`20241021fichieradressageetiolles-aajouter`) — STALE → VERIFIED
+- 25 ans de prêts des collections du musée des Augustins (`25-ans-de-prets-des-collections-du-musee-des-augustins`) — VERIFIED → STALE
+- Αριθμός ημερών ανά έτος με ΤΧ > 35 °C - πολύ θερμές ημέρες (`35-c-4`) — VERIFIED → STALE
+- 4G Fixe (`4g-fixe`) — VERIFIED → STALE
+- Accès aux îles de loisirs d’Île-de-France (`acces-aux-iles-de-loisirs-dile-de-france`) — VERIFIED → STALE
+- Accessi esterni (`accessi-esterni-14`) — FAILING → VERIFIED
+- Accessibilité autour des établissements recevant du public - Diagnostique accessibilité 2014 Toulouse Métropole (`accessibilite-autour-des-etablissements-recevant-du-public-diagnostique-accessibilite-2014-toulouse-metropole`) — STALE → VERIFIED
+- Accessibilité des grilles - Diagnostique accessibilité 2014 Toulouse Métropole (`accessibilite-des-grilles-diagnostique-accessibilite-2014-toulouse-metropole`) — VERIFIED → FAILING
+- Accidents corporels de la circulation sur Bordeaux Métropole 2012-2019 (`accidents-corporels-de-la-circulation-sur-bordeaux-metropole-2012-2019`) — STALE → VERIFIED
+- Accueil (`accueil`) — VERIFIED → STALE
+- Action sociale en faveur des agents de la Région : détail des mesures et répartition genrée (`action-sociale-en-faveur-des-agents-de-la-region-detail-des-mesures-et-repartition-genree`) — STALE → VERIFIED
+- Actions Numérique Responsable (`actions-numerique-responsable`) — VERIFIED → STALE
+- Activité partielle - Heures autorisées en région Centre-Val de Loire par département-trimestriel (`activite-partielle-heures-autorisees-en-region-centre-val-de-loire-par-departement-trimestriel`) — STALE → VERIFIED
+- Activités dans les parcs naturels régionaux d'Île-de-France (`activites-dans-les-parcs-naturels-regionaux-dile-de-france`) — STALE → VERIFIED
+- Adhérents à la démarche "Mangeons Local en Île-de-France" (`adherents-a-la-demarche-mangeons-local-en-ile-de-france`) — STALE → VERIFIED
+- Adresse sur la Métropole (`adresse-sur-la-metropole`) — STALE → VERIFIED
+- …and 1864 more
+
 ## 2026-10-16
 
 ### Removed (2)

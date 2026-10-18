@@ -2,6 +2,64 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-10-18
+
+### Removed (31)
+- Agglo - Pôles d'activité métropolitains - Stratégie du PA (`agglo-ples-dactivit-mtropolitains-stratgie-du-pa`)
+- AGGLO - Situation au début de l'Empire romain (`agglo-situation-au-debut-de-lempire-romain-1`)
+- Base SIRENE V3 des établissements économiques - GPS (`base-sirene-v3-des-etablissements-economiques-gps`)
+- Capacité calorifique moyenne - sondes 200 m (`capacite-calorifique-moyenne-sondes-200-m-1`)
+- Conductivité thermique moyenne - sondes 50 m (`conductivite-thermique-moyenne-sondes-50-m-1`)
+- Documents schémas protection, aménagement et gestion eaux (SPAGE) (`documents-schemas-protection-amenagement-et-gestion-eaux-spage-1`)
+- Emprise de la sismique 3D (`emprise-de-la-sismique-3d-1`)
+- ERRUISSOL - Diffuse runoff risk (`erruissol-diffuse-runoff-risk-1`)
+- Gemeinde Bad Endbach: Bauleitplanung (INSPIRE) (`gemeinde-bad-endbach-bauleitplanung-inspire-1`)
+- Graphe de la mobilité - Quai de gare (`graphe-de-la-mobilite-quai-de-gare-1`)
+- INSPIRE HE Geografische Bezeichnungen ATKIS Basis-DLM (`inspire-he-geografische-bezeichnungen-atkis-basis-dlm-1`)
+- Isolignes capacité calorifique moyenne - sondes 200 m (`isolignes-capacite-calorifique-moyenne-sondes-200-m-1`)
+- Kilométrage curviligne des cours d'eau (`kilometrage-curviligne-des-cours-deau-1`)
+- LIDAXES (version 2) - Axes of concentration of runoff (vector) (`lidaxes-version-2-axes-of-concentration-of-runoff-vector-2`)
+- Ouvrages de régulation (`ouvrages-de-regulation-1`)
+- Plan directeur cantonal - Déclassement de la zone à bâtir en zone agricole (surfaces) (`plan-directeur-cantonal-declassement-de-la-zone-a-batir-en-zone-agricole-surfaces-1`)
+- Plan directeur cantonal - Grands équipements publics (points) (`plan-directeur-cantonal-grands-equipements-publics-points-1`)
+- Plan directeur cantonal - Projets d'urbanisation adoptés (surfaces) (`plan-directeur-cantonal-projets-durbanisation-adoptes-surfaces-1`)
+- Plan directeur cantonal - Renaturations de cours d'eau et remises à ciel ouvert (surfaces) (`plan-directeur-cantonal-renaturations-de-cours-deau-et-remises-a-ciel-ouvert-surfaces-1`)
+- Plan directeur cantonal - Zone des bois et forêt (surfaces) (`plan-directeur-cantonal-zone-des-bois-et-foret-surfaces-1`)
+- Plan directeur forestier - Dessertes et réseau cavalier (`plan-directeur-forestier-dessertes-et-reseau-cavalier-1`)
+- Privilegierte und förderfähige Kulissen (`privilegierte-und-frderfhige-kulissen-1`)
+- Qualité des eaux - Physico-chimie - Toutes mesures (`qualite-des-eaux-physico-chimie-toutes-mesures-1`)
+- REFPU Infrastructure énergétique existante adopte (surface) (`refpu-infrastructure-energetique-existante-adopte-surface-1`)
+- Réseau d'assainissement des eaux - Descente de toiture (`reseau-dassainissement-des-eaux-descente-de-toiture-1`)
+- …and 6 more
+
+### State changes (1895)
+- 08 Station météo Toulouse Basso Cambo - archive 2019 (`08-station-meteo-toulouse-basso-cambo-archive-2019`) — STALE → VERIFIED
+- 08 Station météo Toulouse Basso Cambo - archive 2021 (`08-station-meteo-toulouse-basso-cambo-archive-2021`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2020 (`09-station-meteo-toulouse-la-salade-archive-2020`) — VERIFIED → STALE
+- 12 Station météo Toulouse Montaudran - archive 2020 (`12-station-meteo-toulouse-montaudran-archive-2020`) — STALE → VERIFIED
+- 18 Station météo Brax école - archive 2022 (`18-station-meteo-brax-ecole-archive-2022`) — VERIFIED → STALE
+- 2014-2020 Quartiers "Elus" de la ville de Strasbourg (`2014-2020-quartiers-elus-de-la-ville-de-strasbourg`) — VERIFIED → STALE
+- 2024 grants (COPAMO) (`2024-grants-copamo`) — VERIFIED → STALE
+- 25 ans de prêts des collections du musée des Augustins (`25-ans-de-prets-des-collections-du-musee-des-augustins`) — STALE → VERIFIED
+- Αριθμός ημερών ανά έτος με ΤΧ > 30 °C - θερμές ημέρες (`30-c-4`) — VERIFIED → STALE
+- Αριθμός ημερών ανά έτος με ΤΧ > 35 °C - πολύ θερμές ημέρες (`35-c-4`) — STALE → VERIFIED
+- 4G Fixe (`4g-fixe`) — STALE → VERIFIED
+- Accès aux îles de loisirs d’Île-de-France (`acces-aux-iles-de-loisirs-dile-de-france`) — STALE → VERIFIED
+- Accessi esterni (`accessi-esterni-12`) — VERIFIED → FAILING
+- Accidents corporels de la circulation sur Bordeaux Métropole 2006-2011 (`accidents-corporels-de-la-circulation-sur-bordeaux-metropole-2006-2011`) — STALE → VERIFIED
+- Actions éducatives dans les lycées en 2012-2013 (`actions-educatives-dans-les-lycees-en-2012-2013`) — VERIFIED → STALE
+- Actions Numérique Responsable (`actions-numerique-responsable`) — STALE → FAILING
+- Activités des îles de loisirs (`activites-des-iles-de-loisirs`) — VERIFIED → STALE
+- ADEME - Car Labelling (`ademe-car-labelling`) — STALE → VERIFIED
+- Adresse et géolocalisation des établissements d'enseignement des premier et second degrés (`adresse-et-geolocalisation-des-etablissements-denseignement-des-premier-et-second-degres`) — VERIFIED → STALE
+- Adresse sur Bordeaux Métropole au format BAL (`adresse-sur-bordeaux-metropole-au-format-bal`) — VERIFIED → STALE
+- Adresses géoréférencées à l'entrée du bâtiment (`adresses-georeferencees-a-lentree-du-batiment`) — VERIFIED → STALE
+- Αεροδρόμια - Ελικοδρόμια Π.Ε. Ηρακλείου (`aerodromia-elikodromia-pe-irakleioy`) — VERIFIED → STALE
+- Αεροδρόμια - Ελικοδρόμια Π.Ε. Λασιθίου (`aerodromia-elikodromia-pe-lasithioy`) — VERIFIED → STALE
+- Αεροδρόμια - Ελικοδρόμια Π.Ε.Χανίων (`aerodromia-elikodromia-pechanion`) — VERIFIED → STALE
+- Agglo - addresses (`agglo-addresses`) — VERIFIED → STALE
+- …and 1870 more
+
 ## 2026-10-17
 
 ### Removed (1)

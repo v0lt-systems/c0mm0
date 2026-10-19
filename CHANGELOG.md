@@ -2,6 +2,36 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-10-19
+
+### State changes (1769)
+- 09 Station météo Toulouse La Salade - archive 2020 (`09-station-meteo-toulouse-la-salade-archive-2020`) — STALE → VERIFIED
+- 11 Station météo Toulouse Soupetard - archive 2020 (`11-station-meteo-toulouse-soupetard-archive-2020`) — VERIFIED → STALE
+- 18 Station météo Brax école - archive 2022 (`18-station-meteo-brax-ecole-archive-2022`) — STALE → VERIFIED
+- 2013 — Foreign population: Activity (`2013-foreign-population-activity`) — STALE → VERIFIED
+- 2013 — Foreign population: Chomage (`2013-foreign-population-chomage`) — STALE → VERIFIED
+- 2013 — Foreign population: IDF Diploma (`2013-foreign-population-idf-diploma`) — VERIFIED → STALE
+- 2013 — Foreign population — Ile de France sheet (`2013-foreign-population-ile-de-france-sheet`) — STALE → VERIFIED
+- 2013 — Housing occupation status of immigrant and non-immigrant households (`2013-housing-occupation-status-of-immigrant-and-non-immigrant-households`) — STALE → VERIFIED
+- 2013 — Immigrant population — Pyramid of the ages (`2013-immigrant-population-pyramid-of-the-ages`) — STALE → VERIFIED
+- 2013 — Immigrant population: Type of households (`2013-immigrant-population-type-of-households`) — STALE → VERIFIED
+- 2014-2020 Quartiers "Elus" de la ville de Strasbourg (`2014-2020-quartiers-elus-de-la-ville-de-strasbourg`) — STALE → VERIFIED
+- 2018 Library Statistics of the City of Echirolles (`2018-library-statistics-of-the-city-of-echirolles`) — VERIFIED → STALE
+- 3ewijzigingomgevingsplan 20251128 (`3ewijzigingomgevingsplan-20251128`) — VERIFIED → FAILING
+- Abribus SAEIV (`abribus-saeiv`) — VERIFIED → STALE
+- Absentéisme des agents de la Région (siège et lycées) : arrêts par motif (`absenteisme-des-agents-de-la-region-siege-et-lycees-arrets-par-motif`) — VERIFIED → STALE
+- Accessi esterni (`accessi-esterni-12`) — FAILING → VERIFIED
+- Accessi esterni (`accessi-esterni-27`) — VERIFIED → FAILING
+- Accessibilité PMR aux points d'arrêt du réseau bus (`accessibilite-pmr-aux-points-darret-du-reseau-bus`) — VERIFIED → STALE
+- Acteurs de l'économie circulaire - Que faire de mes objets et déchets (`acteurs-de-leconomie-circulaire-que-faire-de-mes-objets-et-dechets`) — VERIFIED → STALE
+- Actions éducatives dans les lycées en 2012-2013 (`actions-educatives-dans-les-lycees-en-2012-2013`) — STALE → VERIFIED
+- Active organization and associations - volunteers and members of the organization (`active-organization-and-associations-volunteers-and-members-of-the-organization`) — VERIFIED → STALE
+- Activités des îles de loisirs (`activites-des-iles-de-loisirs`) — STALE → VERIFIED
+- Actualité (`actualite`) — VERIFIED → STALE
+- Adresse et géolocalisation des établissements d'enseignement des premier et second degrés (`adresse-et-geolocalisation-des-etablissements-denseignement-des-premier-et-second-degres`) — STALE → VERIFIED
+- Adresse sur Bordeaux Métropole au format BAL (`adresse-sur-bordeaux-metropole-au-format-bal`) — STALE → VERIFIED
+- …and 1744 more
+
 ## 2026-10-18
 
 ### Removed (31)

@@ -2,6 +2,41 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-10-20
+
+### Removed (3)
+- Open Data Parkeren: Index Statisch en Dynamisch (`open-data-parkeren-index-statisch-en-dynamisch`)
+- Test Délibérations Ris-Orangis (`test-deliberations-ris-orangis`)
+- [Tests HCI] jeu de données DELIB sur le FTP ODS (`tests-hci-jeu-de-donnees-delib-sur-le-ftp-ods`)
+
+### State changes (1729)
+- 03 Station météo Toulouse Busca - archive2019 (`03-station-meteo-toulouse-busca-archive2019`) — VERIFIED → STALE
+- 11 Station météo Toulouse Soupetard - archive 2020 (`11-station-meteo-toulouse-soupetard-archive-2020`) — STALE → VERIFIED
+- 2013 — Composition of immigrant households (`2013-composition-of-immigrant-households`) — VERIFIED → STALE
+- 2013 — Immigrant households (`2013-immigrant-households`) — VERIFIED → STALE
+- Αριθμός ημερών ανά έτος με ΤΧ > 30 °C - θερμές ημέρες (`30-c-4`) — STALE → VERIFIED
+- Absentéisme des agents de la Région (siège et lycées) : arrêts par motif (`absenteisme-des-agents-de-la-region-siege-et-lycees-arrets-par-motif`) — STALE → VERIFIED
+- Accidents corporels de la circulation sur Bordeaux Métropole 2012-2019 (`accidents-corporels-de-la-circulation-sur-bordeaux-metropole-2012-2019`) — VERIFIED → STALE
+- Accueil (`accueil`) — STALE → VERIFIED
+- Action sociale en faveur des agents de la Région : détail des mesures et répartition genrée (`action-sociale-en-faveur-des-agents-de-la-region-detail-des-mesures-et-repartition-genree`) — VERIFIED → STALE
+- Active organization and associations - average number of employees in organizations (`active-organization-and-associations-average-number-of-employees-in-organizations`) — FAILING → VERIFIED
+- Active organization and associations - volunteers and members of the organization (`active-organization-and-associations-volunteers-and-members-of-the-organization`) — STALE → VERIFIED
+- Activités dans les parcs naturels régionaux d'Île-de-France (`activites-dans-les-parcs-naturels-regionaux-dile-de-france`) — VERIFIED → STALE
+- Actualité (`actualite`) — STALE → VERIFIED
+- Adhérents à la démarche "Mangeons Local en Île-de-France" (`adherents-a-la-demarche-mangeons-local-en-ile-de-france`) — VERIFIED → STALE
+- Adresse sur la Métropole (`adresse-sur-la-metropole`) — VERIFIED → STALE
+- Adresses géoréférencées non postales (`adresses-georeferencees-non-postales`) — VERIFIED → STALE
+- Αεροδρόμια - Ελικοδρόμια - Χώροι προσγείωσης ελικοπτέρων Π.Ε. Λασιθίου (`aerodromia-elikodromia-choroi-prosgeiosis-elikopteron-pe-lasithioy`) — VERIFIED → STALE
+- Αεροδρόμια - Ελικοδρόμια Π.Ε. Ηρακλείου (`aerodromia-elikodromia-pe-irakleioy-1`) — STALE → VERIFIED
+- Αεροδρόμια - Ελικοδρόμια Π.Ε. Λασιθίου (`aerodromia-elikodromia-pe-lasithioy`) — STALE → VERIFIED
+- Αεροδρόμια - Ελικοδρόμια Π.Ε.Χανίων (`aerodromia-elikodromia-pechanion`) — STALE → VERIFIED
+- Agenda Bordeaux Métropole (`agenda-bordeaux-metropole`) — VERIFIED → STALE
+- Agglo - Aires urbaines - Stratégie du PA (`agglo-aires-urbaines-strategie-du-pa`) — VERIFIED → STALE
+- Agglo - Carroyage de population et emplois (`agglo-carroyage-de-population-et-emplois`) — VERIFIED → STALE
+- Agglo - Couverture du sol périmètre par analysis spectrale (basse) (`agglo-couverture-du-sol-perimetre-par-analysis-spectrale-basse`) — FAILING → VERIFIED
+- AGGLO - Departments et cantons (`agglo-departments-et-cantons`) — VERIFIED → STALE
+- …and 1704 more
+
 ## 2026-10-19
 
 ### State changes (1769)

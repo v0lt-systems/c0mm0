@@ -2,6 +2,39 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-10-21
+
+### Removed (1)
+- Electoral Statistics, Scotland (`electoral-statistics-scotland`)
+
+### State changes (1842)
+- 03 Station météo Toulouse Busca - archive2019 (`03-station-meteo-toulouse-busca-archive2019`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2019 (`09-station-meteo-toulouse-la-salade-archive-2019`) — VERIFIED → STALE
+- 2024 grants (COPAMO) (`2024-grants-copamo`) — STALE → VERIFIED
+- Αριθμός ημερών ανά έτος με ΤΧ > 35 °C - πολύ θερμές ημέρες (`35-c-4`) — VERIFIED → STALE
+- 3ewijzigingomgevingsplan 20251128 (`3ewijzigingomgevingsplan-20251128`) — FAILING → VERIFIED
+- Abribus SAEIV (`abribus-saeiv`) — STALE → VERIFIED
+- Accès aux îles de loisirs d’Île-de-France (`acces-aux-iles-de-loisirs-dile-de-france`) — VERIFIED → STALE
+- Accessi esterni (`accessi-esterni-27`) — FAILING → VERIFIED
+- Accessibilité PMR aux points d'arrêt du réseau bus (`accessibilite-pmr-aux-points-darret-du-reseau-bus`) — STALE → VERIFIED
+- Accidents corporels de la circulation sur Bordeaux Métropole 2006-2011 (`accidents-corporels-de-la-circulation-sur-bordeaux-metropole-2006-2011`) — VERIFIED → STALE
+- Acteurs de l'économie circulaire - Que faire de mes objets et déchets (`acteurs-de-leconomie-circulaire-que-faire-de-mes-objets-et-dechets`) — STALE → VERIFIED
+- Action sociale en faveur des agents de la Région : détail des mesures et répartition genrée (`action-sociale-en-faveur-des-agents-de-la-region-detail-des-mesures-et-repartition-genree`) — STALE → VERIFIED
+- Activités dans les parcs naturels régionaux d'Île-de-France (`activites-dans-les-parcs-naturels-regionaux-dile-de-france`) — STALE → VERIFIED
+- ADEME - Car Labelling (`ademe-car-labelling`) — VERIFIED → STALE
+- Adhérents à la démarche "Mangeons Local en Île-de-France" (`adherents-a-la-demarche-mangeons-local-en-ile-de-france`) — STALE → VERIFIED
+- Adresses géoréférencées non postales (`adresses-georeferencees-non-postales`) — STALE → VERIFIED
+- Agglo - Aires urbaines - Stratégie du PA (`agglo-aires-urbaines-strategie-du-pa`) — STALE → VERIFIED
+- Agglo - Carroyage de population et emplois (`agglo-carroyage-de-population-et-emplois`) — STALE → VERIFIED
+- Agglo - Corridors écologiques (`agglo-corridors-ecologiques`) — VERIFIED → STALE
+- AGGLO - Departments et cantons (`agglo-departments-et-cantons`) — STALE → VERIFIED
+- Agglo - Espaces commerciaux du Grand-Genève (`agglo-espaces-commerciaux-du-grand-geneve`) — VERIFIED → STALE
+- Agglo - Gares (`agglo-gares`) — VERIFIED → STALE
+- Agglo - Interfaces multimodales - Stratégie du Projet d'agglomération (`agglo-interfaces-multimodales-strategie-du-projet-dagglomeration`) — STALE → VERIFIED
+- Agglo - Mesures mobilité (linéaires) (`agglo-mesures-mobilite-lineaires`) — VERIFIED → STALE
+- Agglo - Mesures mobilité (surfaciques) (`agglo-mesures-mobilite-surfaciques`) — VERIFIED → STALE
+- …and 1817 more
+
 ## 2026-10-20
 
 ### Removed (3)

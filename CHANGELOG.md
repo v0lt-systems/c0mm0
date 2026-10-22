@@ -2,6 +2,43 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-10-22
+
+### Removed (5)
+- Boats in the fishing fleet (`boats-in-the-fishing-fleet`)
+- Catches in fisheries (`catches-in-fisheries`)
+- Fishermen (`fishermen`)
+- The quality of nationally submitted health and social care data in England - First Annual Report 2012, Experimental Statistics (`the-quality-of-nationally-submitted-health-and-social-care-data-in-england-first-annual-report-2012-experimental-statistics`)
+- The quality of nationally submitted health and social care data in England - First Annual Report 2012, Experimental Statistics (`the-quality-of-nationally-submitted-health-and-social-care-data-in-england-first-annual-report-2012-experimental-statistics-1`)
+
+### State changes (2481)
+- 09 Station météo Toulouse La Salade - archive 2019 (`09-station-meteo-toulouse-la-salade-archive-2019`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2021 (`09-station-meteo-toulouse-la-salade-archive-2021`) — VERIFIED → STALE
+- 11 Station météo Toulouse Soupetard - archive 2020 (`11-station-meteo-toulouse-soupetard-archive-2020`) — VERIFIED → STALE
+- 17 Station météo Fenouillet foyer - archive 2019 (`17-station-meteo-fenouillet-foyer-archive-2019`) — VERIFIED → STALE
+- 2013 — Composition of immigrant households (`2013-composition-of-immigrant-households`) — STALE → VERIFIED
+- 2013 — Foreign population: Activity (`2013-foreign-population-activity`) — VERIFIED → STALE
+- 2013 — Foreign population: Chomage (`2013-foreign-population-chomage`) — VERIFIED → STALE
+- 2013 — Foreign population: IDF Diploma (`2013-foreign-population-idf-diploma`) — STALE → VERIFIED
+- 2013 — Foreign population — Ile de France sheet (`2013-foreign-population-ile-de-france-sheet`) — VERIFIED → STALE
+- 2013 — Housing occupation status of immigrant and non-immigrant households (`2013-housing-occupation-status-of-immigrant-and-non-immigrant-households`) — VERIFIED → STALE
+- 2013 — Immigrant households (`2013-immigrant-households`) — STALE → VERIFIED
+- 2013 — Immigrant population — Pyramid of the ages (`2013-immigrant-population-pyramid-of-the-ages`) — VERIFIED → STALE
+- 2013 — Immigrant population: Type of households (`2013-immigrant-population-type-of-households`) — VERIFIED → STALE
+- 2014-2020 Plans des quartiers "Elus" (`2014-2020-plans-des-quartiers-elus`) — VERIFIED → STALE
+- 2018 Library Statistics of the City of Echirolles (`2018-library-statistics-of-the-city-of-echirolles`) — STALE → VERIFIED
+- Accès aux îles de loisirs d’Île-de-France (`acces-aux-iles-de-loisirs-dile-de-france`) — STALE → VERIFIED
+- Accessi esterni (`accessi-esterni-1`) — VERIFIED → FAILING
+- Accessi esterni (`accessi-esterni-11`) — VERIFIED → FAILING
+- Accessi esterni (`accessi-esterni-12`) — VERIFIED → FAILING
+- Accessi esterni (`accessi-esterni-14`) — VERIFIED → FAILING
+- Accessi esterni (`accessi-esterni-17`) — VERIFIED → FAILING
+- Accessi esterni (`accessi-esterni-18`) — VERIFIED → FAILING
+- Accessi esterni (`accessi-esterni-19`) — VERIFIED → FAILING
+- Accessi esterni (`accessi-esterni-20`) — VERIFIED → FAILING
+- Accessi esterni (`accessi-esterni-21`) — VERIFIED → FAILING
+- …and 2456 more
+
 ## 2026-10-21
 
 ### Removed (1)

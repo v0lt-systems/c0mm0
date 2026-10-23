@@ -2,6 +2,39 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-10-23
+
+### Removed (1)
+- Fréquentation des musées (`frequentation-des-musees`)
+
+### State changes (2289)
+- 03 Station météo Toulouse Busca - archive2019 (`03-station-meteo-toulouse-busca-archive2019`) — VERIFIED → STALE
+- 11 Station météo Toulouse Soupetard - archive 2020 (`11-station-meteo-toulouse-soupetard-archive-2020`) — STALE → VERIFIED
+- 12 Station météo Toulouse Montaudran - archive 2019 (`12-station-meteo-toulouse-montaudran-archive-2019`) — VERIFIED → STALE
+- 17 Station météo Fenouillet foyer - archive 2019 (`17-station-meteo-fenouillet-foyer-archive-2019`) — STALE → VERIFIED
+- 2014-2020 Plans des quartiers "Elus" (`2014-2020-plans-des-quartiers-elus`) — STALE → VERIFIED
+- 2020-2026 Périmètres des 20 référents.es de quartier de la Ville de Strasbourg (`2020-2026-perimetres-des-20-referentses-de-quartier-de-la-ville-de-strasbourg`) — VERIFIED → STALE
+- 22 Station météo Colomiers ZA Perget - archive 2022 (`22-station-meteo-colomiers-za-perget-archive-2022`) — FAILING → VERIFIED
+- Αριθμός ημερών ανά έτος με ΤΧ > 30 °C - θερμές ημέρες (`30-c-4`) — VERIFIED → STALE
+- Αριθμός ημερών ανά έτος με ΤΧ > 35 °C - πολύ θερμές ημέρες (`35-c-4`) — STALE → VERIFIED
+- Abribus SAEIV (`abribus-saeiv`) — VERIFIED → STALE
+- Absentéisme des agents de la Région (siège et lycées) : arrêts par motif (`absenteisme-des-agents-de-la-region-siege-et-lycees-arrets-par-motif`) — VERIFIED → STALE
+- Accessi esterni (`accessi-esterni-1`) — FAILING → VERIFIED
+- Accessi esterni (`accessi-esterni-11`) — FAILING → VERIFIED
+- Accessi esterni (`accessi-esterni-12`) — FAILING → VERIFIED
+- Accessi esterni (`accessi-esterni-14`) — FAILING → VERIFIED
+- Accessi esterni (`accessi-esterni-17`) — FAILING → VERIFIED
+- Accessi esterni (`accessi-esterni-18`) — FAILING → VERIFIED
+- Accessi esterni (`accessi-esterni-19`) — FAILING → VERIFIED
+- Accessi esterni (`accessi-esterni-20`) — FAILING → VERIFIED
+- Accessi esterni (`accessi-esterni-21`) — FAILING → VERIFIED
+- Accessi esterni (`accessi-esterni-22`) — FAILING → VERIFIED
+- Accessi esterni (`accessi-esterni-23`) — FAILING → VERIFIED
+- Accessi esterni (`accessi-esterni-24`) — FAILING → VERIFIED
+- Accessi esterni (`accessi-esterni-26`) — FAILING → VERIFIED
+- Accessi esterni (`accessi-esterni-27`) — FAILING → VERIFIED
+- …and 2264 more
+
 ## 2026-10-22
 
 ### Removed (5)

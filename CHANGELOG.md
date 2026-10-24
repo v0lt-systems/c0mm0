@@ -2,6 +2,39 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-10-24
+
+### Removed (1)
+- National Monitoring Programme for Phytoplankton Species occurrence in Aquaculture Production Areas (`national-monitoring-programme-for-phytoplankton-species-occurrence-in-aquaculture-production-areas-5`)
+
+### State changes (2154)
+- 03 Station météo Toulouse Busca - archive2019 (`03-station-meteo-toulouse-busca-archive2019`) — STALE → VERIFIED
+- 03_Biodiversity (MapServer) (`03biodiversity-mapserver`) — VERIFIED → FAILING
+- 2020-2026 Périmètres des 20 référents.es de quartier de la Ville de Strasbourg (`2020-2026-perimetres-des-20-referentses-de-quartier-de-la-ville-de-strasbourg`) — STALE → VERIFIED
+- 2020-2026 Plans des quartiers élus (`2020-2026-plans-des-quartiers-elus`) — VERIFIED → STALE
+- 2024 grants (COPAMO) (`2024-grants-copamo`) — VERIFIED → STALE
+- Αριθμός ημερών ανά έτος με ΤΧ > 30 °C - θερμές ημέρες (`30-c-4`) — STALE → VERIFIED
+- 4G Fixe (`4g-fixe`) — VERIFIED → STALE
+- Absentéisme des agents de la Région (siège et lycées) : arrêts par motif (`absenteisme-des-agents-de-la-region-siege-et-lycees-arrets-par-motif`) — STALE → VERIFIED
+- Accidents corporels de la circulation sur Bordeaux Métropole 2012-2019 (`accidents-corporels-de-la-circulation-sur-bordeaux-metropole-2012-2019`) — VERIFIED → STALE
+- Accidents corporels sur Rennes Métropole (`accidents-corporels-sur-rennes-metropole`) — VERIFIED → STALE
+- [Achats publics] Recensement des Achats issus de l'économie circulaire (AGEC) 2025 (`achats-publics-recensement-des-achats-issus-de-leconomie-circulaire-agec-2025`) — STALE → VERIFIED
+- Acteurs de l'économie circulaire - Que faire de mes objets et déchets (`acteurs-de-leconomie-circulaire-que-faire-de-mes-objets-et-dechets`) — VERIFIED → STALE
+- Action sociale en faveur des agents de la Région : détail des mesures et répartition genrée (`action-sociale-en-faveur-des-agents-de-la-region-detail-des-mesures-et-repartition-genree`) — VERIFIED → STALE
+- Active organization and associations - average number of employees in organizations (`active-organization-and-associations-average-number-of-employees-in-organizations`) — STALE → VERIFIED
+- Active organization and associations - volunteers and members of the organization (`active-organization-and-associations-volunteers-and-members-of-the-organization`) — STALE → VERIFIED
+- Activités dans les parcs naturels régionaux d'Île-de-France (`activites-dans-les-parcs-naturels-regionaux-dile-de-france`) — VERIFIED → STALE
+- Adhérents à la démarche "Mangeons Local en Île-de-France" (`adherents-a-la-demarche-mangeons-local-en-ile-de-france`) — VERIFIED → STALE
+- Adoptions en Loire-Atlantique par EPCI (`adoptions-en-loire-atlantique-par-epci`) — VERIFIED → STALE
+- Adresse sur la Métropole (`adresse-sur-la-metropole`) — VERIFIED → STALE
+- Adresses géoréférencées non postales (`adresses-georeferencees-non-postales`) — VERIFIED → STALE
+- Αεροδρόμια - Ελικοδρόμια - Χώροι προσγείωσης ελικοπτέρων Π.Ε. Λασιθίου (`aerodromia-elikodromia-choroi-prosgeiosis-elikopteron-pe-lasithioy`) — VERIFIED → STALE
+- Αεροδρόμια - Ελικοδρόμια Π.Ε. Λασιθίου (`aerodromia-elikodromia-pe-lasithioy`) — STALE → VERIFIED
+- Αεροδρόμια - Ελικοδρόμια Π.Ε.Χανίων (`aerodromia-elikodromia-pechanion`) — STALE → VERIFIED
+- Affichage légal de la Ville et de l'Eurométropole de Strasbourg (`affichage-legal-de-la-ville-et-de-leurometropole-de-strasbourg`) — VERIFIED → STALE
+- Affichage libre- Ville de Vezin Le Coquet (`affichage-libre-ville-de-vezin-le-coquet`) — VERIFIED → STALE
+- …and 2129 more
+
 ## 2026-10-23
 
 ### Removed (1)

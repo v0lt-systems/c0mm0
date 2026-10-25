@@ -2,6 +2,39 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-10-25
+
+### Removed (1)
+- Liste des abris vélo sur le territoire (`liste-des-abris-velo-sur-le-territoire`)
+
+### State changes (2255)
+- 18 Station météo Brax école - archive 2020 (`18-station-meteo-brax-ecole-archive-2020`) — VERIFIED → STALE
+- 18 Station météo Brax école - archive 2021 (`18-station-meteo-brax-ecole-archive-2021`) — VERIFIED → STALE
+- 2013 — Composition of immigrant households (`2013-composition-of-immigrant-households`) — VERIFIED → STALE
+- 2013 — Foreign population: Activity (`2013-foreign-population-activity`) — STALE → VERIFIED
+- 2013 — Foreign population: Chomage (`2013-foreign-population-chomage`) — STALE → VERIFIED
+- 2013 — Foreign population: IDF Diploma (`2013-foreign-population-idf-diploma`) — VERIFIED → STALE
+- 2013 — Housing occupation status of immigrant and non-immigrant households (`2013-housing-occupation-status-of-immigrant-and-non-immigrant-households`) — STALE → VERIFIED
+- 2013 — Immigrant households (`2013-immigrant-households`) — VERIFIED → STALE
+- 2013 — Immigrant population — Pyramid of the ages (`2013-immigrant-population-pyramid-of-the-ages`) — STALE → VERIFIED
+- 2013 — Immigrant population: Type of households (`2013-immigrant-population-type-of-households`) — STALE → VERIFIED
+- 2018 Library Statistics of the City of Echirolles (`2018-library-statistics-of-the-city-of-echirolles`) — VERIFIED → STALE
+- 2020-2026 Plans des quartiers élus (`2020-2026-plans-des-quartiers-elus`) — STALE → VERIFIED
+- 20241021_Fichier_adressage_LCM-A-Ajouter (`20241021fichieradressagelcm-a-ajouter`) — VERIFIED → STALE
+- 4G Fixe (`4g-fixe`) — STALE → VERIFIED
+- Abribus SAEIV (`abribus-saeiv`) — STALE → VERIFIED
+- Accès aux îles de loisirs d’Île-de-France (`acces-aux-iles-de-loisirs-dile-de-france`) — VERIFIED → STALE
+- Accessibilité des Traversées Piétonnes - Diagnostique accessibilité 2014 Toulouse Métropole (`accessibilite-des-traversees-pietonnes-diagnostique-accessibilite-2014-toulouse-metropole`) — VERIFIED → STALE
+- Accessibilité PMR aux points d'arrêt du réseau bus (`accessibilite-pmr-aux-points-darret-du-reseau-bus`) — STALE → VERIFIED
+- Accidents corporels de la circulation sur Bordeaux Métropole 2006-2011 (`accidents-corporels-de-la-circulation-sur-bordeaux-metropole-2006-2011`) — VERIFIED → STALE
+- Accidents corporels sur Rennes Métropole (`accidents-corporels-sur-rennes-metropole`) — STALE → VERIFIED
+- Action sociale en faveur des agents de la Région : détail des mesures et répartition genrée (`action-sociale-en-faveur-des-agents-de-la-region-detail-des-mesures-et-repartition-genree`) — STALE → VERIFIED
+- Activités dans les parcs naturels régionaux d'Île-de-France (`activites-dans-les-parcs-naturels-regionaux-dile-de-france`) — STALE → VERIFIED
+- Actualité (`actualite`) — STALE → VERIFIED
+- Adhérents à la démarche "Mangeons Local en Île-de-France" (`adherents-a-la-demarche-mangeons-local-en-ile-de-france`) — STALE → VERIFIED
+- Adoptions en Loire-Atlantique par EPCI (`adoptions-en-loire-atlantique-par-epci`) — STALE → VERIFIED
+- …and 2230 more
+
 ## 2026-10-24
 
 ### Removed (1)

@@ -2,6 +2,39 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-10-26
+
+### Removed (1)
+- [Archive] Bornes de recharge pour véhicules électriques à Issy-les-Moulineaux (`archive-bornes-de-recharge-pour-vehicules-electriques-a-issy-les-moulineaux`)
+
+### State changes (2073)
+- 09 Station météo Toulouse La Salade - archive 2021 (`09-station-meteo-toulouse-la-salade-archive-2021`) — STALE → VERIFIED
+- 10 Station météo Castelginest école - archive 2019 (`10-station-meteo-castelginest-ecole-archive-2019`) — VERIFIED → STALE
+- 13 Station météo Toulouse Pech David - archive 2020 (`13-station-meteo-toulouse-pech-david-archive-2020`) — VERIFIED → STALE
+- 18 Station météo Brax école - archive 2020 (`18-station-meteo-brax-ecole-archive-2020`) — STALE → VERIFIED
+- 18 Station météo Brax école - archive 2021 (`18-station-meteo-brax-ecole-archive-2021`) — STALE → VERIFIED
+- 2020-2026 Périmètres des 20 référents.es de quartier de la Ville de Strasbourg (`2020-2026-perimetres-des-20-referentses-de-quartier-de-la-ville-de-strasbourg`) — VERIFIED → STALE
+- 2024 grants (COPAMO) (`2024-grants-copamo`) — STALE → VERIFIED
+- 20241021_Fichier_adressage_ETIOLLES-AAjouter (`20241021fichieradressageetiolles-aajouter`) — VERIFIED → STALE
+- 20241021_Fichier_adressage_LCM-A-Ajouter (`20241021fichieradressagelcm-a-ajouter`) — STALE → VERIFIED
+- Αριθμός ημερών ανά έτος με ΤΧ > 35 °C - πολύ θερμές ημέρες (`35-c-4`) — VERIFIED → STALE
+- Accès aux îles de loisirs d’Île-de-France (`acces-aux-iles-de-loisirs-dile-de-france`) — STALE → VERIFIED
+- Accessibilité des grilles - Diagnostique accessibilité 2014 Toulouse Métropole (`accessibilite-des-grilles-diagnostique-accessibilite-2014-toulouse-metropole`) — VERIFIED → STALE
+- Accessibilité des Traversées Piétonnes - Diagnostique accessibilité 2014 Toulouse Métropole (`accessibilite-des-traversees-pietonnes-diagnostique-accessibilite-2014-toulouse-metropole`) — STALE → VERIFIED
+- Accidents corporels de la circulation sur Bordeaux Métropole 2006-2011 (`accidents-corporels-de-la-circulation-sur-bordeaux-metropole-2006-2011`) — STALE → VERIFIED
+- Accidents corporels de la circulation sur Bordeaux Métropole 2012-2019 (`accidents-corporels-de-la-circulation-sur-bordeaux-metropole-2012-2019`) — STALE → VERIFIED
+- Accueil (`accueil`) — STALE → VERIFIED
+- Actions éducatives dans les lycées en 2012-2013 (`actions-educatives-dans-les-lycees-en-2012-2013`) — VERIFIED → STALE
+- Activité partielle - Heures indemnisées en région Centre-Val de Loire par secteur d'activité-trimestriel (`activite-partielle-heures-indemnisees-en-region-centre-val-de-loire-par-secteur-dactivite-trimestriel`) — VERIFIED → STALE
+- Activités des îles de loisirs (`activites-des-iles-de-loisirs`) — VERIFIED → STALE
+- ADEME - Car Labelling (`ademe-car-labelling`) — VERIFIED → STALE
+- Adresse et géolocalisation des établissements d'enseignement des premier et second degrés (`adresse-et-geolocalisation-des-etablissements-denseignement-des-premier-et-second-degres`) — VERIFIED → STALE
+- Adresse sur Bordeaux Métropole au format BAL (`adresse-sur-bordeaux-metropole-au-format-bal`) — VERIFIED → STALE
+- Adresse sur la Métropole (`adresse-sur-la-metropole`) — STALE → VERIFIED
+- Adresses gourmandes de l’Agglo Food Tour (`adresses-gourmandes-de-lagglo-food-tour`) — VERIFIED → STALE
+- Αεροδρόμια - Ελικοδρόμια - Χώροι προσγείωσης ελικοπτέρων Π.Ε. Λασιθίου (`aerodromia-elikodromia-choroi-prosgeiosis-elikopteron-pe-lasithioy`) — STALE → VERIFIED
+- …and 2048 more
+
 ## 2026-10-25
 
 ### Removed (1)

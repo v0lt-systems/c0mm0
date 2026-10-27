@@ -2,6 +2,36 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-10-27
+
+### State changes (1842)
+- 10 Station météo Castelginest école - archive 2019 (`10-station-meteo-castelginest-ecole-archive-2019`) — STALE → VERIFIED
+- 12 Station météo Toulouse Montaudran - archive 2019 (`12-station-meteo-toulouse-montaudran-archive-2019`) — STALE → VERIFIED
+- 13 Station météo Toulouse Pech David - archive 2020 (`13-station-meteo-toulouse-pech-david-archive-2020`) — STALE → VERIFIED
+- 2020-2026 Périmètres des 20 référents.es de quartier de la Ville de Strasbourg (`2020-2026-perimetres-des-20-referentses-de-quartier-de-la-ville-de-strasbourg`) — STALE → VERIFIED
+- 20241021_Fichier_adressage_ETIOLLES-AAjouter (`20241021fichieradressageetiolles-aajouter`) — STALE → VERIFIED
+- Αριθμός ημερών ανά έτος με ΤΧ > 30 °C - θερμές ημέρες (`30-c-4`) — VERIFIED → STALE
+- Αριθμός ημερών ανά έτος με ΤΧ > 35 °C - πολύ θερμές ημέρες (`35-c-4`) — STALE → VERIFIED
+- Absentéisme des agents de la Région (siège et lycées) : arrêts par motif (`absenteisme-des-agents-de-la-region-siege-et-lycees-arrets-par-motif`) — VERIFIED → STALE
+- Accessi esterni (`accessi-esterni-25`) — FAILING → VERIFIED
+- Accessi interno (`accessi-interno-2`) — FAILING → VERIFIED
+- Accessibilité des grilles - Diagnostique accessibilité 2014 Toulouse Métropole (`accessibilite-des-grilles-diagnostique-accessibilite-2014-toulouse-metropole`) — STALE → VERIFIED
+- Acteurs de l'économie circulaire - Que faire de mes objets et déchets (`acteurs-de-leconomie-circulaire-que-faire-de-mes-objets-et-dechets`) — STALE → VERIFIED
+- Actions éducatives dans les lycées en 2012-2013 (`actions-educatives-dans-les-lycees-en-2012-2013`) — STALE → VERIFIED
+- Active organization and associations - average number of employees in organizations (`active-organization-and-associations-average-number-of-employees-in-organizations`) — VERIFIED → STALE
+- Active organization and associations - volunteers and members of the organization (`active-organization-and-associations-volunteers-and-members-of-the-organization`) — VERIFIED → STALE
+- Activité partielle - Heures indemnisées en région Centre-Val de Loire par secteur d'activité-trimestriel (`activite-partielle-heures-indemnisees-en-region-centre-val-de-loire-par-secteur-dactivite-trimestriel`) — STALE → VERIFIED
+- Activités des îles de loisirs (`activites-des-iles-de-loisirs`) — STALE → VERIFIED
+- Actualité (`actualite`) — VERIFIED → STALE
+- Adresse et géolocalisation des établissements d'enseignement des premier et second degrés (`adresse-et-geolocalisation-des-etablissements-denseignement-des-premier-et-second-degres`) — STALE → VERIFIED
+- Adresses gourmandes de l’Agglo Food Tour (`adresses-gourmandes-de-lagglo-food-tour`) — STALE → VERIFIED
+- Αεροδρόμια - Ελικοδρόμια Π.Ε. Λασιθίου (`aerodromia-elikodromia-pe-lasithioy`) — VERIFIED → STALE
+- Αεροδρόμια - Ελικοδρόμια Π.Ε.Χανίων (`aerodromia-elikodromia-pechanion`) — VERIFIED → STALE
+- Agenda culturel 2019-2020 (`agenda-culturel-2019-2020`) — STALE → VERIFIED
+- Agenda Ville de Talence (`agenda-ville-de-talence`) — STALE → VERIFIED
+- Agglo - Atlas culturel transfrontalier (`agglo-atlas-culturel-transfrontalier`) — STALE → VERIFIED
+- …and 1817 more
+
 ## 2026-10-26
 
 ### Removed (1)

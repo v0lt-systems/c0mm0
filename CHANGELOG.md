@@ -2,6 +2,40 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-10-28
+
+### Removed (2)
+- Archives photos de la Planète (`archives-photos-de-la-planete`)
+- Liste des organismes bénéficiant de l'exception au droit d’auteur en faveur des personnes en situation de handicap (`liste-des-organismes-beneficiant-de-lexception-au-droit-dauteur-en-faveur-des-personnes-en-situation-de-handicap`)
+
+### State changes (1886)
+- 01 Station météo Toulouse Météopole - archive2019 (`01-station-meteo-toulouse-meteopole-archive2019`) — VERIFIED → STALE
+- 08 Station météo Toulouse Basso Cambo - archive 2020 (`08-station-meteo-toulouse-basso-cambo-archive-2020`) — VERIFIED → STALE
+- 17 Station météo Fenouillet foyer - archive 2020 (`17-station-meteo-fenouillet-foyer-archive-2020`) — VERIFIED → STALE
+- 2013 — Composition of immigrant households (`2013-composition-of-immigrant-households`) — STALE → VERIFIED
+- 2013 — Foreign population: Activity (`2013-foreign-population-activity`) — VERIFIED → STALE
+- 2013 — Foreign population: Chomage (`2013-foreign-population-chomage`) — VERIFIED → STALE
+- 2013 — Foreign population: IDF Diploma (`2013-foreign-population-idf-diploma`) — STALE → VERIFIED
+- 2013 — Housing occupation status of immigrant and non-immigrant households (`2013-housing-occupation-status-of-immigrant-and-non-immigrant-households`) — VERIFIED → STALE
+- 2013 — Immigrant households (`2013-immigrant-households`) — STALE → VERIFIED
+- 2013 — Immigrant population — Pyramid of the ages (`2013-immigrant-population-pyramid-of-the-ages`) — VERIFIED → STALE
+- 2013 — Immigrant population: Type of households (`2013-immigrant-population-type-of-households`) — VERIFIED → STALE
+- 2018 Library Statistics of the City of Echirolles (`2018-library-statistics-of-the-city-of-echirolles`) — STALE → VERIFIED
+- Αριθμός ημερών ανά έτος με ΤΧ > 30 °C - θερμές ημέρες (`30-c-4`) — STALE → VERIFIED
+- Abribus SAEIV (`abribus-saeiv`) — VERIFIED → STALE
+- Absentéisme des agents de la Région (siège et lycées) : arrêts par motif (`absenteisme-des-agents-de-la-region-siege-et-lycees-arrets-par-motif`) — STALE → VERIFIED
+- Accessibilité PMR aux points d'arrêt du réseau bus (`accessibilite-pmr-aux-points-darret-du-reseau-bus`) — VERIFIED → STALE
+- Action sociale en faveur des agents de la Région : détail des mesures et répartition genrée (`action-sociale-en-faveur-des-agents-de-la-region-detail-des-mesures-et-repartition-genree`) — VERIFIED → STALE
+- Actions d'insertion professionnelle (`actions-dinsertion-professionnelle`) — VERIFIED → STALE
+- Active organization and associations - average number of employees in organizations (`active-organization-and-associations-average-number-of-employees-in-organizations`) — STALE → VERIFIED
+- Active organization and associations - volunteers and members of the organization (`active-organization-and-associations-volunteers-and-members-of-the-organization`) — STALE → VERIFIED
+- Activités dans les parcs naturels régionaux d'Île-de-France (`activites-dans-les-parcs-naturels-regionaux-dile-de-france`) — VERIFIED → STALE
+- Adhérents à la démarche "Mangeons Local en Île-de-France" (`adherents-a-la-demarche-mangeons-local-en-ile-de-france`) — VERIFIED → STALE
+- Adresse sur Bordeaux Métropole au format BAL (`adresse-sur-bordeaux-metropole-au-format-bal`) — STALE → VERIFIED
+- Αεροδρόμια - Ελικοδρόμια Π.Ε. Ηρακλείου (`aerodromia-elikodromia-pe-irakleioy`) — STALE → VERIFIED
+- Αεροδρόμια - Ελικοδρόμια Π.Ε. Ηρακλείου (`aerodromia-elikodromia-pe-irakleioy-1`) — VERIFIED → STALE
+- …and 1861 more
+
 ## 2026-10-27
 
 ### State changes (1842)

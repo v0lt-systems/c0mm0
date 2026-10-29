@@ -2,6 +2,42 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-10-29
+
+### Removed (4)
+- Base des lieux et équipements culturels (Basilic) (`base-des-lieux-et-equipements-culturels-basilic`)
+- Immeubles protégés au titre des Monuments Historiques (`immeubles-proteges-au-titre-des-monuments-historiques`)
+- Liste des structures de la Justice en France (`liste-des-structures-de-la-justice-en-france`)
+- Statistical Yearbook of the City of Vienna (`statistical-yearbook-of-the-city-of-vienna`)
+
+### State changes (1965)
+- 01 Station météo Toulouse Météopole - archive2019 (`01-station-meteo-toulouse-meteopole-archive2019`) — STALE → VERIFIED
+- 08 Station météo Toulouse Basso Cambo - archive 2020 (`08-station-meteo-toulouse-basso-cambo-archive-2020`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2021 (`09-station-meteo-toulouse-la-salade-archive-2021`) — VERIFIED → STALE
+- 17 Station météo Fenouillet foyer - archive 2020 (`17-station-meteo-fenouillet-foyer-archive-2020`) — STALE → VERIFIED
+- 2014-2020 Plans des quartiers "Elus" (`2014-2020-plans-des-quartiers-elus`) — VERIFIED → STALE
+- 2024 grants (COPAMO) (`2024-grants-copamo`) — VERIFIED → STALE
+- 22 Station météo Colomiers ZA Perget - archive 2022 (`22-station-meteo-colomiers-za-perget-archive-2022`) — VERIFIED → STALE
+- Abribus SAEIV (`abribus-saeiv`) — STALE → VERIFIED
+- Accès aux îles de loisirs d’Île-de-France (`acces-aux-iles-de-loisirs-dile-de-france`) — VERIFIED → STALE
+- Accessibilité autour des établissements recevant du public - Diagnostique accessibilité 2014 Toulouse Métropole (`accessibilite-autour-des-etablissements-recevant-du-public-diagnostique-accessibilite-2014-toulouse-metropole`) — VERIFIED → STALE
+- Accessibilité PMR aux points d'arrêt du réseau bus (`accessibilite-pmr-aux-points-darret-du-reseau-bus`) — STALE → VERIFIED
+- Accidents corporels de la circulation sur Bordeaux Métropole 2006-2011 (`accidents-corporels-de-la-circulation-sur-bordeaux-metropole-2006-2011`) — VERIFIED → STALE
+- Accidents corporels de la circulation sur Bordeaux Métropole 2012-2019 (`accidents-corporels-de-la-circulation-sur-bordeaux-metropole-2012-2019`) — VERIFIED → STALE
+- Accueil (`accueil`) — VERIFIED → STALE
+- Actes administratifs de Grand Paris Sud - Format SCDL (`actes-administratifs-de-grand-paris-sud-format-scdl`) — VERIFIED → STALE
+- Action sociale en faveur des agents de la Région : détail des mesures et répartition genrée (`action-sociale-en-faveur-des-agents-de-la-region-detail-des-mesures-et-repartition-genree`) — STALE → VERIFIED
+- Actions d'insertion professionnelle (`actions-dinsertion-professionnelle`) — STALE → VERIFIED
+- Activités dans les parcs naturels régionaux d'Île-de-France (`activites-dans-les-parcs-naturels-regionaux-dile-de-france`) — STALE → VERIFIED
+- Actualité (`actualite`) — STALE → VERIFIED
+- ADEME - Car Labelling (`ademe-car-labelling`) — STALE → VERIFIED
+- Adhérents à la démarche "Mangeons Local en Île-de-France" (`adherents-a-la-demarche-mangeons-local-en-ile-de-france`) — STALE → VERIFIED
+- Adresse sur la Métropole (`adresse-sur-la-metropole`) — VERIFIED → STALE
+- Αεροδρόμια - Ελικοδρόμια - Χώροι προσγείωσης ελικοπτέρων Π.Ε. Λασιθίου (`aerodromia-elikodromia-choroi-prosgeiosis-elikopteron-pe-lasithioy`) — VERIFIED → STALE
+- Αεροδρόμια - Ελικοδρόμια Π.Ε. Ηρακλείου (`aerodromia-elikodromia-pe-irakleioy-1`) — STALE → VERIFIED
+- Agenda Bordeaux Métropole (`agenda-bordeaux-metropole`) — VERIFIED → STALE
+- …and 1940 more
+
 ## 2026-10-28
 
 ### Removed (2)

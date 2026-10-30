@@ -2,6 +2,45 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-10-30
+
+### Removed (7)
+- 03_Biodiversity (MapServer) (`03biodiversity-mapserver`)
+- Irish Historic Towns Atlas (`irish-historic-towns-atlas`)
+- Marine Danger Areas (`marine-danger-areas`)
+- National Monitoring Programme for Phytoplankton Species occurrence in Aquaculture Production Areas (`national-monitoring-programme-for-phytoplankton-species-occurrence-in-aquaculture-production-areas-3`)
+- Parcoursup 2025 - vœux de poursuite d'études et de réorientation dans l'enseignement supérieur et réponses des établissements (`parcoursup-2025-vux-de-poursuite-detudes-et-de-reorientation-dans-lenseignement-superieur-et-reponses-des-etablissements`)
+- Species Spawning and Nursery Areas (`species-spawning-and-nursery-areas`)
+- Species Spawning and Nursery Areas (`species-spawning-and-nursery-areas-1`)
+
+### State changes (2030)
+- 08 Station météo Toulouse Basso Cambo - archive 2019 (`08-station-meteo-toulouse-basso-cambo-archive-2019`) — VERIFIED → STALE
+- 08 Station météo Toulouse Basso Cambo - archive 2021 (`08-station-meteo-toulouse-basso-cambo-archive-2021`) — VERIFIED → STALE
+- 09 Station météo Toulouse La Salade - archive 2021 (`09-station-meteo-toulouse-la-salade-archive-2021`) — STALE → VERIFIED
+- 12 Station météo Toulouse Montaudran - archive 2020 (`12-station-meteo-toulouse-montaudran-archive-2020`) — VERIFIED → STALE
+- 2013 — Foreign population: Activity (`2013-foreign-population-activity`) — STALE → VERIFIED
+- 2013 — Foreign population — Ile de France sheet (`2013-foreign-population-ile-de-france-sheet`) — STALE → VERIFIED
+- 2013 — Housing occupation status of immigrant and non-immigrant households (`2013-housing-occupation-status-of-immigrant-and-non-immigrant-households`) — STALE → VERIFIED
+- 2013 — Immigrant population: Type of households (`2013-immigrant-population-type-of-households`) — STALE → VERIFIED
+- 2014-2020 Plans des quartiers "Elus" (`2014-2020-plans-des-quartiers-elus`) — STALE → VERIFIED
+- 22 Station météo Colomiers ZA Perget - archive 2022 (`22-station-meteo-colomiers-za-perget-archive-2022`) — STALE → VERIFIED
+- 25 ans de prêts des collections du musée des Augustins (`25-ans-de-prets-des-collections-du-musee-des-augustins`) — VERIFIED → STALE
+- Αριθμός ημερών ανά έτος με ΤΧ > 35 °C - πολύ θερμές ημέρες (`35-c-4`) — VERIFIED → STALE
+- Accès aux îles de loisirs d’Île-de-France (`acces-aux-iles-de-loisirs-dile-de-france`) — STALE → VERIFIED
+- Accessibilité autour des établissements recevant du public - Diagnostique accessibilité 2014 Toulouse Métropole (`accessibilite-autour-des-etablissements-recevant-du-public-diagnostique-accessibilite-2014-toulouse-metropole`) — STALE → VERIFIED
+- Accidents corporels de la circulation sur Bordeaux Métropole 2012-2019 (`accidents-corporels-de-la-circulation-sur-bordeaux-metropole-2012-2019`) — STALE → VERIFIED
+- Accidents corporels sur Rennes Métropole (`accidents-corporels-sur-rennes-metropole`) — VERIFIED → STALE
+- [Achats publics] Recensement des Achats issus de l'économie circulaire (AGEC) 2025 (`achats-publics-recensement-des-achats-issus-de-leconomie-circulaire-agec-2025`) — VERIFIED → STALE
+- Actes administratifs de Grand Paris Sud - Format SCDL (`actes-administratifs-de-grand-paris-sud-format-scdl`) — STALE → VERIFIED
+- Acteurs de l'économie circulaire - Que faire de mes objets et déchets (`acteurs-de-leconomie-circulaire-que-faire-de-mes-objets-et-dechets`) — VERIFIED → STALE
+- Actions éducatives dans les lycées en 2012-2013 (`actions-educatives-dans-les-lycees-en-2012-2013`) — VERIFIED → STALE
+- Active organization and associations - volunteers and members of the organization (`active-organization-and-associations-volunteers-and-members-of-the-organization`) — VERIFIED → STALE
+- Activité partielle - Heures indemnisées en région Centre-Val de Loire par département-trimestriel (`activite-partielle-heures-indemnisees-en-region-centre-val-de-loire-par-departement-trimestriel`) — VERIFIED → STALE
+- Activités des îles de loisirs (`activites-des-iles-de-loisirs`) — VERIFIED → STALE
+- Adresse et géolocalisation des établissements d'enseignement des premier et second degrés (`adresse-et-geolocalisation-des-etablissements-denseignement-des-premier-et-second-degres`) — VERIFIED → STALE
+- Adresse sur la Métropole (`adresse-sur-la-metropole`) — STALE → VERIFIED
+- …and 2005 more
+
 ## 2026-10-29
 
 ### Removed (4)

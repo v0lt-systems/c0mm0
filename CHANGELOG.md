@@ -4,36 +4,6 @@ Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/r
 
 ## 2026-10-31
 
-### State changes (541)
-- 01 Station météo Toulouse Météopole - archive2019 (`01-station-meteo-toulouse-meteopole-archive2019`) — VERIFIED → STALE
-- 08 Station météo Toulouse Basso Cambo - archive 2020 (`08-station-meteo-toulouse-basso-cambo-archive-2020`) — VERIFIED → STALE
-- 09 Station météo Toulouse La Salade - archive 2019 (`09-station-meteo-toulouse-la-salade-archive-2019`) — STALE → VERIFIED
-- 17 Station météo Fenouillet foyer - archive 2020 (`17-station-meteo-fenouillet-foyer-archive-2020`) — VERIFIED → STALE
-- 4G Fixe (`4g-fixe`) — STALE → VERIFIED
-- Actions d'insertion professionnelle (`actions-dinsertion-professionnelle`) — VERIFIED → STALE
-- Actualité (`actualite`) — VERIFIED → STALE
-- Adresse et géolocalisation des établissements d'enseignement du premier et second degrés (`adresse-et-geolocalisation-des-etablissements-denseignement-du-premier-et-second-degres-1`) — STALE → VERIFIED
-- AGGLO - Departments et cantons (`agglo-departments-et-cantons`) — VERIFIED → STALE
-- Agglo - Interfaces multimodales - Stratégie du Projet d'agglomération (`agglo-interfaces-multimodales-strategie-du-projet-dagglomeration`) — VERIFIED → STALE
-- AGGLO - Saboia carolingienne (`agglo-saboia-carolingienne`) — STALE → VERIFIED
-- AGGLO - Situation de 1567 à 1601 (`agglo-situation-de-1567-a-1601`) — STALE → VERIFIED
-- Agglo - Station d'autopartage (`agglo-station-dautopartage`) — STALE → VERIFIED
-- Agglo - Structure urbaine (infra-communale) (`agglo-structure-urbaine-infra-communale`) — STALE → VERIFIED
-- Agglo - Tâche urbaine 2015 (`agglo-tache-urbaine-2015`) — STALE → VERIFIED
-- Agrégats segmentés de consommation électrique au pas 1/2 h des points de soutirage <= 36kVA – Maille nationale (`agrgats-segments-de-consommation-lectrique-au-pas-12-h-des-points-de-soutirage-36kva-maille-nationale-2`) — STALE → VERIFIED
-- Agriculture - Registre parcellaire graphique 2015 (`agriculture-registre-parcellaire-graphique-2015`) — VERIFIED → STALE
-- Aides en investissement au titre des dispositifs patrimoine (2005-2014) (`aides-en-investissement-au-titre-des-dispositifs-patrimoine-2005-2014`) — STALE → VERIFIED
-- Aires de fitness - CA Saint-Quentin-en-Yvelines (`aires-de-fitness-ca-saint-quentin-en-yvelines`) — STALE → VERIFIED
-- Aires d'ébat pour chien (`aires-debat-pour-chien`) — STALE → VERIFIED
-- Aires piétonnes et zones de rencontre (`aires-pietonnes-et-zones-de-rencontre`) — STALE → VERIFIED
-- Aires piétonnes - Toulouse Métropole (`aires-pietonnes-toulouse-metropole`) — VERIFIED → STALE
-- ALABRI - Zones inondables fusionnées (ressource carto) (`alabri-zones-inondables-fusionnees-ressource-carto`) — VERIFIED → STALE
-- Aménagements cyclables programmés (`amenagements-cyclables-programmes`) — VERIFIED → STALE
-- Amount of direct payment on the scope of Campaign (`amount-of-direct-payment-on-the-scope-of-campaign`) — STALE → VERIFIED
-- …and 516 more
-
-## 2026-10-31
-
 ### State changes (1971)
 - 08 Station météo Toulouse Basso Cambo - archive 2019 (`08-station-meteo-toulouse-basso-cambo-archive-2019`) — STALE → VERIFIED
 - 08 Station météo Toulouse Basso Cambo - archive 2021 (`08-station-meteo-toulouse-basso-cambo-archive-2021`) — STALE → VERIFIED

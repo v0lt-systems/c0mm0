@@ -2,6 +2,36 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-10-31
+
+### State changes (1971)
+- 08 Station météo Toulouse Basso Cambo - archive 2019 (`08-station-meteo-toulouse-basso-cambo-archive-2019`) — STALE → VERIFIED
+- 08 Station météo Toulouse Basso Cambo - archive 2021 (`08-station-meteo-toulouse-basso-cambo-archive-2021`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2019 (`09-station-meteo-toulouse-la-salade-archive-2019`) — VERIFIED → STALE
+- 09 Station météo Toulouse La Salade - archive 2020 (`09-station-meteo-toulouse-la-salade-archive-2020`) — VERIFIED → STALE
+- 12 Station météo Toulouse Montaudran - archive 2020 (`12-station-meteo-toulouse-montaudran-archive-2020`) — STALE → VERIFIED
+- 18 Station météo Brax école - archive 2022 (`18-station-meteo-brax-ecole-archive-2022`) — VERIFIED → STALE
+- 2013 — Composition of immigrant households (`2013-composition-of-immigrant-households`) — VERIFIED → STALE
+- 2013 — Foreign population: Chomage (`2013-foreign-population-chomage`) — STALE → VERIFIED
+- 2013 — Foreign population: IDF Diploma (`2013-foreign-population-idf-diploma`) — VERIFIED → STALE
+- 2013 — Immigrant households (`2013-immigrant-households`) — VERIFIED → STALE
+- 2013 — Immigrant population — Pyramid of the ages (`2013-immigrant-population-pyramid-of-the-ages`) — STALE → VERIFIED
+- 2014-2020 Quartiers "Elus" de la ville de Strasbourg (`2014-2020-quartiers-elus-de-la-ville-de-strasbourg`) — VERIFIED → STALE
+- 2018 Library Statistics of the City of Echirolles (`2018-library-statistics-of-the-city-of-echirolles`) — VERIFIED → STALE
+- 25 ans de prêts des collections du musée des Augustins (`25-ans-de-prets-des-collections-du-musee-des-augustins`) — STALE → VERIFIED
+- Αριθμός ημερών ανά έτος με ΤΧ > 30 °C - θερμές ημέρες (`30-c-4`) — VERIFIED → STALE
+- Αριθμός ημερών ανά έτος με ΤΧ > 35 °C - πολύ θερμές ημέρες (`35-c-4`) — STALE → VERIFIED
+- 4G Fixe (`4g-fixe`) — VERIFIED → STALE
+- Absentéisme des agents de la Région (siège et lycées) : arrêts par motif (`absenteisme-des-agents-de-la-region-siege-et-lycees-arrets-par-motif`) — VERIFIED → STALE
+- Accidents corporels de la circulation sur Bordeaux Métropole 2006-2011 (`accidents-corporels-de-la-circulation-sur-bordeaux-metropole-2006-2011`) — STALE → VERIFIED
+- Accidents corporels sur Rennes Métropole (`accidents-corporels-sur-rennes-metropole`) — STALE → VERIFIED
+- Accueil (`accueil`) — STALE → VERIFIED
+- [Achats publics] Recensement des Achats issus de l'économie circulaire (AGEC) 2025 (`achats-publics-recensement-des-achats-issus-de-leconomie-circulaire-agec-2025`) — STALE → VERIFIED
+- Actions éducatives dans les lycées en 2012-2013 (`actions-educatives-dans-les-lycees-en-2012-2013`) — STALE → VERIFIED
+- Active organization and associations - average number of employees in organizations (`active-organization-and-associations-average-number-of-employees-in-organizations`) — VERIFIED → STALE
+- Active organization and associations - volunteers and members of the organization (`active-organization-and-associations-volunteers-and-members-of-the-organization`) — STALE → VERIFIED
+- …and 1946 more
+
 ## 2026-10-30
 
 ### Removed (7)

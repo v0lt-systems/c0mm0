@@ -15,7 +15,7 @@ concurrency:
 
 jobs:
   snapshot:
-    runs-on: ubuntu-latest
+    runs-on: ${{ fromJSON(vars.CI_RUNNER || '["self-hosted", "pc-gaming"]') }}
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
@@ -23,6 +23,24 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+
+      # build-snapshot.mjs pipes SQL into the sqlite3 CLI. GitHub-hosted
+      # images ship it; the PC's WSL runners don't and have no sudo, so stand
+      # in with Python's bundled SQLite when it is missing.
+      - name: Provide sqlite3
+        run: |
+          if command -v sqlite3 >/dev/null; then sqlite3 --version; exit 0; fi
+          mkdir -p "$RUNNER_TEMP/bin"
+          cat > "$RUNNER_TEMP/bin/sqlite3" <<'PY'
+          #!/usr/bin/env python3
+          import sqlite3, sys
+          db = sqlite3.connect(sys.argv[1])
+          db.executescript(sys.stdin.read())
+          db.close()
+          PY
+          chmod +x "$RUNNER_TEMP/bin/sqlite3"
+          echo "$RUNNER_TEMP/bin" >> "$GITHUB_PATH"
+          python3 -c 'import sqlite3; print("python sqlite", sqlite3.sqlite_version)'
 
       - name: Build snapshot
         run: node scripts/build-snapshot.mjs

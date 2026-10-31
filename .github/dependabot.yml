@@ -1,0 +1,22 @@
+# Dependabot version updates, on the organization's model (commodity's
+# dependabot.yml, decision D16): weekly, grouped into one PR per ecosystem,
+# majors left out. A major is a migration, scheduled as a task, not a weekly
+# bump; security updates still propose one when a fix needs it (they ignore
+# update-types ignores). Alerts and security updates are repository settings,
+# turned on by the organization's security configuration, not keys here.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: "/"
+    schedule:
+      interval: weekly
+      day: monday
+      time: "06:00"
+      timezone: Europe/Paris
+    groups:
+      github-actions:
+        patterns: ["*"]
+    open-pull-requests-limit: 2
+    commit-message:
+      prefix: "ci"
+    labels: ["dependencies"]

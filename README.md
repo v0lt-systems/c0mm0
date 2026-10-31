@@ -15,7 +15,7 @@ catalog.
 | Entries | 13724 |
 | API | 10293 |
 | DATASET | 3431 |
-| Verified | 11596 |
+| Verified | 11598 |
 | Countries | 34 |
 <!-- stats:end -->
 

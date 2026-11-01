@@ -2,6 +2,39 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-11-01
+
+### Removed (1)
+- Public Sector Facility Time Publication (`public-sector-facility-time-publication-2`)
+
+### State changes (1396)
+- 09 Station météo Toulouse La Salade - archive 2019 (`09-station-meteo-toulouse-la-salade-archive-2019`) — STALE → VERIFIED
+- 09 Station météo Toulouse La Salade - archive 2020 (`09-station-meteo-toulouse-la-salade-archive-2020`) — STALE → VERIFIED
+- 18 Station météo Brax école - archive 2022 (`18-station-meteo-brax-ecole-archive-2022`) — STALE → VERIFIED
+- 2014-2020 Quartiers "Elus" de la ville de Strasbourg (`2014-2020-quartiers-elus-de-la-ville-de-strasbourg`) — STALE → VERIFIED
+- 2024 grants (COPAMO) (`2024-grants-copamo`) — STALE → VERIFIED
+- 4G Fixe (`4g-fixe`) — STALE → VERIFIED
+- Absentéisme des agents de la Région (siège et lycées) : arrêts par motif (`absenteisme-des-agents-de-la-region-siege-et-lycees-arrets-par-motif`) — STALE → VERIFIED
+- Active organization and associations - average number of employees in organizations (`active-organization-and-associations-average-number-of-employees-in-organizations`) — STALE → VERIFIED
+- Activités dans les parcs naturels régionaux d'Île-de-France (`activites-dans-les-parcs-naturels-regionaux-dile-de-france`) — VERIFIED → STALE
+- Actualité (`actualite`) — VERIFIED → STALE
+- Adresse et géolocalisation des établissements d'enseignement du premier et second degrés (`adresse-et-geolocalisation-des-etablissements-denseignement-du-premier-et-second-degres-1`) — STALE → VERIFIED
+- Adresse sur Bordeaux Métropole au format BAL (`adresse-sur-bordeaux-metropole-au-format-bal`) — STALE → VERIFIED
+- Adresses géoréférencées non postales (`adresses-georeferencees-non-postales`) — STALE → VERIFIED
+- Αεροδρόμια - Ελικοδρόμια Π.Ε. Ηρακλείου (`aerodromia-elikodromia-pe-irakleioy`) — STALE → VERIFIED
+- Aeroporturile principale din România (art. 7 dIn Directiva 2002/49/CE) (`aeroporturile-principale-din-romania-art-7-din-directiva-200249ce`) — FAILING → UNVERIFIED
+- Agenda culturel 2019-2020 (`agenda-culturel-2019-2020`) — STALE → VERIFIED
+- Agenda Ville de Talence (`agenda-ville-de-talence`) — STALE → VERIFIED
+- Agglo - Aires urbaines - Stratégie du PA (`agglo-aires-urbaines-strategie-du-pa`) — STALE → VERIFIED
+- Agglo - Carroyage de population et emplois (`agglo-carroyage-de-population-et-emplois`) — STALE → VERIFIED
+- Agglo - Couverture du sol périmètre par analysis spectrale (basse) (`agglo-couverture-du-sol-perimetre-par-analysis-spectrale-basse`) — STALE → VERIFIED
+- Agglo - Pôles d'activité métropolitains - Stratégie du PA (`agglo-poles-dactivite-metropolitains-strategie-du-pa`) — STALE → VERIFIED
+- AGGLO - Saboia carolingienne (`agglo-saboia-carolingienne`) — STALE → VERIFIED
+- AGGLO - Situation au début de l'Empire romain (`agglo-situation-au-debut-de-lempire-romain`) — STALE → VERIFIED
+- AGGLO - Situation de 1567 à 1601 (`agglo-situation-de-1567-a-1601`) — STALE → VERIFIED
+- Agglo - Station d'autopartage (`agglo-station-dautopartage`) — STALE → VERIFIED
+- …and 1371 more
+
 ## 2026-10-31
 
 ### State changes (1971)

@@ -2,6 +2,36 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-11-02
+
+### State changes (613)
+- 2013 — Foreign population: IDF Diploma (`2013-foreign-population-idf-diploma`) — STALE → VERIFIED
+- 2018 Library Statistics of the City of Echirolles (`2018-library-statistics-of-the-city-of-echirolles`) — STALE → VERIFIED
+- Αριθμός ημερών ανά έτος με ΤΧ > 30 °C - θερμές ημέρες (`30-c-4`) — STALE → VERIFIED
+- Abstellflächen und Parkverbotszonen E-Scooter Hamburg (`abstellflachen-und-parkverbotszonen-e-scooter-hamburg`) — VERIFIED → STALE
+- Acteurs de l'économie circulaire - Que faire de mes objets et déchets (`acteurs-de-leconomie-circulaire-que-faire-de-mes-objets-et-dechets`) — STALE → VERIFIED
+- Activités dans les parcs naturels régionaux d'Île-de-France (`activites-dans-les-parcs-naturels-regionaux-dile-de-france`) — STALE → VERIFIED
+- Actualité (`actualite`) — STALE → VERIFIED
+- Αεροδρόμια - Ελικοδρόμια Π.Ε. Λασιθίου (`aerodromia-elikodromia-pe-lasithioy`) — STALE → VERIFIED
+- Αεροδρόμια - Ελικοδρόμια Π.Ε.Χανίων (`aerodromia-elikodromia-pechanion`) — STALE → VERIFIED
+- Agrégation statistiques population et parc immobilier (secteurs ville de Genève) (`agregation-statistiques-population-et-parc-immobilier-secteurs-ville-de-geneve`) — STALE → VERIFIED
+- Agrégats segmentés de consommation électrique au pas 1/2 h des points de soutirage > 36kVA – Maille nationale (`agregats-segmentes-de-consommation-electrique-au-pas-12-h-des-points-de-soutirage-36kva-maille-nationale`) — STALE → VERIFIED
+- Agrégats segmentés de consommation électrique au pas 1/2 h des points de soutirage <= 36kVA – Maille régionale (`agregats-segmentes-de-consommation-electrique-au-pas-12-h-des-points-de-soutirage-36kva-maille-regionale`) — STALE → VERIFIED
+- Agrégats segmentés de production électrique au pas 1/2 h – Maille nationale (`agregats-segmentes-de-production-electrique-au-pas-12-h-maille-nationale`) — STALE → VERIFIED
+- Agrégats segmentés de consommation électrique au pas 1/2 h des points de soutirage > 36kVA – Maille régionale (`agrgats-segments-de-consommation-lectrique-au-pas-12-h-des-points-de-soutirage-36kva-maille-rgionale-2`) — STALE → VERIFIED
+- Aires de jeux talençaises (`aires-de-jeux-talencaises`) — STALE → VERIFIED
+- Aktuelle Verkehrsinformationen Polizei Hamburg (`aktuelle-verkehrsinformationen-polizei-hamburg`) — VERIFIED → STALE
+- Aléa retrait/gonflement des argiles (`alea-retraitgonflement-des-argiles`) — STALE → VERIFIED
+- Amount of realised payments on the scope of RDP 2014-2020 (`amount-of-realised-payments-on-the-scope-of-rdp-2014-2020`) — STALE → VERIFIED
+- Αναπτυξιακός Νόμος 4399/2016 (`anaptyxiakos-nomos-43992016`) — STALE → VERIFIED
+- Angebote des freiwilligen Engagements Hamburg (`angebote-des-freiwilligen-engagements-hamburg`) — VERIFIED → STALE
+- Anonymous vineyard parcels represented as polygons, 2018 — Auvergne-Rhône-Alpes (WFS service) (`anonymous-vineyard-parcels-represented-as-polygons-2018-auvergne-rhone-alpes-wfs-service`) — UNVERIFIED → FAILING
+- Anteile Kinder mit nicht-deutscher Familiensprache in Kitas Hamburg (`anteile-kinder-mit-nicht-deutscher-familiensprache-in-kitas-hamburg`) — VERIFIED → STALE
+- Απαγόρευση κυκλοφορίας σε δείκτη κινδύνου πυρκαγιάς 4 & 5 Π.Ε. Ηρακλείου (`apagoreysi-kykloforias-se-deikti-kindynoy-pyrkagias-4-5-pe-irakleioy`) — STALE → VERIFIED
+- Απαγόρευση κυκλοφορίας σε δείκτη κινδύνου πυρκαγιάς 4 & 5 Π.Ε. Ρεθύμνου (γραμμικό) (`apagoreysi-kykloforias-se-deikti-kindynoy-pyrkagias-4-5-pe-rethymnoy-grammiko`) — STALE → VERIFIED
+- Απαγόρευση κυκλοφορίας σε δείκτη κινδύνου πυρκαγιάς 4 & 5 Π.Ε. Ρεθύμνου (γραμμικό) (`apagoreysi-kykloforias-se-deikti-kindynoy-pyrkagias-4-5-pe-rethymnoy-grammiko-2`) — STALE → VERIFIED
+- …and 588 more
+
 ## 2026-11-01
 
 ### Removed (1)

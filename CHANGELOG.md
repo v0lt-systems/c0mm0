@@ -2,6 +2,41 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-11-03
+
+### Removed (3)
+- Animal Licensing Register July 25 (`animal-licensing-register-july-25`)
+- Cartographie gens du voyage (`cartographie-gens-du-voyage`)
+- Stationnements illicites (`stationnements-illicites`)
+
+### State changes (289)
+- 2013 — Composition of immigrant households (`2013-composition-of-immigrant-households`) — STALE → VERIFIED
+- 2013 — Immigrant households (`2013-immigrant-households`) — STALE → VERIFIED
+- Abfall und Recycling Hamburg (`abfall-und-recycling-hamburg`) — VERIFIED → STALE
+- Agglo - Communes et territoires voisins (`agglo-communes-et-territoires-voisins`) — STALE → VERIFIED
+- Agglo - Espaces commerciaux du Grand-Genève (`agglo-espaces-commerciaux-du-grand-geneve`) — STALE → VERIFIED
+- Airparif (`airparif`) — STALE → VERIFIED
+- Angebote und Nutzung der Jugendmusikschulen Hamburg (`angebote-und-nutzung-der-jugendmusikschulen-hamburg`) — VERIFIED → STALE
+- Annuaire de l’Education Nationale (`annuaire-de-leducation-nationale`) — STALE → VERIFIED
+- API Aides financieres de l’ADEME (`api-aides-financieres-de-lademe`) — STALE → VERIFIED
+- API Fichier des Comptes Bancaires et Assimilés (FICOBA) (`api-fichier-des-comptes-bancaires-et-assimiles-ficoba`) — STALE → VERIFIED
+- API Géoplateforme - Découverte des métadonnées CSW (`api-geoplateforme-decouverte-des-metadonnees-csw`) — STALE → VERIFIED
+- API OpenData EDF https://opendata.edf.fr (`api-opendata-edf-httpsopendataedffr-1`) — STALE → VERIFIED
+- API Recherche d’Entreprises (`api-recherche-dentreprises`) — STALE → VERIFIED
+- API SIRI LiA (`api-siri-lia`) — STALE → VERIFIED
+- Bassins versants élémentaires d'Île-de-France (`bassins-versants-elementaires-dile-de-france`) — STALE → VERIFIED
+- Biomethane injection sites in Haute-Garonne (source ODRÉ – Open Data Networks-Energies) (`biomethane-injection-sites-in-haute-garonne-source-odre-open-data-networks-energies`) — STALE → VERIFIED
+- Bodenrichtwerte Übersichtskarte über normierte Bodenrichtwerte Hamburg (`bodenrichtwerte-ubersichtskarte-uber-normierte-bodenrichtwerte-hamburg`) — VERIFIED → STALE
+- Bruit ferroviaire Lden de type A (`bruit-ferroviaire-lden-de-type-a`) — VERIFIED → STALE
+- Budgets (`budgets`) — STALE → VERIFIED
+- Calendrier d’ouverture des bureaux de poste, agences postales et relais poste (`calendrier-douverture-des-bureaux-de-poste-agences-postales-et-relais-poste`) — STALE → VERIFIED
+- CAREMaërl: Map of habitats in rhodolithes - Sector "National Park of Port-Cros" (`caremaerl-map-of-habitats-in-rhodolithes-sector-national-park-of-port-cros`) — STALE → VERIFIED
+- CAREMaërl: Map of habitats in rhodolithes - Sector "Parc national des Calanques" (`caremaerl-map-of-habitats-in-rhodolithes-sector-parc-national-des-calanques`) — STALE → VERIFIED
+- Catalogue simplifié Open Data - Hérault Data (`catalogue-simplifie-open-data-herault-data`) — STALE → VERIFIED
+- Χώροι εναπόθεσης μπαζών Π.Ε. Ρεθύμνου (`choroi-enapothesis-mpazon-pe-rethymnoy`) — STALE → VERIFIED
+- City of Dunkirk (`city-of-dunkirk`) — STALE → VERIFIED
+- …and 264 more
+
 ## 2026-11-02
 
 ### State changes (613)

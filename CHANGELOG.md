@@ -2,6 +2,43 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-11-04
+
+### Added (1)
+- Trafikverket API Öppna Data – järnväg (TrainAnnouncement, TrainPosition, TrainStation) (`trafikverket-api-oppna-data-jarnvag-trainannouncement-trainposition-trainstation`)
+
+### Removed (2)
+- Collèges privés en Loire-Atlantique (`colleges-prives-en-loire-atlantique`)
+- Unités Localisées pour l'Inclusion Scolaire (ULIS) dans les collèges publics et privés de Loire-Atlantique. (`unites-localisees-pour-linclusion-scolaire-ulis-dans-les-colleges-publics-et-prives-de-loire-atlantique`)
+
+### State changes (240)
+- a_008018FS000424-1976E (`a008018fs000424-1976e`) — VERIFIED → STALE
+- Adresses géoréférencées à l'entrée du bâtiment (`adresses-georeferencees-a-lentree-du-batiment`) — VERIFIED → STALE
+- Agglo - Bâtiments et objets protégés - Ponctuels (`agglo-batiments-et-objets-proteges-ponctuels`) — VERIFIED → STALE
+- Agrégats segmentés de production électrique au pas 1/2 h – Maille régionale (`agregats-segmentes-de-production-electrique-au-pas-12-h-maille-regionale`) — STALE → VERIFIED
+- Analysis climatique 2020 - Vitesse et direction du vent nocturne, résolution 10m, 2045-2074 (`analysis-climatique-2020-vitesse-et-direction-du-vent-nocturne-resolution-10m-2045-2074`) — VERIFIED → STALE
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 02 (`anatheorisi-topikoy-rymotomikoy-schedioy-vipe-pinakida-02`) — STALE → VERIFIED
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 04 (`anatheorisi-topikoy-rymotomikoy-schedioy-vipe-pinakida-04`) — STALE → VERIFIED
+- API DPE bâtiments tertiaires (`api-dpe-batiments-tertiaires`) — STALE → VERIFIED
+- [Archive]Offre de formation professionnelle initiale en Région Centre-Val de Loire - rentrée 2020 (`archiveoffre-de-formation-professionnelle-initiale-en-region-centre-val-de-loire-rentree-2020`) — STALE → VERIFIED
+- Arrears with payments for dwellings by type of ownership (`arrears-with-payments-for-dwellings-by-type-of-ownership`) — VERIFIED → STALE
+- BAN PLUS (`ban-plus`) — STALE → VERIFIED
+- Bodenlehrpfade (`bodenlehrpfade`) — VERIFIED → STALE
+- Bruit ferroviaire Lden de type A (`bruit-ferroviaire-lden-de-type-a`) — STALE → VERIFIED
+- Cantonal inventory of trees for online consultation (`cantonal-inventory-of-trees-for-online-consultation`) — VERIFIED → STALE
+- CAREMaërl: Location of the truths on the ground - Sector "National Park of Calanques" (`caremaerl-location-of-the-truths-on-the-ground-sector-national-park-of-calanques`) — STALE → VERIFIED
+- CAREMaërl: Location of the truths on the ground - Sector "National Park of Port-Cros" (`caremaerl-location-of-the-truths-on-the-ground-sector-national-park-of-port-cros`) — STALE → VERIFIED
+- Cartography of aménagements (Ancrage biodiversité) (`cartography-of-amenagements-ancrage-biodiversite`) — VERIFIED → STALE
+- Χάρτης Σ.Α.Ο. Ωραιοκάστρου (`chartis-sao-oraiokastroy`) — VERIFIED → STALE
+- Clothing and footwear (`clothing-and-footwear`) — VERIFIED → STALE
+- commerces-covid19-grigny (`commerces-covid19-grigny`) — STALE → VERIFIED
+- Comunidades Marinas de las provincias de Alicante y Valencia (2006-2007) (`comunidades-marinas-de-las-provincias-de-alicante-y-valencia-2006-2007-1`) — VERIFIED → UNVERIFIED
+- Convention d'Immeubles zone opérateur réseau - GPS - 2022 (`convention-dimmeubles-zone-operateur-reseau-gps-2022`) — VERIFIED → STALE
+- Corine Landcover 2000 Revised (`corine-landcover-2000-revised`) — VERIFIED → STALE
+- Courbes de niveaux Maurepas - CA Saint-Quentin-en-Yvelines (`courbes-de-niveaux-maurepas-ca-saint-quentin-en-yvelines`) — STALE → VERIFIED
+- Défibrillateurs sur la commune de Baule (`defibrillateurs-sur-la-commune-de-baule`) — STALE → VERIFIED
+- …and 215 more
+
 ## 2026-11-03
 
 ### Removed (3)

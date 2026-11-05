@@ -2,6 +2,39 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-11-05
+
+### Removed (1)
+- Occupation du sol du Morbihan (`occupation-du-sol-du-morbihan`)
+
+### State changes (183)
+- a_008018FS000424-1976E (`a008018fs000424-1976e`) — STALE → VERIFIED
+- [Archive] Emploi au lieu de travail 2020 selon le statut en Région Centre-Val de Loire (`archive-emploi-au-lieu-de-travail-2020-selon-le-statut-en-region-centre-val-de-loire`) — VERIFIED → STALE
+- Atlantic Marine Energy Test Site (AMETS) Marker Points (`atlantic-marine-energy-test-site-amets-marker-points`) — VERIFIED → STALE
+- Average prices of arable land (per 1ha) in private turnover (`average-prices-of-arable-land-per-1ha-in-private-turnover`) — VERIFIED → STALE
+- Boiler houses and heating network by location (`boiler-houses-and-heating-network-by-location`) — VERIFIED → STALE
+- Budget primitif 2014 - CCAS Blagnac (`budget-primitif-2014-ccas-blagnac`) — VERIFIED → STALE
+- CFP - OP FISH 2007-2013 - The number and value of applications submitted by the priority axes (`cfp-op-fish-2007-2013-the-number-and-value-of-applications-submitted-by-the-priority-axes`) — VERIFIED → STALE
+- Χάρτης Σ.Α.Ο. Ωραιοκάστρου (`chartis-sao-oraiokastroy`) — STALE → VERIFIED
+- Compensation for missed evictions by the gmina (`compensation-for-missed-evictions-by-the-gmina`) — VERIFIED → STALE
+- Consumption of water, electricity and gas in households. (`consumption-of-water-electricity-and-gas-in-households`) — VERIFIED → STALE
+- Corine Landcover 1990 (`corine-landcover-1990`) — STALE → VERIFIED
+- Corine Landcover 2006 Revised (`corine-landcover-2006-revised`) — STALE → VERIFIED
+- Corine Landcover 2018 (`corine-landcover-2018`) — VERIFIED → STALE
+- Corine Landcover Change 1990 - 2000 (`corine-landcover-change-1990-2000`) — VERIFIED → STALE
+- Data on objects and means of trade (mobile, seasonal, etc.) (`data-on-objects-and-means-of-trade-mobile-seasonal-etc`) — UNVERIFIED → FAILING
+- Data on the accessibility of buildings for people with disabilities and other low-mobility groups (`data-on-the-accessibility-of-buildings-for-people-with-disabilities-and-other-low-mobility-groups`) — UNVERIFIED → FAILING
+- Data on the location of city electric and road transport stops (`data-on-the-location-of-city-electric-and-road-transport-stops`) — UNVERIFIED → FAILING
+- Data on the location of civil protection structures (`data-on-the-location-of-civil-protection-structures`) — UNVERIFIED → FAILING
+- Demand for the rental of gminas' dwelling stocks (`demand-for-the-rental-of-gminas-dwelling-stocks`) — VERIFIED → STALE
+- Development expenditures from EU funds (`development-expenditures-from-eu-funds`) — VERIFIED → STALE
+- Διάγραμμα 139/Α/1957 (`diagramma-139a1957`) — STALE → VERIFIED
+- Διάγραμμα 19/Β/1929 (`diagramma-19v1929-2`) — STALE → VERIFIED
+- Διάγραμμα 211/Δ/1970 (`diagramma-211d1970`) — STALE → VERIFIED
+- Διάγραμμα 239/Δ/1972 (`diagramma-239d1972`) — STALE → VERIFIED
+- Διάγραμμα 647/ΑΑΠ/2010 (`diagramma-647aap2010`) — STALE → VERIFIED
+- …and 158 more
+
 ## 2026-11-04
 
 ### Added (1)

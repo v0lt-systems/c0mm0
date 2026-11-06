@@ -2,6 +2,41 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-11-06
+
+### Removed (3)
+- Collèges publics en Loire-Atlantique (`colleges-publics-en-loire-atlantique`)
+- Re-open EU (`re-open-eu`)
+- Sections d'enseignement général et professionnel adapté (SEGPA) des collèges publics et privés de Loire-Atlantique (`sections-denseignement-general-et-professionnel-adapte-segpa-des-colleges-publics-et-prives-de-loire-atlantique`)
+
+### State changes (328)
+- Active organization and associations - average number of employees in organizations (`active-organization-and-associations-average-number-of-employees-in-organizations`) — VERIFIED → STALE
+- Active organization and associations - volunteers and members of the organization (`active-organization-and-associations-volunteers-and-members-of-the-organization`) — VERIFIED → STALE
+- Aeroporturile principale din România (art. 7 dIn Directiva 2002/49/CE) (`aeroporturile-principale-din-romania-art-7-din-directiva-200249ce`) — UNVERIFIED → VERIFIED
+- Allocations of dwellings in municipal dwelling stock - Allocated dwellings (`allocations-of-dwellings-in-municipal-dwelling-stock-allocated-dwellings`) — VERIFIED → STALE
+- Amount of direct payment for Campaign 2007-2023 (`amount-of-direct-payment-for-campaign-2007-2023`) — VERIFIED → STALE
+- Amount of direct payment on the scope of Campaign (`amount-of-direct-payment-on-the-scope-of-campaign`) — VERIFIED → STALE
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 07 (`anatheorisi-topikoy-rymotomikoy-schedioy-vipe-pinakida-07`) — VERIFIED → STALE
+- API Tourisme France Évasion Régions (`api-tourisme-france-evasion-regions`) — STALE → UNVERIFIED
+- Area/declared amount for payment on the scope of Campaign (`areadeclared-amount-for-payment-on-the-scope-of-campaign`) — VERIFIED → STALE
+- Arrondissements postaux (`arrondissements-postaux`) — VERIFIED → STALE
+- Atlantic Marine Energy Test Site (AMETS) Marker Points (`atlantic-marine-energy-test-site-amets-marker-points`) — STALE → VERIFIED
+- Average marketplace prices received by farmers - fruit and vegetables (half-yearly data) (`average-marketplace-prices-received-by-farmers-fruit-and-vegetables-half-yearly-data`) — VERIFIED → STALE
+- Average operational rent for dwellings (`average-operational-rent-for-dwellings`) — VERIFIED → STALE
+- Average procurement prices of agricultural products (`average-procurement-prices-of-agricultural-products`) — VERIFIED → STALE
+- Average procurement prices of fruits and vegetables (half-yearly data) (`average-procurement-prices-of-fruits-and-vegetables-half-yearly-data`) — VERIFIED → STALE
+- Base Hydrographie : Points d'eau (`base-hydrographie-points-deau`) — VERIFIED → STALE
+- Boiler houses and heating network by type of ownership and location (`boiler-houses-and-heating-network-by-type-of-ownership-and-location`) — VERIFIED → STALE
+- CFP - OP FISH 2007-2013 - The total value of projects by priority axes and funding sources (`cfp-op-fish-2007-2013-the-total-value-of-projects-by-priority-axes-and-funding-sources`) — VERIFIED → STALE
+- Coastal Water Quality 2018-2020 (`coastal-water-quality-2018-2020`) — VERIFIED → STALE
+- Collèges (`colleges`) — VERIFIED → STALE
+- Corine Landcover 2000 Revised (`corine-landcover-2000-revised`) — STALE → VERIFIED
+- Corine Landcover Change 2000 - 2006 (`corine-landcover-change-2000-2006`) — VERIFIED → STALE
+- Corine Landcover Change 2006 - 2012 (`corine-landcover-change-2006-2012`) — VERIFIED → STALE
+- Costs of dwelling stock maintenance (`costs-of-dwelling-stock-maintenance`) — VERIFIED → STALE
+- Courbes d'exposition au bruit des aéronefs entre 6 à 22 heures (`courbes-dexposition-au-bruit-des-aronefs-entre-6-22-heures`) — VERIFIED → STALE
+- …and 303 more
+
 ## 2026-11-05
 
 ### Removed (1)

@@ -2,6 +2,36 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-11-07
+
+### State changes (170)
+- Adresses géoréférencées à l'entrée du bâtiment (`adresses-georeferencees-a-lentree-du-batiment`) — STALE → VERIFIED
+- Agglo - Bâtiments et objets protégés - Ponctuels (`agglo-batiments-et-objets-proteges-ponctuels`) — STALE → VERIFIED
+- Aires et produits AOC/AOP et IGP (`aires-et-produits-aocaop-et-igp`) — VERIFIED → STALE
+- All Island River Catchments (`all-island-river-catchments`) — STALE → VERIFIED
+- Amount of realised payments on the scope of RDP 2014-2020 (`amount-of-realised-payments-on-the-scope-of-rdp-2014-2020`) — VERIFIED → STALE
+- Analysis climatique 2020 - Vitesse et direction du vent nocturne, résolution 10m, 2045-2074 (`analysis-climatique-2020-vitesse-et-direction-du-vent-nocturne-resolution-10m-2045-2074`) — STALE → VERIFIED
+- API Géoplateforme - Diffusion d'objets WFS (`api-geoplateforme-diffusion-dobjets-wfs`) — VERIFIED → STALE
+- [Archive] Emploi au lieu de travail 2020 selon le statut en Région Centre-Val de Loire (`archive-emploi-au-lieu-de-travail-2020-selon-le-statut-en-region-centre-val-de-loire`) — STALE → VERIFIED
+- Average market-place prices received by farmers (`average-market-place-prices-received-by-farmers`) — VERIFIED → STALE
+- Boiler installations protecting atmosphere against emission of pollution (`boiler-installations-protecting-atmosphere-against-emission-of-pollution`) — VERIFIED → STALE
+- Budget expenditure (`budget-expenditure`) — VERIFIED → STALE
+- Deutsche Bundesbank — Sales and Purchases (BBSSP) (`bundesbank-sales-and-purchases-bbssp`) — FAILING → VERIFIED
+- Cantonal inventory of trees for online consultation (`cantonal-inventory-of-trees-for-online-consultation`) — STALE → VERIFIED
+- Cartography of aménagements (Ancrage biodiversité) (`cartography-of-amenagements-ancrage-biodiversite`) — STALE → VERIFIED
+- Coastal Water Quality 2018-2020 (`coastal-water-quality-2018-2020`) — STALE → VERIFIED
+- Comunidades Marinas de las provincias de Alicante y Valencia (2006-2007) (`comunidades-marinas-de-las-provincias-de-alicante-y-valencia-2006-2007-1`) — UNVERIFIED → VERIFIED
+- Convention d'Immeubles zone opérateur réseau - GPS - 2022 (`convention-dimmeubles-zone-operateur-reseau-gps-2022`) — STALE → VERIFIED
+- Corine Landcover Change 1990 - 2000 (`corine-landcover-change-1990-2000`) — STALE → VERIFIED
+- Costs of dwelling stock maintenance per 1 m2 of useful floor area in buildings with dwellings (`costs-of-dwelling-stock-maintenance-per-1-m2-of-useful-floor-area-in-buildings-with-dwellings`) — VERIFIED → STALE
+- Current drought hazard level (`current-drought-hazard-level`) — STALE → VERIFIED
+- Current expenditure (`current-expenditure`) — VERIFIED → STALE
+- Dados Mapa de Cidadão (`dados-mapa-de-cidadao-1`) — UNVERIFIED → FAILING
+- Decrement in dwelling stock, total (`decrement-in-dwelling-stock-total`) — VERIFIED → STALE
+- Denumiri geografice pentru teritoriul României (`denumiri-geografice-pentru-teritoriul-romaniei`) — VERIFIED → STALE
+- Digitales Höhenmodell Hamburg DGM 1 (`digitales-hohenmodell-hamburg-dgm-1`) — STALE → VERIFIED
+- …and 145 more
+
 ## 2026-11-06
 
 ### Removed (3)

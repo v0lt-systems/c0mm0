@@ -2,6 +2,40 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-11-08
+
+### Removed (2)
+- Données relatives aux vaccinations par département - Covid-19 - France (`donnees-relatives-aux-vaccinations-par-departement-covid-19-france`)
+- Evénements journée de l'eau 2019 (`evenements-journee-de-leau-2019`)
+
+### State changes (152)
+- Aires et produits AOC/AOP et IGP (`aires-et-produits-aocaop-et-igp`) — STALE → VERIFIED
+- Alcoholic beverages, tobacco (`alcoholic-beverages-tobacco`) — VERIFIED → STALE
+- Applications for payment in the scope of campaign (`applications-for-payment-in-the-scope-of-campaign`) — VERIFIED → STALE
+- Arrears with payments for dwellings in gminas' stocks (`arrears-with-payments-for-dwellings-in-gminas-stocks`) — VERIFIED → STALE
+- Average  procurement  prices of  major  agricultural  products (monthly data) (`average-procurement-prices-of-major-agricultural-products-monthly-data`) — VERIFIED → STALE
+- Base Hydrographie : Points d'eau (`base-hydrographie-points-deau`) — STALE → VERIFIED
+- Beneficiaries on the scope of RDP 2014-2020 (`beneficiaries-on-the-scope-of-rdp-2014-2020`) — VERIFIED → STALE
+- Budget primitif 2014 - CCAS Blagnac (`budget-primitif-2014-ccas-blagnac`) — STALE → VERIFIED
+- Deutsche Bundesbank — Effective Exchange Rates (BBEE1) (`bundesbank-effective-exchange-rates-bbee1`) — FAILING → VERIFIED
+- Cereals (`cereals`) — VERIFIED → STALE
+- Communes nouvelles (`communes-nouvelles`) — VERIFIED → STALE
+- Consumption of elecricity in the rural areas including consumption for agricultural production (`consumption-of-elecricity-in-the-rural-areas-including-consumption-for-agricultural-production`) — VERIFIED → STALE
+- Corine Landcover Change 2000 - 2006 (`corine-landcover-change-2000-2006`) — STALE → VERIFIED
+- Corine Landcover Change 2006 - 2012 (`corine-landcover-change-2006-2012`) — STALE → VERIFIED
+- CRSN 2007 - 2013 - Opérations par organisme de gestion - Autorité de gestion RÉFORME DU SECTEUR PUBLIC (`crsn-2007-2013-operations-par-organisme-de-gestion-autorite-de-gestion-reforme-du-secteur-public`) — VERIFIED → STALE
+- Denumiri geografice pentru teritoriul României (`denumiri-geografice-pentru-teritoriul-romaniei`) — STALE → VERIFIED
+- Direct payments – increasing amount of payments for Campaigns (`direct-payments-increasing-amount-of-payments-for-campaigns`) — VERIFIED → STALE
+- Dwelling stocks by type of ownership (`dwelling-stocks-by-type-of-ownership`) — VERIFIED → STALE
+- Dwelling stocks of gmina for which costs are calculated (`dwelling-stocks-of-gmina-for-which-costs-are-calculated`) — VERIFIED → STALE
+- European Central Bank — Consolidated Banking data (CBD2) (`ecb-consolidated-banking-data-cbd2`) — STALE → VERIFIED
+- European Central Bank — PTT dataflow (`ecb-dataflow-ptt`) — VERIFIED → STALE
+- Electricity in households in urban areas (`electricity-in-households-in-urban-areas`) — VERIFIED → STALE
+- Elevaciones del Principado de Asturias (`elevaciones-del-principado-de-asturias`) — FAILING → UNVERIFIED
+- Espaces d'urbanisation cartographiés de la Région Île-de-France inscrits sur la CDGT du Sdrif approuvé par décret le 27 décembre 2013 (`espaces-durbanisation-cartographies-de-la-region-ile-de-france-inscrits-sur-la-cdgt-du-sdrif-approuve-par-decret-le-27-decembre-2013`) — VERIFIED → STALE
+- Etablissements scolaires publics (`etablissements-scolaires-publics`) — VERIFIED → STALE
+- …and 127 more
+
 ## 2026-11-07
 
 ### State changes (170)

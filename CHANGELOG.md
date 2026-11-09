@@ -2,6 +2,42 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-11-09
+
+### Removed (4)
+- Data on objects and means of trade (mobile, seasonal, etc.) (`data-on-objects-and-means-of-trade-mobile-seasonal-etc`)
+- Data on the location of city electric and road transport stops (`data-on-the-location-of-city-electric-and-road-transport-stops`)
+- Parking data, including the placement of sites, their operators, equipment and operation (`parking-data-including-the-placement-of-sites-their-operators-equipment-and-operation`)
+- Schedule of urban electric and road transport (`schedule-of-urban-electric-and-road-transport`)
+
+### State changes (85)
+- AIR: NO2 (`air-no2`) — VERIFIED → STALE
+- ALKIS - ausgewählte Daten Hamburg (`alkis-ausgewahlte-daten-hamburg`) — VERIFIED → STALE
+- Area stradale (`area-stradale-28`) — VERIFIED → STALE
+- Arrondissements postaux (`arrondissements-postaux`) — STALE → VERIFIED
+- Average marketplace prices received by farmers (monthly data) (`average-marketplace-prices-received-by-farmers-monthly-data`) — VERIFIED → STALE
+- Base officielle des codes postaux (`base-officielle-des-codes-postaux`) — VERIFIED → STALE
+- Bodenrichtwerte 2023 (`bodenrichtwerte-2023`) — VERIFIED → FAILING
+- Budgets expenditure (`budgets-expenditure`) — VERIFIED → STALE
+- Χωροθέτηση θέσεων στάθμευσης οχημάτων ΑμεΑ (`chorothetisi-theseon-stathmeysis-ochimaton-amea`) — VERIFIED → STALE
+- Collèges (`colleges`) — STALE → VERIFIED
+- Corine Landcover 2012 (`corine-landcover-2012`) — VERIFIED → STALE
+- Courbes d'exposition au bruit des aéronefs entre 6 à 22 heures (`courbes-dexposition-au-bruit-des-aronefs-entre-6-22-heures`) — STALE → VERIFIED
+- Couverts (`couverts`) — STALE → VERIFIED
+- Critères travaux - Dataviz (`criteres-travaux-dataviz`) — STALE → VERIFIED
+- Diagnostic de performance énergétique (DPE) sur Rennes Métropole (`diagnostic-de-performance-energetique-dpe-sur-rennes-metropole`) — STALE → VERIFIED
+- Dumping at Sea Chemical Monitoring Points (`dumping-at-sea-chemical-monitoring-points`) — VERIFIED → STALE
+- European Central Bank — PTT dataflow (`ecb-dataflow-ptt`) — STALE → VERIFIED
+- European Central Bank — Trade weights (WTS) (`ecb-trade-weights-wts`) — UNVERIFIED → VERIFIED
+- Emprise de Rennes Métropole (`emprise-de-rennes-metropole`) — STALE → VERIFIED
+- Estadística de empresas públicas locales en Andalucía (`estadistica-de-empresas-publicas-locales-en-andalucia`) — VERIFIED → UNVERIFIED
+- Etat annuel des Collections de la bibliothèque de Toulouse (`etat-annuel-des-collections-de-la-bibliotheque-de-toulouse`) — STALE → VERIFIED
+- European Funds for Świętokrzyskie 2021-2027 by priorities (`european-funds-for-swietokrzyskie-2021-2027-by-priorities-1`) — STALE → FAILING
+- Familles et ensembles de paysage en Auvergne (service WFS) (`familles-et-ensembles-de-paysage-en-auvergne-service-wfs`) — FAILING → UNVERIFIED
+- Grant applications, grant agreements/decisions, payment applications by the programs (`grant-applications-grant-agreementsdecisions-payment-applications-by-the-programs`) — VERIFIED → STALE
+- Groundwater Agriculture Pressures (`groundwater-agriculture-pressures`) — VERIFIED → STALE
+- …and 60 more
+
 ## 2026-11-08
 
 ### Removed (2)

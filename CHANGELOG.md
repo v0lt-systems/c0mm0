@@ -2,6 +2,41 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-11-10
+
+### Removed (3)
+- Data on the accessibility of buildings for people with disabilities and other low-mobility groups (`data-on-the-accessibility-of-buildings-for-people-with-disabilities-and-other-low-mobility-groups`)
+- Data on the location of civil protection structures (`data-on-the-location-of-civil-protection-structures`)
+- Information about fairs (term of holding, place, number and cost of places), organizers of fairs, contracts concluded with the organizers of such fairs (`information-about-fairs-term-of-holding-place-number-and-cost-of-places-organizers-of-fairs-contracts-concluded-with-the-organizers-of-such-fairs`)
+
+### State changes (170)
+- Aeroporturile principale din România (art. 7 dIn Directiva 2002/49/CE) (`aeroporturile-principale-din-romania-art-7-din-directiva-200249ce`) — VERIFIED → STALE
+- All Island River Catchments (`all-island-river-catchments`) — VERIFIED → STALE
+- Aree di circolazione veicolare (`aree-di-circolazione-veicolare-27`) — VERIFIED → STALE
+- Ausgabestellen für Hundekot-Beutel im Stadtgebiet Wesel (`ausgabestellen-fur-hundekot-beutel-im-stadtgebiet-wesel`) — STALE → VERIFIED
+- Average market-place prices received by farmers (`average-market-place-prices-received-by-farmers`) — STALE → VERIFIED
+- Baumkataster des ASG Wesel (`baumkataster-des-asg-wesel`) — STALE → VERIFIED
+- Baustellen in Wesel (`baustellen-in-wesel`) — STALE → VERIFIED
+- Bodenrichtwerte 2023 (`bodenrichtwerte-2023`) — FAILING → VERIFIED
+- BP 2013 - Ville de Rennes - Budget Annexes (`bp-2013-ville-de-rennes-budget-annexes`) — VERIFIED → STALE
+- Budget expenditure (`budget-expenditure`) — STALE → VERIFIED
+- Budget Primitif Toulouse Métropole 2017 (`budget-primitif-toulouse-metropole-2017`) — VERIFIED → STALE
+- Calendrier d’ouverture des bureaux de poste, agences postales et relais poste (`calendrier-douverture-des-bureaux-de-poste-agences-postales-et-relais-poste`) — VERIFIED → STALE
+- Διάγραμμα Οριοθέτησης Οικισμού Castello (`castello`) — STALE → VERIFIED
+- Χωροθέτηση θέσεων στάθμευσης οχημάτων ΑμεΑ (`chorothetisi-theseon-stathmeysis-ochimaton-amea`) — STALE → VERIFIED
+- Companies registered with the Trade Register until 21 October 2013 (`companies-registered-with-the-trade-register-until-21-october-2013`) — UNVERIFIED → VERIFIED
+- Consumption of elecricity in the rural areas including consumption for agricultural production (`consumption-of-elecricity-in-the-rural-areas-including-consumption-for-agricultural-production`) — STALE → VERIFIED
+- Corine Landcover 1990 (`corine-landcover-1990`) — VERIFIED → STALE
+- Costs of dwelling stock maintenance per 1 m2 of useful floor area in buildings with dwellings (`costs-of-dwelling-stock-maintenance-per-1-m2-of-useful-floor-area-in-buildings-with-dwellings`) — STALE → VERIFIED
+- CRSN 2007 - 2013 - Opérations par organisme de gestion - Autorité de gestion RÉFORME DU SECTEUR PUBLIC (`crsn-2007-2013-operations-par-organisme-de-gestion-autorite-de-gestion-reforme-du-secteur-public`) — STALE → VERIFIED
+- Current expenditure (`current-expenditure`) — STALE → VERIFIED
+- Decrement in dwelling stock, total (`decrement-in-dwelling-stock-total`) — STALE → VERIFIED
+- Direct payments – increasing amount of payments for Campaigns (`direct-payments-increasing-amount-of-payments-for-campaigns`) — STALE → VERIFIED
+- Dumping at Sea Chemical Monitoring Points (`dumping-at-sea-chemical-monitoring-points`) — STALE → VERIFIED
+- Dwelling stocks - indicators (`dwelling-stocks-indicators`) — STALE → VERIFIED
+- Dwellings in residential buildings returned by gminas to former individual owners or their heirs (`dwellings-in-residential-buildings-returned-by-gminas-to-former-individual-owners-or-their-heirs`) — STALE → VERIFIED
+- …and 145 more
+
 ## 2026-11-09
 
 ### Removed (4)

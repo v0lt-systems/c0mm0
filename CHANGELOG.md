@@ -2,6 +2,36 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-11-11
+
+### State changes (265)
+- Alcoholic beverages, tobacco (`alcoholic-beverages-tobacco`) — STALE → VERIFIED
+- ALKIS - ausgewählte Daten Hamburg (`alkis-ausgewahlte-daten-hamburg`) — STALE → VERIFIED
+- All Island River Catchments (`all-island-river-catchments`) — STALE → VERIFIED
+- API Diffusion des Fichiers de Thèses sur theses.fr (`api-diffusion-des-fichiers-de-theses-sur-thesesfr-2`) — FAILING → UNVERIFIED
+- Applications for payment in the scope of campaign (`applications-for-payment-in-the-scope-of-campaign`) — STALE → VERIFIED
+- Arrears with payments for dwellings by type of ownership (`arrears-with-payments-for-dwellings-by-type-of-ownership`) — STALE → VERIFIED
+- Arrears with payments for dwellings in gminas' stocks (`arrears-with-payments-for-dwellings-in-gminas-stocks`) — STALE → VERIFIED
+- Average  procurement  prices of  major  agricultural  products (monthly data) (`average-procurement-prices-of-major-agricultural-products-monthly-data`) — STALE → VERIFIED
+- Base Hydrographie : Cours d'eau (`base-hydrographie-cours-deau`) — VERIFIED → STALE
+- Beneficiaries on the scope of RDP 2014-2020 (`beneficiaries-on-the-scope-of-rdp-2014-2020`) — STALE → VERIFIED
+- Bruit 2017 - Secteurs affectés par le classement des infrastructures de transports terrestres (`bruit-2017-secteurs-affectes-par-le-classement-des-infrastructures-de-transports-terrestres`) — VERIFIED → STALE
+- Catchment Projects (`catchment-projects`) — STALE → VERIFIED
+- Ceny ofertowe mieszkań dewelopera  ADRIAN BARTOSIAK KOMPAS HOUSE NIERUCHOMOŚCI (`ceny-ofertowe-mieszkan-dewelopera-adrian-bartosiak-kompas-house-nieruchomosci`) — VERIFIED → FAILING
+- Cereals (`cereals`) — STALE → VERIFIED
+- Clothing and footwear (`clothing-and-footwear`) — STALE → VERIFIED
+- Compteur Bordeaux Inno Campus (`compteur-bordeaux-inno-campus`) — VERIFIED → STALE
+- Corine Landcover 2012 (`corine-landcover-2012`) — STALE → VERIFIED
+- Corine Landcover Change 2000 - 2006 (`corine-landcover-change-2000-2006`) — VERIFIED → STALE
+- Corine Landcover Change 2006 - 2012 (`corine-landcover-change-2006-2012`) — VERIFIED → STALE
+- Découpage de la ville de Strasbourg en 28 quartiers (`decoupage-de-la-ville-de-strasbourg-en-28-quartiers`) — VERIFIED → STALE
+- Development expenditures from national funds (`development-expenditures-from-national-funds`) — STALE → VERIFIED
+- Διάγραμμα Οριοθέτησης Οικισμού Αχλάδα (`diagramma-oriothetisis-oikismoy-achlada`) — STALE → VERIFIED
+- Διάγραμμα Οριοθέτησης Οικισμού Αγία Ειρήνη (`diagramma-oriothetisis-oikismoy-agia-eirini`) — STALE → VERIFIED
+- Διάγραμμα Οριοθέτησης Οικισμού Δαφνές (`diagramma-oriothetisis-oikismoy-dafnes`) — STALE → VERIFIED
+- Διάγραμμα Οριοθέτησης Οικισμού Κάτω Βάθεια (`diagramma-oriothetisis-oikismoy-kato-vatheia`) — STALE → VERIFIED
+- …and 240 more
+
 ## 2026-11-10
 
 ### Removed (3)

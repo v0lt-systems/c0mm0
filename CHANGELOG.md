@@ -2,6 +2,39 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-11-12
+
+### Removed (1)
+- Rémi - points arrêt routiers (`remi-points-arret-routiers`)
+
+### State changes (240)
+- Agglo - Atlas culturel transfrontalier (`agglo-atlas-culturel-transfrontalier`) — VERIFIED → STALE
+- Αναθεώρηση Τοπικού Ρυμοτομικού Σχεδίου - ΒΙ.ΠΕ - Πινακίδα 07 (`anatheorisi-topikoy-rymotomikoy-schedioy-vipe-pinakida-07`) — STALE → VERIFIED
+- API Association (`api-association`) — FAILING → UNVERIFIED
+- API Déclaration préalable à l'embauche (`api-declaration-prealable-a-lembauche`) — FAILING → UNVERIFIED
+- API d'écriture de la base nationale de la règlementation de circulation (`api-decriture-de-la-base-nationale-de-la-reglementation-de-circulation`) — VERIFIED → STALE
+- Area stradale (`area-stradale-28`) — STALE → VERIFIED
+- Average marketplace prices received by farmers (monthly data) (`average-marketplace-prices-received-by-farmers-monthly-data`) — STALE → VERIFIED
+- Average prices of arable land (per 1ha) in private turnover (`average-prices-of-arable-land-per-1ha-in-private-turnover`) — STALE → VERIFIED
+- Bassins pluviaux à accès public (`bassins-pluviaux-a-acces-public`) — VERIFIED → STALE
+- Boiler houses and heating network by location (`boiler-houses-and-heating-network-by-location`) — STALE → VERIFIED
+- Budgets expenditure (`budgets-expenditure`) — STALE → VERIFIED
+- Capteur de trafic piéton (`capteur-de-trafic-pieton`) — VERIFIED → STALE
+- Ceny ofertowe J.W. Construction Holding S.A. (`ceny-ofertowe-jw-construction-holding-sa-1`) — VERIFIED → STALE
+- Ceny ofertowe mieszkań dewelopera MB DEVELOPMENT Mariusz Będkowski (`ceny-ofertowe-mieszkan-dewelopera-mb-development-mariusz-bedkowski-1`) — VERIFIED → STALE
+- Ceny ofertowe mieszkań dewelopera Perłowa sp. z o.o. w 2025 r. (`ceny-ofertowe-mieszkan-dewelopera-perowa-sp-z-oo-w-2025-r-1`) — VERIFIED → STALE
+- Ceny ofertowe mieszkań dewelopera Sowa Development Inwestycje sp. z o.o. w 2025r. (`ceny-ofertowe-mieszkan-dewelopera-sowa-development-inwestycje-sp-z-oo-w-2025r-1`) — VERIFIED → STALE
+- Ceny ofertowe mieszkań dewelopera Spravia Wiślany Mokotów (`ceny-ofertowe-mieszkan-dewelopera-spravia-wislany-mokotow-1`) — VERIFIED → STALE
+- CFP - OP FISH 2007-2013 - The number and value of applications submitted by the priority axes (`cfp-op-fish-2007-2013-the-number-and-value-of-applications-submitted-by-the-priority-axes`) — STALE → VERIFIED
+- Compensation for missed evictions by the gmina (`compensation-for-missed-evictions-by-the-gmina`) — STALE → VERIFIED
+- Compte administratif 2017 - Blagnac (`compte-administratif-2017-blagnac`) — VERIFIED → STALE
+- Consumption of water, electricity and gas in households. (`consumption-of-water-electricity-and-gas-in-households`) — STALE → VERIFIED
+- Corine Landcover 2000 Revised (`corine-landcover-2000-revised`) — VERIFIED → STALE
+- Costs of dwelling stock maintenance (`costs-of-dwelling-stock-maintenance`) — STALE → VERIFIED
+- CSA - Wetland indicator vascular plants (Modern Period - Number of species per mesh 1 km ²) (`csa-wetland-indicator-vascular-plants-modern-period-number-of-species-per-mesh-1-km-2`) — FAILING → UNVERIFIED
+- Demand for the rental of gminas' dwelling stocks (`demand-for-the-rental-of-gminas-dwelling-stocks`) — STALE → VERIFIED
+- …and 215 more
+
 ## 2026-11-11
 
 ### State changes (265)

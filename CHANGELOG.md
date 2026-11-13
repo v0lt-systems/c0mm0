@@ -2,6 +2,45 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-11-13
+
+### Added (4)
+- European Central Bank — Balance of Payments and International Investment Position (BPS) (`ecb-balance-of-payments-and-international-investment-position-bps`)
+- European Central Bank — Government Finance Statistics (GFS) (`ecb-government-finance-statistics-gfs`)
+- European Central Bank — International Reserves of the Eurosystem (RAS) (`ecb-international-reserves-of-the-eurosystem-ras`)
+- European Central Bank — Quarterly Sector Accounts (QSA) (`ecb-quarterly-sector-accounts-qsa`)
+
+### Removed (1)
+- RLPi de Rennes Métropole - A2 - Sites patrimoniaux remarquables et sites inscrits (`rlpi-de-rennes-metropole-a2-sites-patrimoniaux-remarquables-et-sites-inscrits`)
+
+### State changes (212)
+- 23102025_Dane zgodne z ustawa deweloperską _Projekt Pawia _Kielce (`23102025dane-zgodne-z-ustawa-deweloperska-projekt-pawia-kielce`) — VERIFIED → STALE
+- Active organization and associations - average number of employees in organizations (`active-organization-and-associations-average-number-of-employees-in-organizations`) — STALE → VERIFIED
+- Active organization and associations - volunteers and members of the organization (`active-organization-and-associations-volunteers-and-members-of-the-organization`) — STALE → VERIFIED
+- AIR: NO2 (`air-no2`) — STALE → VERIFIED
+- Aire géographique à la commune des AOC/AOP viticoles (`aire-geographique-a-la-commune-des-aocaop-viticoles`) — VERIFIED → STALE
+- Allocations of dwellings in municipal dwelling stock - Allocated dwellings (`allocations-of-dwellings-in-municipal-dwelling-stock-allocated-dwellings`) — STALE → VERIFIED
+- Amount of direct payment on the scope of Campaign (`amount-of-direct-payment-on-the-scope-of-campaign`) — STALE → VERIFIED
+- [ARCHIVES] Données urgences hospitalières - SOS Médécins relatives à l'épidémie de COVID-19 en France (`archives-donnees-urgences-hospitalieres-sos-medecins-relatives-a-lepidemie-de-covid-19-en-france`) — VERIFIED → STALE
+- Average marketplace prices received by farmers - fruit and vegetables (half-yearly data) (`average-marketplace-prices-received-by-farmers-fruit-and-vegetables-half-yearly-data`) — STALE → VERIFIED
+- Average operational rent for dwellings (`average-operational-rent-for-dwellings`) — STALE → VERIFIED
+- Average procurement prices of agricultural products (`average-procurement-prices-of-agricultural-products`) — STALE → VERIFIED
+- Average procurement prices of fruits and vegetables (half-yearly data) (`average-procurement-prices-of-fruits-and-vegetables-half-yearly-data`) — STALE → VERIFIED
+- Base adresse locale Issy-les-Moulineaux (`base-adresse-locale-issy-les-moulineaux`) — VERIFIED → STALE
+- Base Annuaire et localisation des professionnels de santé (`base-annuaire-et-localisation-des-professionnels-de-sante`) — VERIFIED → STALE
+- BP 2013 - Ville de Rennes - Budget Annexes (`bp-2013-ville-de-rennes-budget-annexes`) — STALE → VERIFIED
+- Budget 2023 (BP) de la Région Centre-Val de Loire selon l'instruction budgétaire et comptable M57 (`budget-2023-bp-de-la-region-centre-val-de-loire-selon-linstruction-budgetaire-et-comptable-m57`) — VERIFIED → STALE
+- Budget Primitif Toulouse Métropole 2017 (`budget-primitif-toulouse-metropole-2017`) — STALE → VERIFIED
+- Caba Kraków,  ul. Dobrego Pasterza 53 (`caba-krakow-ul-dobrego-pasterza-53-1`) — VERIFIED → STALE
+- Caractéristiques de l'emploi en 2018 (`caracteristiques-de-lemploi-en-2018`) — VERIFIED → STALE
+- Ceny i dostępność domów – Aleja Drzew (`ceny-i-dostepnosc-domow-aleja-drzew`) — VERIFIED → STALE
+- Ceny ofertowe mieszkań dewelopera  ADRIAN BARTOSIAK KOMPAS HOUSE NIERUCHOMOŚCI (`ceny-ofertowe-mieszkan-dewelopera-adrian-bartosiak-kompas-house-nieruchomosci`) — FAILING → VERIFIED
+- Ceny ofertowe mieszkań dewelopera Betpol Dzikiej Gęsi w 2025 r. (`ceny-ofertowe-mieszkan-dewelopera-betpol-dzikiej-gesi-w-2025-r`) — VERIFIED → STALE
+- Ceny ofertowe mieszkań dewelopera FHU INSTALACJE DOMOWE RAFAŁ KUBICKI (`ceny-ofertowe-mieszkan-dewelopera-fhu-instalacje-domowe-rafa-kubicki-1`) — VERIFIED → STALE
+- Ceny ofertowe mieszkań dewelopera RSCAR Grzegorz Krawczyk (`ceny-ofertowe-mieszkan-dewelopera-rscar-grzegorz-krawczyk`) — VERIFIED → STALE
+- Ceny ofertowe mieszkań dewelopera Spravia Prystora (`ceny-ofertowe-mieszkan-dewelopera-spravia-prystora-2`) — VERIFIED → STALE
+- …and 187 more
+
 ## 2026-11-12
 
 ### Removed (1)

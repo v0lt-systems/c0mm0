@@ -2,6 +2,36 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-11-14
+
+### State changes (157)
+- 2026 - Appli suivi trafic (`2026-appli-suivi-trafic`) — VERIFIED → STALE
+- Adresse et géolocalisation des établissements d'enseignement du premier et second degrés (`adresse-et-geolocalisation-des-etablissements-denseignement-du-premier-et-second-degres`) — VERIFIED → STALE
+- Agrégation statistiques population et parc immobilier (secteurs ville de Genève) (`agregation-statistiques-population-et-parc-immobilier-secteurs-ville-de-geneve`) — VERIFIED → STALE
+- Aire géographique à la commune des AOC/AOP non viticoles (`aire-geographique-a-la-commune-des-aocaop-non-viticoles`) — VERIFIED → STALE
+- All Island River Catchments (`all-island-river-catchments`) — VERIFIED → STALE
+- Amount of realised payments on the scope of RDP 2014-2020 (`amount-of-realised-payments-on-the-scope-of-rdp-2014-2020`) — STALE → VERIFIED
+- [Archive] Fiches Communales et indicateurs Insee millésime 2021 (édition 2024) (`archive-fiches-communales-et-indicateurs-insee-millesime-2021-edition-2024`) — VERIFIED → STALE
+- [ARCHIVES] Données hospitalières relatives à l'épidémie de COVID-19 en France (`archives-donnees-hospitalieres-relatives-a-lepidemie-de-covid-19-en-france`) — VERIFIED → STALE
+- Area/declared amount for payment on the scope of Campaign (`areadeclared-amount-for-payment-on-the-scope-of-campaign`) — STALE → VERIFIED
+- Bâtiments publics (`batiments-publics`) — VERIFIED → STALE
+- Boiler houses and heating network by type of ownership and location (`boiler-houses-and-heating-network-by-type-of-ownership-and-location`) — STALE → VERIFIED
+- Boiler installations protecting atmosphere against emission of pollution (`boiler-installations-protecting-atmosphere-against-emission-of-pollution`) — STALE → VERIFIED
+- Bruit 2017 - Secteurs affectés par le classement des infrastructures de transports terrestres (`bruit-2017-secteurs-affectes-par-le-classement-des-infrastructures-de-transports-terrestres`) — STALE → VERIFIED
+- Business Improvement Districts Hamburg (`business-improvement-districts-hamburg`) — VERIFIED → STALE
+- Carte du risque d'érosion des sols cultivés (`carte-du-risque-derosion-des-sols-cultives`) — VERIFIED → STALE
+- Catchment Projects (`catchment-projects`) — VERIFIED → STALE
+- Ceny ofertowe mieszkań dewelopera  ADRIAN BARTOSIAK KOMPAS HOUSE NIERUCHOMOŚCI (`ceny-ofertowe-mieszkan-dewelopera-adrian-bartosiak-kompas-house-nieruchomosci`) — VERIFIED → FAILING
+- Ceny ofertowe mieszkań dewelopera Innova Paweł Krawczyk, Grzegorz Krawczyk Spółka Cywilna (`ceny-ofertowe-mieszkan-dewelopera-innova-pawe-krawczyk-grzegorz-krawczyk-spoka-cywilna-1`) — VERIFIED → STALE
+- Ceny ofertowe mieszkań dewelopera KOSAK NIERUCHOMOŚCI ANNA KOSAK (`ceny-ofertowe-mieszkan-dewelopera-kosak-nieruchomosci-anna-kosak`) — VERIFIED → STALE
+- Ceny ofertowe mieszkań dewelopera RSCAR Grzegorz Krawczyk (`ceny-ofertowe-mieszkan-dewelopera-rscar-grzegorz-krawczyk`) — STALE → VERIFIED
+- Ceny ofertowe mieszkań dewelopera Sowa Development Inwestycje sp. z o.o. w 2025r. (`ceny-ofertowe-mieszkan-dewelopera-sowa-development-inwestycje-sp-z-oo-w-2025r-1`) — STALE → VERIFIED
+- Ceny ofertowe mieszkań dewelopera Spravia (`ceny-ofertowe-mieszkan-dewelopera-spravia`) — VERIFIED → STALE
+- Ceny ofertowe mieszkań dewelopera Spravia – Przy Unii II (`ceny-ofertowe-mieszkan-dewelopera-spravia-przy-unii-ii`) — STALE → VERIFIED
+- Ceny ofertowe mieszkań dewelopera Spravia Spravia Aalto (`ceny-ofertowe-mieszkan-dewelopera-spravia-spravia-aalto`) — STALE → VERIFIED
+- Ceny ofertowe mieszkań dewelopera Szczodre Domy Sp. z o. o. w 2025r. (`ceny-ofertowe-mieszkan-dewelopera-szczodre-domy-sp-z-o-o-w-2025r-1`) — VERIFIED → STALE
+- …and 132 more
+
 ## 2026-11-13
 
 ### Added (4)

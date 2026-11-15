@@ -2,6 +2,36 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-11-15
+
+### State changes (109)
+- 01 Station météo Toulouse Météopole - archive2019 (`01-station-meteo-toulouse-meteopole-archive2019`) — VERIFIED → STALE
+- 2026 - Appli suivi trafic (`2026-appli-suivi-trafic`) — STALE → VERIFIED
+- Aire géographique à la commune des IGP (`aire-geographique-a-la-commune-des-igp`) — VERIFIED → STALE
+- Aires et produits AOC/AOP et IGP (`aires-et-produits-aocaop-et-igp`) — VERIFIED → STALE
+- Arrêts, horaires et circuits des lignes Oleane (GTFS - Les Sables d'Olonne Agglomération) (`arrets-horaires-et-circuits-des-lignes-oleane-gtfs-les-sables-dolonne-agglomeration`) — VERIFIED → STALE
+- Base adresse locale Issy-les-Moulineaux (`base-adresse-locale-issy-les-moulineaux`) — STALE → VERIFIED
+- Base Hydrographie : Cours d'eau (`base-hydrographie-cours-deau`) — STALE → FAILING
+- Base Hydrographie : Points d'eau (`base-hydrographie-points-deau`) — VERIFIED → STALE
+- Base permanente des équipements 2018 (`base-permanente-des-equipements-2018`) — VERIFIED → STALE
+- BeeMob vehicle-positions GTFS-RT (`beemob-vehicle-positions-gtfs-rt`) — VERIFIED → STALE
+- Budget primitif 2015 - CCAS Blagnac (`budget-primitif-2015-ccas-blagnac`) — VERIFIED → STALE
+- Business Improvement Districts Hamburg (`business-improvement-districts-hamburg`) — STALE → VERIFIED
+- Caba Kraków,  ul. Dobrego Pasterza 53 (`caba-krakow-ul-dobrego-pasterza-53-1`) — STALE → VERIFIED
+- Caba Kraków, ul. Macieja Słomczyńskiego 1 (`caba-krakow-ul-macieja-somczynskiego-1-1`) — VERIFIED → STALE
+- Capteur de trafic piéton (`capteur-de-trafic-pieton`) — STALE → VERIFIED
+- Cartothèque de Bordeaux Métropole (`cartotheque-de-bordeaux-metropole`) — VERIFIED → STALE
+- Ceny ofertowe mieszkań dewelopera Betpol Dzikiej Gęsi w 2025 r. (`ceny-ofertowe-mieszkan-dewelopera-betpol-dzikiej-gesi-w-2025-r`) — STALE → VERIFIED
+- Ceny ofertowe mieszkań dewelopera Ed-Home Sp. z o.o (`ceny-ofertowe-mieszkan-dewelopera-ed-home-sp-z-oo-1`) — VERIFIED → STALE
+- Ceny ofertowe mieszkań dewelopera Innova Paweł Krawczyk, Grzegorz Krawczyk Spółka Cywilna (`ceny-ofertowe-mieszkan-dewelopera-innova-pawe-krawczyk-grzegorz-krawczyk-spoka-cywilna-1`) — STALE → VERIFIED
+- Ceny ofertowe mieszkań dewelopera KOSAK NIERUCHOMOŚCI ANNA KOSAK (`ceny-ofertowe-mieszkan-dewelopera-kosak-nieruchomosci-anna-kosak`) — STALE → VERIFIED
+- Ceny ofertowe mieszkań dewelopera MB DEVELOPMENT Mariusz Będkowski (`ceny-ofertowe-mieszkan-dewelopera-mb-development-mariusz-bedkowski-1`) — STALE → VERIFIED
+- Ceny ofertowe mieszkań dewelopera Monte Carlo Residence Sp. z o.o. w 2025 r. (`ceny-ofertowe-mieszkan-dewelopera-monte-carlo-residence-sp-z-oo-w-2025-r-1`) — VERIFIED → STALE
+- Ceny ofertowe mieszkań dewelopera Spravia (`ceny-ofertowe-mieszkan-dewelopera-spravia`) — STALE → VERIFIED
+- Ceny ofertowe mieszkań dewelopera Spravia – Dmowskiego 64 (`ceny-ofertowe-mieszkan-dewelopera-spravia-dmowskiego-64-1`) — VERIFIED → STALE
+- Χάρτης Πλημμύρας 13-11-2020 - Μάλια Ηρακλείου - Περιοχή Ενδιαφέροντος (`chartis-plimmyras-13-11-2020-malia-irakleioy-periochi-endiaferontos`) — VERIFIED → STALE
+- …and 84 more
+
 ## 2026-11-14
 
 ### State changes (157)

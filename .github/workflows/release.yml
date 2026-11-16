@@ -14,7 +14,7 @@ jobs:
     runs-on: ${{ fromJSON(vars.CI_RUNNER || '["self-hosted", "pc-gaming"]') }}
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
       - name: Create tagged release with the week's changes
         env:

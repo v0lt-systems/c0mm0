@@ -2,6 +2,71 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-11-16
+
+### Added (15)
+- Eurostat — Production in construction, monthly (sts_copr_m) (`eurostat-construction-production-sts-copr-m`)
+- Eurostat — EU27 (from 2020) trade by SITC product group (ext_st_eu27_2020sitc) (`eurostat-eu-trade-in-goods-ext-st-eu27-2020sitc`)
+- Eurostat — GDP and main components, quarterly (namq_10_gdp) (`eurostat-gdp-quarterly-namq-10-gdp`)
+- Eurostat — Quarterly government debt (gov_10q_ggdebt) (`eurostat-government-debt-quarterly-gov-10q-ggdebt`)
+- Eurostat — Quarterly non-financial accounts for general government (gov_10q_ggnfa) (`eurostat-government-deficit-quarterly-gov-10q-ggnfa`)
+- Eurostat — HICP, ECOICOP ver.2, first released data incl. flash (prc_hicp_fpd) (`eurostat-hicp-first-released-prc-hicp-fpd`)
+- Eurostat — HICP, ECOICOP ver.2, indices and rates of change, monthly (prc_hicp_minr) (`eurostat-hicp-monthly-prc-hicp-minr`)
+- Eurostat — House price index, quarterly (prc_hpi_q) (`eurostat-house-price-index-prc-hpi-q`)
+- Eurostat — Production in industry, monthly (sts_inpr_m) (`eurostat-industrial-production-sts-inpr-m`)
+- Eurostat — Job vacancy statistics by NACE Rev. 2.1, quarterly (jvs_q_r21) (`eurostat-job-vacancies-jvs-q-r21`)
+- Eurostat — Labour cost index by NACE Rev. 2, quarterly (lc_lci_r2_q) (`eurostat-labour-cost-index-lc-lci-r2-q`)
+- Eurostat — Producer prices in industry, domestic market, monthly (sts_inppd_m) (`eurostat-producer-prices-domestic-sts-inppd-m`)
+- Eurostat — Turnover and volume of sales in wholesale and retail trade, monthly (sts_trtu_m) (`eurostat-retail-trade-sts-trtu-m`)
+- Eurostat — Key indicators for sector accounts, quarterly (nasq_10_ki) (`eurostat-sector-accounts-key-indicators-nasq-10-ki`)
+- Eurostat — Production in services, monthly (sts_sepr_m) (`eurostat-services-production-sts-sepr-m`)
+
+### Removed (16)
+- Deutsche Bundesbank — BBK01 time series general (BBK10) (`bundesbank-bbk01-time-series-general-bbk10`)
+- Deutsche Bundesbank — BSI, ECB - historical time series (BBBK20) (`bundesbank-bsi-ecb-historical-time-series-bbbk20`)
+- Deutsche Bundesbank — Calendar regressor (BBDC1) (`bundesbank-calendar-regressor-bbdc1`)
+- Deutsche Bundesbank — Commodities (BBDG1) (`bundesbank-commodities-bbdg1`)
+- Deutsche Bundesbank — Consumer Prices of foreign countries (BBXP1) (`bundesbank-consumer-prices-of-foreign-countries-bbxp1`)
+- Deutsche Bundesbank — BBBP2 dataflow (`bundesbank-dataflow-bbbp2`)
+- Deutsche Bundesbank — ECB-Aggregates non-MFI credit institutions (BBBK13) (`bundesbank-ecb-aggregates-non-mfi-credit-institutions-bbbk13`)
+- Deutsche Bundesbank — Performance Indices Investment Funds BBk (BBSF3) (`bundesbank-performance-indices-investment-funds-bbk-bbsf3`)
+- Deutsche Bundesbank — Profit and loss (IFRS-group) (BBBPS) (`bundesbank-profit-and-loss-ifrs-group-bbbps`)
+- Chômage à Issy-les-Moulineaux (`chomage-a-issy-les-moulineaux`)
+- Dog Waste Bins (`dog-waste-bins`)
+- Joukkoliikenteen pysäkki (Digiroad-tietolaji) (`joukkoliikenteen-pysakki-digiroad-tietolaji`)
+- Litter Bins (`litter-bins`)
+- Scheduled Monuments (`scheduled-monuments`)
+- Sites of Special Scientific Interest (Local Plan Policy EE9) (`sites-of-special-scientific-interest-local-plan-policy-ee9`)
+- SLAA Sites 2025 (`slaa-sites-2025`)
+
+### State changes (123)
+- Agglo - Mesures environnement et paysage (`agglo-mesures-environnement-et-paysage`) — VERIFIED → STALE
+- Aides au permis de conduire jeunes en Loire-Atlantique par EPCI (`aides-au-permis-de-conduire-jeunes-en-loire-atlantique-par-epci`) — VERIFIED → STALE
+- Aides financières enfance – famille en Loire-Atlantique par EPCI (`aides-financieres-enfance-famille-en-loire-atlantique-par-epci`) — VERIFIED → STALE
+- Aire géographique à la commune des AOC/AOP viticoles (`aire-geographique-a-la-commune-des-aocaop-viticoles`) — STALE → FAILING
+- All Island River Catchments (`all-island-river-catchments`) — STALE → VERIFIED
+- API Recherche d’Entreprises (`api-recherche-dentreprises`) — VERIFIED → STALE
+- Area stradale (`area-stradale-28`) — VERIFIED → STALE
+- Base Annuaire et localisation des professionnels de santé (`base-annuaire-et-localisation-des-professionnels-de-sante`) — STALE → FAILING
+- Bassins pluviaux à accès public (`bassins-pluviaux-a-acces-public`) — STALE → VERIFIED
+- Bâtiments publics (`batiments-publics`) — STALE → VERIFIED
+- Budget 2023 (BP) de la Région Centre-Val de Loire selon l'instruction budgétaire et comptable M57 (`budget-2023-bp-de-la-region-centre-val-de-loire-selon-linstruction-budgetaire-et-comptable-m57`) — STALE → VERIFIED
+- Carte scolaire des collèges publics de Loire-Atlantique (`carte-scolaire-des-colleges-publics-de-loire-atlantique`) — VERIFIED → STALE
+- Catchment Projects (`catchment-projects`) — STALE → VERIFIED
+- „Ceny ofertowe historyczne mieszkań dewelopera Inopa Investment Centaurus Sp z o.o." (`ceny-ofertowe-historyczne-mieszkan-dewelopera-inopa-investment-centaurus-sp-z-oo`) — VERIFIED → STALE
+- Ceny ofertowe mieszkań dewelopera  ADRIAN BARTOSIAK KOMPAS HOUSE NIERUCHOMOŚCI (`ceny-ofertowe-mieszkan-dewelopera-adrian-bartosiak-kompas-house-nieruchomosci`) — FAILING → VERIFIED
+- Ceny ofertowe mieszkań dewelopera FHU INSTALACJE DOMOWE RAFAŁ KUBICKI (`ceny-ofertowe-mieszkan-dewelopera-fhu-instalacje-domowe-rafa-kubicki-1`) — STALE → VERIFIED
+- Ceny ofertowe mieszkań dewelopera Spravia Kołłątajówka (`ceny-ofertowe-mieszkan-dewelopera-spravia-koatajowka`) — VERIFIED → STALE
+- Ceny ofertowe mieszkań dewelopera Spravia Wiślany Mokotów (`ceny-ofertowe-mieszkan-dewelopera-spravia-wislany-mokotow-1`) — STALE → VERIFIED
+- Ceny ofertowe mieszkań dewelopera WSD SPV 11 w 2025 roku (`ceny-ofertowe-mieszkan-dewelopera-wsd-spv-11-w-2025-roku`) — VERIFIED → STALE
+- CFA et sites des CFA des Pays de la Loire (`cfa-et-sites-des-cfa-des-pays-de-la-loire`) — VERIFIED → STALE
+- Companies registered with the Trade Register until 21 October 2013 (`companies-registered-with-the-trade-register-until-21-october-2013`) — VERIFIED → STALE
+- Compte administratif du budget annexe du Département de Loire-Atlantique : Fonds de solidarité pour le logement (FSL) (`compte-administratif-du-budget-annexe-du-departement-de-loire-atlantique-fonds-de-solidarite-pour-le-logement-fsl`) — VERIFIED → STALE
+- Consumption data Heat quantity MWIKE Berger Allee (`consumption-data-heat-quantity-mwike-berger-allee`) — VERIFIED → FAILING
+- Consumption data Water MWIKE Berger Allee (`consumption-data-water-mwike-berger-allee`) — VERIFIED → FAILING
+- Contours géographiques des communes et arrondissements de la Métropole - année courante (`contours-geographiques-des-communes-et-arrondissements-de-la-metropole-annee-courante`) — STALE → VERIFIED
+- …and 98 more
+
 ## 2026-11-15
 
 ### State changes (109)

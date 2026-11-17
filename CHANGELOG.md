@@ -2,6 +2,40 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-11-17
+
+### Removed (2)
+- RLPi de Rennes Métropole - A0 - Monuments historiques et sites classés (`rlpi-de-rennes-metropole-a0-monuments-historiques-et-sites-classes`)
+- RLPi de Rennes Métropole - Plan de zonage du Règlement Local de Publicité Intercommunal (`rlpi-de-rennes-metropole-plan-de-zonage-du-reglement-local-de-publicite-intercommunal`)
+
+### State changes (218)
+- Abfall und Recycling Hamburg (`abfall-und-recycling-hamburg`) — STALE → VERIFIED
+- Adresse et géolocalisation des établissements d'enseignement du premier et second degrés (`adresse-et-geolocalisation-des-etablissements-denseignement-du-premier-et-second-degres`) — STALE → FAILING
+- Αεροδρόμια - Ελικοδρόμια Π.Ε. Ηρακλείου (`aerodromia-elikodromia-pe-irakleioy-1`) — VERIFIED → STALE
+- Aeroporturile principale din România (art. 7 dIn Directiva 2002/49/CE) (`aeroporturile-principale-din-romania-art-7-din-directiva-200249ce`) — STALE → VERIFIED
+- Agrégation statistiques population et parc immobilier (secteurs ville de Genève) (`agregation-statistiques-population-et-parc-immobilier-secteurs-ville-de-geneve`) — STALE → VERIFIED
+- Amount of direct payment for Campaign 2007-2023 (`amount-of-direct-payment-for-campaign-2007-2023`) — STALE → VERIFIED
+- Angebote und Nutzung der Jugendmusikschulen Hamburg (`angebote-und-nutzung-der-jugendmusikschulen-hamburg`) — STALE → VERIFIED
+- Anonymous vineyard parcels represented as polygons, 2018 — Auvergne-Rhône-Alpes (WFS service) (`anonymous-vineyard-parcels-represented-as-polygons-2018-auvergne-rhone-alpes-wfs-service`) — FAILING → UNVERIFIED
+- Åpent stedsnavn API fra Kartverket (`apent-stedsnavn-api-fra-kartverket`) — UNVERIFIED → VERIFIED
+- Αρχαιολογικοί χώροι Π.Ε. Ρεθύμνου (`archaiologikoi-choroi-pe-rethymnoy`) — VERIFIED → STALE
+- [Archive] Fiches Communales et indicateurs Insee millésime 2021 (édition 2024) (`archive-fiches-communales-et-indicateurs-insee-millesime-2021-edition-2024`) — STALE → FAILING
+- [ARCHIVES] Données hospitalières relatives à l'épidémie de COVID-19 en France (`archives-donnees-hospitalieres-relatives-a-lepidemie-de-covid-19-en-france`) — STALE → FAILING
+- [ARCHIVES] Données urgences hospitalières - SOS Médécins relatives à l'épidémie de COVID-19 en France (`archives-donnees-urgences-hospitalieres-sos-medecins-relatives-a-lepidemie-de-covid-19-en-france`) — STALE → FAILING
+- Αθλητικές Εγκαταστάσεις (Σημειακό) (`athlitikes-egkatastaseis-simeiako`) — VERIFIED → STALE
+- Beratungsstellen und Gruppenangebote für Senior:innen der queeren Community Eimsbüttel Hamburg (`beratungsstellen-und-gruppenangebote-fur-seniorinnen-der-queeren-community-eimsbuttel-hamburg`) — STALE → VERIFIED
+- Bodenlehrpfade (`bodenlehrpfade`) — STALE → VERIFIED
+- Caba Kraków, ul. Macieja Słomczyńskiego 1 (`caba-krakow-ul-macieja-somczynskiego-1-1`) — STALE → VERIFIED
+- Caractéristiques de l'emploi en 2018 (`caracteristiques-de-lemploi-en-2018`) — STALE → FAILING
+- CAREMaërl: Location of the truths on the ground - Sector "National Park of Calanques" (`caremaerl-location-of-the-truths-on-the-ground-sector-national-park-of-calanques`) — VERIFIED → STALE
+- Carte du risque d'érosion des sols cultivés (`carte-du-risque-derosion-des-sols-cultives`) — STALE → VERIFIED
+- Ceny ofertowe mieszkań dewelopera Dewelopws Sp. z o.o. w 2025r (`ceny-ofertowe-mieszkan-dewelopera-dewelopws-sp-z-oo-w-2025r-1`) — VERIFIED → STALE
+- Ceny ofertowe mieszkań dewelopera Ed-Home Sp. z o.o (`ceny-ofertowe-mieszkan-dewelopera-ed-home-sp-z-oo-1`) — STALE → VERIFIED
+- Ceny ofertowe mieszkań dewelopera ESTATES sp. z o. o. - inwestycja Apartamenty Żerniki (`ceny-ofertowe-mieszkan-dewelopera-estates-sp-z-o-o-inwestycja-apartamenty-zerniki`) — VERIFIED → STALE
+- Ceny ofertowe mieszkań dewelopera LW Development 9 Sp. z o.o. w 2025 roku (`ceny-ofertowe-mieszkan-dewelopera-lw-development-9-sp-z-oo-w-2025-roku-2`) — VERIFIED → STALE
+- Ceny ofertowe mieszkań dewelopera MIRAI Inwestycje Sp. z o.o. w 2025 r. (`ceny-ofertowe-mieszkan-dewelopera-mirai-inwestycje-sp-z-oo-w-2025-r`) — VERIFIED → STALE
+- …and 193 more
+
 ## 2026-11-16
 
 ### Added (15)

@@ -2,6 +2,45 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-11-18
+
+### Added (2)
+- Eurostat — Employed persons by NUTS 2 region, annual (lfst_r_lfe2emp) (`eurostat-employment-nuts2-lfst-r-lfe2emp`)
+- Eurostat — GDP at current market prices by NUTS 2 region, annual (nama_10r_2gdp) (`eurostat-gdp-nuts2-nama-10r-2gdp`)
+
+### Removed (3)
+- Ensemble des données concernant les réseaux de transports en commun (GTFS et temps réel) (`ensemble-des-donnees-concernant-les-reseaux-de-transports-en-commun-gtfs-et-temps-reel`)
+- RLPi de Rennes Métropole - Dispositifs d'affichage publicitaire en 2021 (`rlpi-de-rennes-metropole-dispositifs-daffichage-publicitaire-en-2021`)
+- RLPi de Rennes Métropole - Espaces d'intérêt paysager ou écologique (`rlpi-de-rennes-metropole-espaces-dinteret-paysager-ou-ecologique`)
+
+### State changes (170)
+- 01 Station météo Toulouse Météopole - archive2019 (`01-station-meteo-toulouse-meteopole-archive2019`) — STALE → VERIFIED
+- Absentéisme des agents de la Région (siège et lycées) : arrêts par motif (`absenteisme-des-agents-de-la-region-siege-et-lycees-arrets-par-motif`) — VERIFIED → STALE
+- Abstellflächen und Parkverbotszonen E-Scooter Hamburg (`abstellflachen-und-parkverbotszonen-e-scooter-hamburg`) — STALE → VERIFIED
+- Aides au permis de conduire jeunes en Loire-Atlantique par EPCI (`aides-au-permis-de-conduire-jeunes-en-loire-atlantique-par-epci`) — STALE → VERIFIED
+- Aides financières enfance – famille en Loire-Atlantique par EPCI (`aides-financieres-enfance-famille-en-loire-atlantique-par-epci`) — STALE → VERIFIED
+- Aire géographique à la commune des AOC/AOP non viticoles (`aire-geographique-a-la-commune-des-aocaop-non-viticoles`) — STALE → FAILING
+- Aire géographique à la commune des IGP (`aire-geographique-a-la-commune-des-igp`) — STALE → FAILING
+- Aktuelle Verkehrsinformationen Polizei Hamburg (`aktuelle-verkehrsinformationen-polizei-hamburg`) — STALE → VERIFIED
+- Aménagements transports collectifs (`amenagements-transports-collectifs`) — VERIFIED → STALE
+- Angebote des freiwilligen Engagements Hamburg (`angebote-des-freiwilligen-engagements-hamburg`) — STALE → VERIFIED
+- Anonymous vineyard parcels represented as polygons, 2018 — Auvergne-Rhône-Alpes (WFS service) (`anonymous-vineyard-parcels-represented-as-polygons-2018-auvergne-rhone-alpes-wfs-service`) — UNVERIFIED → FAILING
+- Anteile Kinder mit nicht-deutscher Familiensprache in Kitas Hamburg (`anteile-kinder-mit-nicht-deutscher-familiensprache-in-kitas-hamburg`) — STALE → VERIFIED
+- API Géoplateforme - Diffusion d'objets WFS (`api-geoplateforme-diffusion-dobjets-wfs`) — STALE → FAILING
+- Arrêts, horaires et circuits des lignes Oleane (GTFS - Les Sables d'Olonne Agglomération) (`arrets-horaires-et-circuits-des-lignes-oleane-gtfs-les-sables-dolonne-agglomeration`) — STALE → FAILING
+- Arten- und Biotopschutz - AuBS (ehem. APRO) (`arten-und-biotopschutz-aubs-ehem-apro`) — STALE → VERIFIED
+- Base permanente des équipements 2018 (`base-permanente-des-equipements-2018`) — STALE → FAILING
+- Bauschutzbereich § 12 LuftVG Hamburg (`bauschutzbereich-12-luftvg-hamburg`) — STALE → VERIFIED
+- Beratung zur Kindertagesbetreuung und Kindertagespflege Hamburg (`beratung-zur-kindertagesbetreuung-und-kindertagespflege-hamburg`) — STALE → VERIFIED
+- Beratungsstellen für kommunale Leistungen nach § 16 a SGB II Hamburg (`beratungsstellen-fur-kommunale-leistungen-nach-16-a-sgb-ii-hamburg`) — STALE → VERIFIED
+- Betreuungsquote Kindertagesbetreuung Hamburg (`betreuungsquote-kindertagesbetreuung-hamburg`) — STALE → VERIFIED
+- Bodenkühlleistungskarte Hamburg (`bodenkuhlleistungskarte-hamburg`) — STALE → VERIFIED
+- Bodenkunde-Horizonte (`bodenkunde-horizonte`) — STALE → VERIFIED
+- Bodenkunde-Profile (`bodenkunde-profile`) — STALE → VERIFIED
+- Bodenrichtwerte Übersichtskarte über normierte Bodenrichtwerte Hamburg (`bodenrichtwerte-ubersichtskarte-uber-normierte-bodenrichtwerte-hamburg`) — STALE → VERIFIED
+- Budget primitif 2015 - CCAS Blagnac (`budget-primitif-2015-ccas-blagnac`) — STALE → VERIFIED
+- …and 145 more
+
 ## 2026-11-17
 
 ### Removed (2)

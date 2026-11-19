@@ -2,6 +2,64 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-11-19
+
+### Added (113)
+- Accessi esterni (`accessi-esterni`)
+- Accessi esterni (`accessi-esterni-13`)
+- Accessi esterni (`accessi-esterni-15`)
+- Accessi esterni (`accessi-esterni-16`)
+- Accessi esterni (`accessi-esterni-2`)
+- Activity statistics A.N.C. June 2018 (`activity-statistics-anc-june-2018`)
+- Area stradale (`area-stradale`)
+- Area stradale (`area-stradale-12`)
+- Area stradale (`area-stradale-17`)
+- Area stradale (`area-stradale-9`)
+- Aree di circolazione ciclabili (`aree-di-circolazione-ciclabili`)
+- Aree di circolazione ciclabili (`aree-di-circolazione-ciclabili-1`)
+- Aree di circolazione ciclabili (`aree-di-circolazione-ciclabili-12`)
+- Aree di circolazione ciclabili (`aree-di-circolazione-ciclabili-13`)
+- Aree di circolazione ciclabili (`aree-di-circolazione-ciclabili-3`)
+- Aree di circolazione ciclabili (`aree-di-circolazione-ciclabili-8`)
+- Aree di circolazione pedonale (`aree-di-circolazione-pedonale`)
+- Aree di circolazione pedonale (`aree-di-circolazione-pedonale-16`)
+- Aree di circolazione pedonale (`aree-di-circolazione-pedonale-18`)
+- Aree di circolazione veicolare (`aree-di-circolazione-veicolare`)
+- Aree di circolazione veicolare (`aree-di-circolazione-veicolare-1`)
+- Aree di circolazione veicolare (`aree-di-circolazione-veicolare-16`)
+- Aree di circolazione veicolare (`aree-di-circolazione-veicolare-18`)
+- Aree di circolazione veicolare (`aree-di-circolazione-veicolare-19`)
+- Ärztinnen und Ärzte in Berlin mit Genehmigung zur Durchführung von Schwangerschaftsabbrüchen (`arztinnen-und-arzte-in-berlin-mit-genehmigung-zur-durchfuhrung-von-schwangerschaftsabbruchen`)
+- …and 88 more
+
+### State changes (121)
+- 23102025_Dane zgodne z ustawa deweloperską _Projekt Pawia _Kielce (`23102025dane-zgodne-z-ustawa-deweloperska-projekt-pawia-kielce`) — STALE → VERIFIED
+- Agglo - Atlas culturel transfrontalier (`agglo-atlas-culturel-transfrontalier`) — STALE → VERIFIED
+- Agglo - Mesures environnement et paysage (`agglo-mesures-environnement-et-paysage`) — STALE → VERIFIED
+- Aires et produits AOC/AOP et IGP (`aires-et-produits-aocaop-et-igp`) — STALE → FAILING
+- Aires et produits AOC/AOP et IGP - Bretagne (`aires-et-produits-aocaop-et-igp-bretagne`) — VERIFIED → STALE
+- Anonymous vineyard parcels represented as polygons, 2018 — Auvergne-Rhône-Alpes (WFS service) (`anonymous-vineyard-parcels-represented-as-polygons-2018-auvergne-rhone-alpes-wfs-service`) — FAILING → UNVERIFIED
+- API données foncières (`api-donnees-foncieres`) — VERIFIED → STALE
+- API GRDF ADICT (`api-grdf-adict`) — VERIFIED → STALE
+- API Immersion Facilitée (`api-immersion-facilitee`) — VERIFIED → STALE
+- API Métadonnées (`api-mtadonnes-2`) — VERIFIED → STALE
+- API Registre des Bénéficiaires Effectifs (RBE) (`api-registre-des-beneficiaires-effectifs-rbe`) — VERIFIED → STALE
+- [Archive] Offre de formation professionnelle initiale en Région Centre-Val de Loire - rentrée 2023 (`archive-offre-de-formation-professionnelle-initiale-en-region-centre-val-de-loire-rentree-2023`) — VERIFIED → STALE
+- Base Hydrographie : Points d'eau (`base-hydrographie-points-deau`) — STALE → FAILING
+- Bestemmingsplan (`bestemmingsplan`) — FAILING → VERIFIED
+- Bouches d'arrosage des espaces verts de Rennes (`bouches-darrosage-des-espaces-verts-de-rennes`) — VERIFIED → STALE
+- Budget primitif du budget annexe du Département de Loire-Atlantique : Port de Pornic de 2009 à 2014 (`budget-primitif-du-budget-annexe-du-departement-de-loire-atlantique-port-de-pornic-de-2009-a-2014`) — VERIFIED → STALE
+- Callejero Digital de Andalucía Unificado (CDAU) (`callejero-digital-de-andalucia-unificado-cdau`) — UNVERIFIED → VERIFIED
+- Cartografía 1:5000 (BTB 1:5000), máxima actualidad, de Bizkaia (`cartografia-15000-btb-15000-maxima-actualidad-de-bizkaia`) — UNVERIFIED → VERIFIED
+- Catchment Projects (`catchment-projects`) — VERIFIED → STALE
+- Ceny i dostępność domów – Aleja Drzew (`ceny-i-dostepnosc-domow-aleja-drzew`) — STALE → VERIFIED
+- Ceny ofertowe Dewelopera Apartamenty Nowy Świat 32 sp.z o.o. w 2026r. (`ceny-ofertowe-dewelopera-apartamenty-nowy-swiat-32-spz-oo-w-2026r-1`) — STALE → VERIFIED
+- Ceny ofertowe mieszkań dewelopera Dewelopws Sp. z o.o. w 2025r (`ceny-ofertowe-mieszkan-dewelopera-dewelopws-sp-z-oo-w-2025r-1`) — STALE → VERIFIED
+- Ceny ofertowe mieszkań dewelopera ESTATES sp. z o. o. - inwestycja Apartamenty Żerniki (`ceny-ofertowe-mieszkan-dewelopera-estates-sp-z-o-o-inwestycja-apartamenty-zerniki`) — STALE → VERIFIED
+- Ceny ofertowe mieszkań dewelopera INSPIRACJA EDYTA KALINOWSKA (`ceny-ofertowe-mieszkan-dewelopera-inspiracja-edyta-kalinowska-1`) — STALE → VERIFIED
+- Ceny ofertowe mieszkań dewelopera LW Development 9 Sp. z o.o. w 2025 roku (`ceny-ofertowe-mieszkan-dewelopera-lw-development-9-sp-z-oo-w-2025-roku-2`) — STALE → VERIFIED
+- …and 96 more
+
 ## 2026-11-18
 
 ### Added (2)

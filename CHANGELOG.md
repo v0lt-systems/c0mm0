@@ -2,6 +2,36 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-11-20
+
+### State changes (161)
+- Activity statistics A.N.C. June 2018 (`activity-statistics-anc-june-2018`) — FAILING → UNVERIFIED
+- Αεροδρόμια - Ελικοδρόμια Π.Ε. Ηρακλείου (`aerodromia-elikodromia-pe-irakleioy-1`) — STALE → VERIFIED
+- Aires et produits AOC/AOP et IGP - Bretagne (`aires-et-produits-aocaop-et-igp-bretagne`) — STALE → VERIFIED
+- Aménagements transports collectifs (`amenagements-transports-collectifs`) — STALE → VERIFIED
+- Anonymous vineyard parcels represented as polygons, 2018 — Auvergne-Rhône-Alpes (WFS service) (`anonymous-vineyard-parcels-represented-as-polygons-2018-auvergne-rhone-alpes-wfs-service`) — UNVERIFIED → FAILING
+- API catalogue des données ouvertes - data.gouv.fr (`api-catalogue-des-donnees-ouvertes-datagouvfr`) — UNVERIFIED → VERIFIED
+- API Découpage Administratif - (API Geo) (`api-decoupage-administratif-api-geo`) — UNVERIFIED → VERIFIED
+- API Géorisques (`api-georisques`) — VERIFIED → STALE
+- Αρχαιολογικοί χώροι Π.Ε. Ρεθύμνου (`archaiologikoi-choroi-pe-rethymnoy`) — STALE → VERIFIED
+- Area stradale (`area-stradale`) — FAILING → VERIFIED
+- Áreas recreativas del Principado de Asturias (`areas-recreativas-del-principado-de-asturias`) — UNVERIFIED → VERIFIED
+- Aree di circolazione pedonale (`aree-di-circolazione-pedonale`) — FAILING → VERIFIED
+- Αθλητικές Εγκαταστάσεις (Σημειακό) (`athlitikes-egkatastaseis-simeiako`) — STALE → VERIFIED
+- Base d'adresse nationale Commune mini (`base-dadresse-nationale-commune-mini`) — VERIFIED → STALE
+- BeeMob vehicle-positions GTFS-RT (`beemob-vehicle-positions-gtfs-rt`) — STALE → VERIFIED
+- Biotope type mapping of the preservation of evidence for the construction measure "Adaptation of the fairway of the Lower and Outer Elbe to container shipping" from 2017 (`biotope-type-mapping-of-the-preservation-of-evidence-for-the-construction-measure-adaptation-of-the-fairway-of-the-lower-and-outer-elbe-to-container-shipping-from-2017`) — VERIFIED → FAILING
+- Biotope type mapping of the preservation of evidence for the construction measure "Adaptation of the fairway of the Lower and Outer Elbe to container shipping" from the year 2000 (`biotope-type-mapping-of-the-preservation-of-evidence-for-the-construction-measure-adaptation-of-the-fairway-of-the-lower-and-outer-elbe-to-container-shipping-from-the-year-2000`) — VERIFIED → FAILING
+- Boundaries of classified areas of Guadeloupe National Park (WFS service) (`boundaries-of-classified-areas-of-guadeloupe-national-park-wfs-service`) — UNVERIFIED → FAILING
+- Budget of the National Agency of Civil Servants for 2015 (`budget-of-the-national-agency-of-civil-servants-for-2015`) — FAILING → UNVERIFIED
+- Budget participatif (`budget-participatif`) — VERIFIED → STALE
+- Χάρτης Πλημμύρας 13-11-2020 - Τζερμιάδο Λασιθίου - Περιοχή Ενδιαφέροντος (`chartis-plimmyras-13-11-2020-tzermiado-lasithioy-periochi-endiaferontos`) — STALE → VERIFIED
+- Χώροι εναπόθεσης απορριμάτων - μπαζών Π.Ε. Χανίων (`choroi-enapothesis-aporrimaton-mpazon-pe-chanion`) — STALE → VERIFIED
+- Coastal zone of the 50 geometric steps — 2011 (WFS service) (`coastal-zone-of-the-50-geometric-steps-2011-wfs-service`) — VERIFIED → FAILING
+- Comunidades Marinas de las provincias de Alicante y Valencia (2006-2007) (`comunidades-marinas-de-las-provincias-de-alicante-y-valencia-2006-2007-1`) — UNVERIFIED → VERIFIED
+- Conseils de quartier de la ville de Strasbourg (`conseils-de-quartier-de-la-ville-de-strasbourg`) — VERIFIED → STALE
+- …and 136 more
+
 ## 2026-11-19
 
 ### Added (113)

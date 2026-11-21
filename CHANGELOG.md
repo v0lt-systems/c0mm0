@@ -2,6 +2,36 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-11-21
+
+### State changes (122)
+- Absentéisme des agents de la Région (siège et lycées) : arrêts par motif (`absenteisme-des-agents-de-la-region-siege-et-lycees-arrets-par-motif`) — STALE → VERIFIED
+- Agglo - Station d'autopartage (`agglo-station-dautopartage`) — VERIFIED → STALE
+- Anonymous vineyard parcels represented as polygons, 2018 — Auvergne-Rhône-Alpes (WFS service) (`anonymous-vineyard-parcels-represented-as-polygons-2018-auvergne-rhone-alpes-wfs-service`) — FAILING → UNVERIFIED
+- API Recherche d’Entreprises (`api-recherche-dentreprises`) — STALE → VERIFIED
+- [Archive] Offre de formation professionnelle initiale en Région Centre-Val de Loire - rentrée 2023 (`archive-offre-de-formation-professionnelle-initiale-en-region-centre-val-de-loire-rentree-2023`) — STALE → VERIFIED
+- Borne de puisage client - Angers Loire Métropole (`borne-de-puisage-client-angers-loire-metropole`) — VERIFIED → STALE
+- Budget primitif du budget annexe du Département de Loire-Atlantique : Port de Pornic de 2009 à 2014 (`budget-primitif-du-budget-annexe-du-departement-de-loire-atlantique-port-de-pornic-de-2009-a-2014`) — STALE → VERIFIED
+- Capesterre-BELLE-EAU Local Urban Planning — Surface Requirements (WFS service) (`capesterre-belle-eau-local-urban-planning-surface-requirements-wfs-service`) — VERIFIED → FAILING
+- CAREMaërl: Location of the truths on the ground - Sector "National Park of Calanques" (`caremaerl-location-of-the-truths-on-the-ground-sector-national-park-of-calanques`) — STALE → VERIFIED
+- Χώροι καταφυγής Π.Ε. Ηρακλείου (`choroi-katafygis-pe-irakleioy`) — STALE → VERIFIED
+- Commerces Engagés dans des pratiques responsables (`commerces-engages-dans-des-pratiques-responsables`) — STALE → FAILING
+- Contours géographiques 2019 des départements de la Région Centre-Val de Loire (`contours-geographiques-2019-des-departements-de-la-region-centre-val-de-loire`) — STALE → VERIFIED
+- Corine Landcover Change 2012 - 2018 (`corine-landcover-change-2012-2018`) — FAILING → VERIFIED
+- Décisions modificatives 2014 (`decisions-modificatives-2014`) — STALE → VERIFIED
+- Δημοτικές Ενότητες (`dimotikes-enotites`) — STALE → VERIFIED
+- Données relatives aux résultats des tests virologiques COVID-19 en région Centre-Val de Loire (`donnees-relatives-aux-resultats-des-tests-virologiques-covid-19-en-region-centre-val-de-loire`) — STALE → VERIFIED
+- Dureté du réseau d'eau potable SIG (`durete-du-reseau-deau-potable-sig`) — VERIFIED → STALE
+- Eaux usées - âge des conduites du réseau - Angers Loire Métropole (`eaux-usees-age-des-conduites-du-reseau-angers-loire-metropole`) — STALE → FAILING
+- Eaux usées - Regards de visite - Angers Loire Métropole (`eaux-usees-regards-de-visite-angers-loire-metropole`) — STALE → FAILING
+- Eaux usées - Réseau de collecte - Angers Loire Métropole (`eaux-usees-reseau-de-collecte-angers-loire-metropole`) — STALE → FAILING
+- Eaux usées - stations de dépollution - Angers Loire Métropole (`eaux-usees-stations-de-depollution-angers-loire-metropole`) — STALE → FAILING
+- Eaux usées - stations de pompage - Angers Loire Métropole (`eaux-usees-stations-de-pompage-angers-loire-metropole`) — STALE → FAILING
+- Eaux usées - zonage du réseau - Angers Loire Métropole (`eaux-usees-zonage-du-reseau-angers-loire-metropole`) — STALE → FAILING
+- European Central Bank — PAY dataflow (`ecb-dataflow-pay`) — VERIFIED → STALE
+- European Central Bank — PTT dataflow (`ecb-dataflow-ptt`) — VERIFIED → STALE
+- …and 97 more
+
 ## 2026-11-20
 
 ### State changes (161)

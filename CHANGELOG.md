@@ -2,6 +2,36 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-11-22
+
+### State changes (119)
+- Agglomerations: generalized boundaries (`agglomerations-generalized-boundaries`) — VERIFIED → STALE
+- API CROUStillant (`api-croustillant`) — UNVERIFIED → VERIFIED
+- Base d'adresse nationale Commune mini (`base-dadresse-nationale-commune-mini`) — STALE → VERIFIED
+- Base de datos EIDOS (`base-de-datos-eidos`) — VERIFIED → FAILING
+- Bestemmingsplan (`bestemmingsplan`) — VERIFIED → FAILING
+- Borne de puisage client - Angers Loire Métropole (`borne-de-puisage-client-angers-loire-metropole`) — STALE → FAILING
+- Bouches d'arrosage des espaces verts de Rennes (`bouches-darrosage-des-espaces-verts-de-rennes`) — STALE → VERIFIED
+- Brandstoffen_op_PC4 (`brandstoffenoppc4`) — VERIFIED → FAILING
+- Budget participatif (`budget-participatif`) — STALE → VERIFIED
+- Business Census/Enterprise Statistics: Enterprises (`business-censusenterprise-statistics-enterprises`) — VERIFIED → STALE
+- Cadastre : Limites de section (`cadastre-limites-de-section`) — VERIFIED → STALE
+- Calendrier et résultats Toulouse Olympique 13 (`calendrier-et-resultats-toulouse-olympique-13`) — VERIFIED → STALE
+- Conseils de quartier de la ville de Strasbourg (`conseils-de-quartier-de-la-ville-de-strasbourg`) — STALE → VERIFIED
+- Courbes bruit avions entre 22 et 23 h - Pronostic 2022 (`courbes-bruit-avions-entre-22-et-23-h-pronostic-2022`) — VERIFIED → STALE
+- European Central Bank — Balance Sheet Items Statistics (tables 2 to 5 of the Blue Book) (BSP) (`ecb-balance-sheet-items-statistics-tables-2-to-5-of-the-blue-book-bsp`) — VERIFIED → STALE
+- European Central Bank — PAY dataflow (`ecb-dataflow-pay`) — STALE → VERIFIED
+- European Central Bank — PCN dataflow (`ecb-dataflow-pcn`) — VERIFIED → STALE
+- European Central Bank — PSN dataflow (`ecb-dataflow-psn`) — VERIFIED → STALE
+- European Central Bank — PTN dataflow (`ecb-dataflow-ptn`) — VERIFIED → STALE
+- European Central Bank — Investment Funds Balance Sheet Statistics (IVF) (`ecb-investment-funds-balance-sheet-statistics-ivf`) — VERIFIED → STALE
+- European Central Bank — Structural Financial Indicators for Payments (SSP) (`ecb-structural-financial-indicators-for-payments-ssp`) — VERIFIED → STALE
+- Edificio (`edificio-21`) — UNVERIFIED → VERIFIED
+- Electrical installations with a nominal voltage exceeding 36kV (`electrical-installations-with-a-nominal-voltage-exceeding-36kv`) — VERIFIED → STALE
+- Energy cities (`energy-cities`) — VERIFIED → STALE
+- Gebieden (`gebieden`) — VERIFIED → FAILING
+- …and 94 more
+
 ## 2026-11-21
 
 ### State changes (122)

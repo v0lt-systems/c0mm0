@@ -2,6 +2,36 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-11-23
+
+### State changes (107)
+- Aeroporturile principale din România (art. 7 dIn Directiva 2002/49/CE) (`aeroporturile-principale-din-romania-art-7-din-directiva-200249ce`) — VERIFIED → STALE
+- Agglo - Corridors écologiques (`agglo-corridors-ecologiques`) — VERIFIED → STALE
+- Agglo - Opérations d'aménagement (`agglo-operations-damenagement`) — VERIFIED → STALE
+- Agglo - Sites et objets inscrits (lignes) (`agglo-sites-et-objets-inscrits-lignes`) — VERIFIED → STALE
+- Agglomerations: generalized boundaries (`agglomerations-generalized-boundaries`) — STALE → VERIFIED
+- Analysis climatique 2020 - Vitesse et direction du vent nocturne, résolution 200m, 1981-2010 (`analysis-climatique-2020-vitesse-et-direction-du-vent-nocturne-resolution-200m-1981-2010`) — VERIFIED → STALE
+- Anonymous vineyard parcels represented as polygons, 2018 — Auvergne-Rhône-Alpes (WFS service) (`anonymous-vineyard-parcels-represented-as-polygons-2018-auvergne-rhone-alpes-wfs-service`) — UNVERIFIED → FAILING
+- API Base nationale des défibrillateurs (`api-base-nationale-des-defibrillateurs`) — UNVERIFIED → FAILING
+- API d'écriture de la base nationale de la règlementation de circulation (`api-decriture-de-la-base-nationale-de-la-reglementation-de-circulation`) — STALE → VERIFIED
+- API données foncières (`api-donnees-foncieres`) — STALE → VERIFIED
+- API GRDF ADICT (`api-grdf-adict`) — STALE → VERIFIED
+- API Immersion Facilitée (`api-immersion-facilitee`) — STALE → VERIFIED
+- API Registre des Bénéficiaires Effectifs (RBE) (`api-registre-des-beneficiaires-effectifs-rbe`) — STALE → VERIFIED
+- Base de datos EIDOS (`base-de-datos-eidos`) — FAILING → VERIFIED
+- Basement Technical Cadastre (CTSS) - Various points (`basement-technical-cadastre-ctss-various-points`) — VERIFIED → STALE
+- Business Census/Enterprise Statistics: Enterprises (`business-censusenterprise-statistics-enterprises`) — STALE → VERIFIED
+- Capacité calorifique moyenne - sondes 200 m (`capacite-calorifique-moyenne-sondes-200-m`) — VERIFIED → STALE
+- Chantiers pour la coordination mobilité (`chantiers-pour-la-coordination-mobilite`) — VERIFIED → STALE
+- Conductivité thermique moyenne terrains quaternaires - Molasse (`conductivite-thermique-moyenne-terrains-quaternaires-molasse`) — VERIFIED → STALE
+- CORINE Land Cover 2018 revidovaná vrstva (`corine-land-cover-2018-revidovana-vrstva`) — VERIFIED → FAILING
+- CORINE Land Cover 2024 (`corine-land-cover-2024-3`) — VERIFIED → FAILING
+- CORINE Land Cover Change 2018-2024 sol (`corine-land-cover-change-2018-2024-sol-2`) — VERIFIED → FAILING
+- CSW Geokatalog Regionalstatistik (`csw-geokatalog-regionalstatistik`) — FAILING → UNVERIFIED
+- CyL population: inhabitants 2012 (`cyl-population-inhabitants-2012`) — VERIFIED → STALE
+- CyL population: inhabitants 2017 (`cyl-population-inhabitants-2017`) — VERIFIED → STALE
+- …and 82 more
+
 ## 2026-11-22
 
 ### State changes (119)

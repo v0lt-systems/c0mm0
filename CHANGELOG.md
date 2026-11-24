@@ -2,6 +2,36 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-11-24
+
+### State changes (117)
+- Agglo - Historical Atlas - Burgundy from 888 to 1032 (`agglo-historical-atlas-burgundy-from-888-to-1032`) — VERIFIED → STALE
+- Agglo - Historical Atlas - Departments of Ain and Mont Blanc in 1793 (`agglo-historical-atlas-departments-of-ain-and-mont-blanc-in-1793`) — VERIFIED → STALE
+- Agglo - Station d'autopartage (`agglo-station-dautopartage`) — STALE → VERIFIED
+- AIR: NO2 (`air-no2`) — VERIFIED → STALE
+- API d&#039;Atmo Data, l&#039;agrégateur des flux open data des AASQA (`api-d039atmo-data-l039agregateur-des-flux-open-data-des-aasqa`) — VERIFIED → STALE
+- API Géorisques (`api-georisques`) — STALE → VERIFIED
+- API Métadonnées (`api-mtadonnes-2`) — STALE → VERIFIED
+- Benthic Broad Habitat Type (`benthic-broad-habitat-type`) — VERIFIED → STALE
+- Bestemmingsplan (`bestemmingsplan`) — FAILING → VERIFIED
+- Biotope type mapping of the preservation of evidence for the construction measure "Adaptation of the fairway of the Lower and Outer Elbe to container shipping" from 2017 (`biotope-type-mapping-of-the-preservation-of-evidence-for-the-construction-measure-adaptation-of-the-fairway-of-the-lower-and-outer-elbe-to-container-shipping-from-2017`) — FAILING → VERIFIED
+- Biotope type mapping of the preservation of evidence for the construction measure "Adaptation of the fairway of the Lower and Outer Elbe to container shipping" from the year 2000 (`biotope-type-mapping-of-the-preservation-of-evidence-for-the-construction-measure-adaptation-of-the-fairway-of-the-lower-and-outer-elbe-to-container-shipping-from-the-year-2000`) — FAILING → VERIFIED
+- BP 2014 - Ville de Rennes - Budget Annexes (`bp-2014-ville-de-rennes-budget-annexes`) — VERIFIED → STALE
+- Cadastre : Limites de section (`cadastre-limites-de-section`) — STALE → VERIFIED
+- Catchment Projects (`catchment-projects`) — STALE → VERIFIED
+- Collecte des sapins de Noël (`collecte-des-sapins-de-noel`) — VERIFIED → STALE
+- Comunidades Marinas de las provincias de Alicante y Valencia (2006-2007) (`comunidades-marinas-de-las-provincias-de-alicante-y-valencia-2006-2007-1`) — VERIFIED → UNVERIFIED
+- Conventions de subventions attribuées par la Région Centre-Val de Loire 2018 (`conventions-de-subventions-attribuees-par-la-region-centre-val-de-loire-2018`) — VERIFIED → STALE
+- CORINE Land Cover 2018 revidovaná vrstva (`corine-land-cover-2018-revidovana-vrstva`) — FAILING → VERIFIED
+- CORINE Land Cover 2024 (`corine-land-cover-2024-3`) — FAILING → VERIFIED
+- CORINE Land Cover Change 2018-2024 sol (`corine-land-cover-change-2018-2024-sol-2`) — FAILING → VERIFIED
+- Courbes bruit avions entre 22 et 23 h - Pronostic 2022 (`courbes-bruit-avions-entre-22-et-23-h-pronostic-2022`) — STALE → VERIFIED
+- CSW Geokatalog Regionalstatistik (`csw-geokatalog-regionalstatistik`) — UNVERIFIED → FAILING
+- Datos Espaciales de Referencia de Andalucía (DERA) (`datos-espaciales-de-referencia-de-andalucia-dera`) — VERIFIED → UNVERIFIED
+- Διάγραμμα Οριοθέτησης Οικισμού Κνωσού (`diagramma-oriothetisis-oikismoy-knosoy`) — STALE → VERIFIED
+- Διάγραμμα Οριοθέτησης Οικισμού Σινάπιον (`diagramma-oriothetisis-oikismoy-sinapion`) — STALE → VERIFIED
+- …and 92 more
+
 ## 2026-11-23
 
 ### State changes (107)

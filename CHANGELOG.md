@@ -2,6 +2,41 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-11-25
+
+### Removed (3)
+- BI-API (`bi-api`)
+- Nasjonale helsefaglige kodeverk (`nasjonale-helsefaglige-kodeverk`)
+- Recettes des menus Easilys - année en cours (`recettes-des-menus-easilys-annee-en-cours`)
+
+### State changes (155)
+- Activité partielle - Heures autorisées en région Centre-Val de Loire par département-trimestriel (`activite-partielle-heures-autorisees-en-region-centre-val-de-loire-par-departement-trimestriel`) — VERIFIED → STALE
+- Activité partielle - Heures indemnisées en région Centre-Val de Loire par secteur d'activité-trimestriel (`activite-partielle-heures-indemnisees-en-region-centre-val-de-loire-par-secteur-dactivite-trimestriel`) — VERIFIED → STALE
+- Affichage libre- Ville de Vezin Le Coquet (`affichage-libre-ville-de-vezin-le-coquet`) — VERIFIED → STALE
+- Agglo - Sites et objets inscrits (lignes) (`agglo-sites-et-objets-inscrits-lignes`) — STALE → VERIFIED
+- Agglopolys offre théorique mobilité réseau urbain Azalys de Blois (`agglopolys-offre-theorique-mobilite-reseau-urbain-azalys-de-blois`) — VERIFIED → STALE
+- Aires de camping-car en Région Centre-Val de Loire (`aires-de-camping-car-en-region-centre-val-de-loire`) — VERIFIED → STALE
+- [Archive] Activité partielle - Effectifs demandés en région Centre-Val de Loire par secteur d'activité-trimestriel (`archive-activite-partielle-effectifs-demandes-en-region-centre-val-de-loire-par-secteur-dactivite-trimestriel`) — VERIFIED → STALE
+- [Archive] Offre de formation professionnelle initiale en Région Centre-Val de Loire - rentrée 2023 (`archive-offre-de-formation-professionnelle-initiale-en-region-centre-val-de-loire-rentree-2023`) — VERIFIED → STALE
+- [Archive]Activité partielle - Heures demandées en région Centre-Val de Loire par secteur d'activité-trimestriel (`archiveactivite-partielle-heures-demandees-en-region-centre-val-de-loire-par-secteur-dactivite-trimestriel`) — VERIFIED → STALE
+- [Archive]Activité partielle - Heures indemnisées en région Centre-Val de Loire par département-trimestriel (`archiveactivite-partielle-heures-indemnisees-en-region-centre-val-de-loire-par-departement-trimestriel`) — VERIFIED → STALE
+- [Archive]Emploi au lieu de travail 2017 selon la profession en Région Centre-Val de Loire (`archiveemploi-au-lieu-de-travail-2017-selon-la-profession-en-region-centre-val-de-loire`) — VERIFIED → STALE
+- [Archive]Emploi au lieu de travail 2017 selon le statut en Région Centre-Val de Loire (`archiveemploi-au-lieu-de-travail-2017-selon-le-statut-en-region-centre-val-de-loire`) — VERIFIED → STALE
+- [Archive]Etablissements privés employeurs 2009-2019 par commune en Région Centre-Val de Loire (`archiveetablissements-prives-employeurs-2009-2019-par-commune-en-region-centre-val-de-loire`) — VERIFIED → STALE
+- [Archive]Offre de formation professionnelle initiale en Région Centre-Val de Loire - rentrée 2021 (`archiveoffre-de-formation-professionnelle-initiale-en-region-centre-val-de-loire-rentree-2021`) — VERIFIED → STALE
+- [Archive]Population 2021 par CSP en Région Centre-Val de Loire (`archivepopulation-2021-par-csp-en-region-centre-val-de-loire`) — VERIFIED → STALE
+- [Archive]Population active de 15 ans ou plus ayant un emploi par sexe, lieu de travail et moyen de transport-2022 (`archivepopulation-active-de-15-ans-ou-plus-ayant-un-emploi-par-sexe-lieu-de-travail-et-moyen-de-transport-2022`) — VERIFIED → STALE
+- [Archive]Population par âge en 2012 et 2017 en Région Centre-Val de Loire (`archivepopulation-par-age-en-2012-et-2017-en-region-centre-val-de-loire`) — VERIFIED → STALE
+- [Archive]Population par âge en 2013 et 2019 en Région Centre-Val de Loire (`archivepopulation-par-age-en-2013-et-2019-en-region-centre-val-de-loire`) — VERIFIED → STALE
+- [Archive]Population scolarisée par âge en 2018 en Région Centre-Val de Loire (`archivepopulation-scolarisee-par-age-en-2018-en-region-centre-val-de-loire`) — VERIFIED → STALE
+- [Archive]Population scolarisée par âge en 2019 en Région Centre-Val de Loire (`archivepopulation-scolarisee-par-age-en-2019-en-region-centre-val-de-loire`) — VERIFIED → STALE
+- [Archives]Effectifs salariés privés 2009-2019 par commune en Région Centre-Val de Loire (`archiveseffectifs-salaries-prives-2009-2019-par-commune-en-region-centre-val-de-loire`) — VERIFIED → STALE
+- Áreas recreativas del Principado de Asturias (`areas-recreativas-del-principado-de-asturias`) — VERIFIED → UNVERIFIED
+- Benthic Broad Habitat Type (`benthic-broad-habitat-type`) — STALE → VERIFIED
+- Bocage - Réservoirs de biodiversité (SRCE) (`bocage-reservoirs-de-biodiversite-srce`) — VERIFIED → STALE
+- Brandstoffen_op_PC4 (`brandstoffenoppc4`) — FAILING → VERIFIED
+- …and 130 more
+
 ## 2026-11-24
 
 ### State changes (117)

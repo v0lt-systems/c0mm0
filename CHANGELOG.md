@@ -2,6 +2,39 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-11-26
+
+### Removed (1)
+- Evolution of agricultural spaces between 2010 and 2013 (WFS service) (`evolution-of-agricultural-spaces-between-2010-and-2013-wfs-service`)
+
+### State changes (120)
+- Aeroporturile principale din România (art. 7 dIn Directiva 2002/49/CE) (`aeroporturile-principale-din-romania-art-7-din-directiva-200249ce`) — STALE → VERIFIED
+- Agenda - Assemblées du Conseil régional des Pays de la Loire [ Open Agenda ] (`agenda-assemblees-du-conseil-regional-des-pays-de-la-loire-open-agenda`) — VERIFIED → STALE
+- Agenda Jazz dans les jardins des Pays de la Loire [ Open Agenda ] (`agenda-jazz-dans-les-jardins-des-pays-de-la-loire-open-agenda`) — VERIFIED → STALE
+- Agenda Pays de la Loire Energie Tour [ Open Agenda ] (`agenda-pays-de-la-loire-energie-tour-open-agenda`) — VERIFIED → STALE
+- Agglo - Corridors écologiques (`agglo-corridors-ecologiques`) — STALE → VERIFIED
+- Agglo - Opérations d'aménagement (`agglo-operations-damenagement`) — STALE → VERIFIED
+- Analysis climatique 2020 - Vitesse et direction du vent nocturne, résolution 200m, 1981-2010 (`analysis-climatique-2020-vitesse-et-direction-du-vent-nocturne-resolution-200m-1981-2010`) — STALE → VERIFIED
+- Annuaire de l’administration - Base de données locales (`annuaire-de-ladministration-base-de-donnees-locales`) — VERIFIED → STALE
+- Annuaire des acteurs de l'IA en Pays de la Loire (`annuaire-des-acteurs-de-lia-en-pays-de-la-loire`) — VERIFIED → STALE
+- API temps réel ALEOP (Transport régional en Pays de la Loire) (`api-temps-reel-aleop-transport-regional-en-pays-de-la-loire`) — VERIFIED → STALE
+- [Archive] Niveau de diplôme de la population en Région Centre-Val de Loire 2022 (`archive-niveau-de-diplome-de-la-population-en-region-centre-val-de-loire-2022`) — VERIFIED → STALE
+- [Archive] Population 2022 par CSP en Région Centre-Val de Loire (`archive-population-2022-par-csp-en-region-centre-val-de-loire`) — VERIFIED → STALE
+- [Archive] Population par âge en 2014 et 2020 en Région Centre-Val de Loire (`archive-population-par-age-en-2014-et-2020-en-region-centre-val-de-loire`) — VERIFIED → STALE
+- [Archive] Population scolarisée par âge en 2020 en Région Centre-Val de Loire (`archive-population-scolarisee-par-age-en-2020-en-region-centre-val-de-loire`) — VERIFIED → STALE
+- [Archive]Emploi au lieu de travail 2018 selon la profession en Région Centre-Val de Loire (`archiveemploi-au-lieu-de-travail-2018-selon-la-profession-en-region-centre-val-de-loire`) — VERIFIED → STALE
+- [Archive]Naissances-décès et soldes naturels en Région Centre-Val de Loire de 1968 à 2015 (`archivenaissances-deces-et-soldes-naturels-en-region-centre-val-de-loire-de-1968-a-2015`) — VERIFIED → STALE
+- [Archive]Population active 2016 en Région Centre-Val de Loire (`archivepopulation-active-2016-en-region-centre-val-de-loire`) — VERIFIED → STALE
+- Archives régionales Pays de la Loire – Dates-clé de l’histoire régionale (`archives-regionales-pays-de-la-loire-dates-cle-de-lhistoire-regionale`) — VERIFIED → STALE
+- Basement Technical Cadastre (CTSS) - Various points (`basement-technical-cadastre-ctss-various-points`) — STALE → VERIFIED
+- Bestemmingsplan (`bestemmingsplan`) — VERIFIED → FAILING
+- Budget 2017 - Région des Pays de la Loire - Autorisations de programmes (`budget-2017-region-des-pays-de-la-loire-autorisations-de-programmes`) — VERIFIED → STALE
+- Budget 2017 - Région des Pays de la Loire - Recettes (`budget-2017-region-des-pays-de-la-loire-recettes`) — VERIFIED → STALE
+- Budget 2022 - Région des Pays de la Loire - Crédits de paiement (CP) et Autorisations de programmes (AP) (`budget-2022-region-des-pays-de-la-loire-credits-de-paiement-cp-et-autorisations-de-programmes-ap`) — VERIFIED → STALE
+- Budget 2025 (BP) de la Région Centre-Val de Loire selon l'instruction budgétaire et comptable M57 (`budget-2025-bp-de-la-region-centre-val-de-loire-selon-linstruction-budgetaire-et-comptable-m57`) — VERIFIED → STALE
+- Deutsche Bundesbank — ECB euro reference exchange rates, exchange rates in particular countries, special drawing rights, p (BBEX3) (`bundesbank-ecb-euro-reference-exchange-rates-exchange-rates-in-particular-countries-special-drawing-rights-p-bbex3`) — VERIFIED → FAILING
+- …and 95 more
+
 ## 2026-11-25
 
 ### Removed (3)

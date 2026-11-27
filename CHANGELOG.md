@@ -2,6 +2,50 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-11-27
+
+### Added (3)
+- ENTSO-E Transparency Platform — RESTful API (`entso-e-transparency-platform-api`)
+- SMARD — Strommarktdaten API (Bundesnetzagentur) (`smard-strommarktdaten-api`)
+- UK Environment Agency — Real Time Flood-Monitoring API (`uk-environment-agency-real-time-flood-monitoring-api`)
+
+### Removed (7)
+- Boundaries of classified areas of Guadeloupe National Park (WFS service) (`boundaries-of-classified-areas-of-guadeloupe-national-park-wfs-service`)
+- Forest Diagnoctic — the challenges of biodiversity (WFS service) (`forest-diagnoctic-the-challenges-of-biodiversity-wfs-service`)
+- Forest Diagnostics — Soil Issues (WFS Service) (`forest-diagnostics-soil-issues-wfs-service`)
+- Large landscape ensembles defined by the landscape atlas of the Guadeloupe archipelago (WFS service) (`large-landscape-ensembles-defined-by-the-landscape-atlas-of-the-guadeloupe-archipelago-wfs-service`)
+- Price of water service per m³ for 120 m³ on 1 January 2017 (WFS service) (`price-of-water-service-per-m3-for-120-m3-on-1-january-2017-wfs-service`)
+- Thematic occupancy from the 2010 vintage RPG file (WFS service) (`thematic-occupancy-from-the-2010-vintage-rpg-file-wfs-service`)
+- Thematic occupation from Corine Land Cover (CLC) 2012 (WFS service) (`thematic-occupation-from-corine-land-cover-clc-2012-wfs-service`)
+
+### State changes (219)
+- 2013 — Foreign population: IDF Diploma (`2013-foreign-population-idf-diploma`) — VERIFIED → STALE
+- Activité partielle - Heures autorisées en région Centre-Val de Loire par département-trimestriel (`activite-partielle-heures-autorisees-en-region-centre-val-de-loire-par-departement-trimestriel`) — STALE → VERIFIED
+- Adresses de Rennes Métropole renseignées par divers zonages (`adresses-de-rennes-metropole-renseignees-par-divers-zonages`) — VERIFIED → STALE
+- Agenda - Assemblées du Conseil régional des Pays de la Loire [ Open Agenda ] (`agenda-assemblees-du-conseil-regional-des-pays-de-la-loire-open-agenda`) — STALE → VERIFIED
+- Agenda Jazz dans les jardins des Pays de la Loire [ Open Agenda ] (`agenda-jazz-dans-les-jardins-des-pays-de-la-loire-open-agenda`) — STALE → VERIFIED
+- Agenda Pays de la Loire Energie Tour [ Open Agenda ] (`agenda-pays-de-la-loire-energie-tour-open-agenda`) — STALE → VERIFIED
+- Agglo - Historical Atlas - Burgundy from 888 to 1032 (`agglo-historical-atlas-burgundy-from-888-to-1032`) — STALE → VERIFIED
+- Agglo - Historical Atlas - Departments of Ain and Mont Blanc in 1793 (`agglo-historical-atlas-departments-of-ain-and-mont-blanc-in-1793`) — STALE → VERIFIED
+- Agglopolys offre théorique mobilité réseau urbain Azalys de Blois (`agglopolys-offre-theorique-mobilite-reseau-urbain-azalys-de-blois`) — STALE → VERIFIED
+- Aide à projet arts de la rue et arts du cirque 2013 (`aide-a-projet-arts-de-la-rue-et-arts-du-cirque-2013`) — VERIFIED → STALE
+- Aide aux festivals de musiques actuelles et amplifiées 2011-2014 (`aide-aux-festivals-de-musiques-actuelles-et-amplifiees-2011-2014`) — VERIFIED → STALE
+- Aides en investissement au titre des dispositifs patrimoine (2005-2014) (`aides-en-investissement-au-titre-des-dispositifs-patrimoine-2005-2014`) — VERIFIED → STALE
+- Annuaire de l’administration - Base de données locales (`annuaire-de-ladministration-base-de-donnees-locales`) — STALE → VERIFIED
+- Annuaire des acteurs de l'IA en Pays de la Loire (`annuaire-des-acteurs-de-lia-en-pays-de-la-loire`) — STALE → VERIFIED
+- API temps réel ALEOP (Transport régional en Pays de la Loire) (`api-temps-reel-aleop-transport-regional-en-pays-de-la-loire`) — STALE → VERIFIED
+- Apprentissage - effectifs détaillés 2011-2012 (`apprentissage-effectifs-detailles-2011-2012`) — VERIFIED → STALE
+- Arbres d'alignements - Ville de Versailles (`arbres-dalignements-ville-de-versailles`) — VERIFIED → STALE
+- [Archive] Emploi au lieu de travail 2020 selon la profession en Région Centre-Val de Loire (`archive-emploi-au-lieu-de-travail-2020-selon-la-profession-en-region-centre-val-de-loire`) — VERIFIED → STALE
+- [Archive] Population 2020 par CSP en Région Centre-Val de Loire (`archive-population-2020-par-csp-en-region-centre-val-de-loire`) — VERIFIED → STALE
+- [Archive] Population active 2020 en Région Centre-Val de Loire (`archive-population-active-2020-en-region-centre-val-de-loire`) — VERIFIED → STALE
+- [Archive] Population active de 15 ans ou plus ayant un emploi par sexe, lieu de travail et moyen de transport-2018 (`archive-population-active-de-15-ans-ou-plus-ayant-un-emploi-par-sexe-lieu-de-travail-et-moyen-de-transport-2018`) — VERIFIED → STALE
+- [Archive]Elus au Conseil Régional Centre-Val de Loire- mandat 2015-2021 (`archiveelus-au-conseil-regional-centre-val-de-loire-mandat-2015-2021`) — VERIFIED → STALE
+- [Archive]Emploi au lieu de travail 2016 selon l'activité en Région Centre-Val de Loire (`archiveemploi-au-lieu-de-travail-2016-selon-lactivite-en-region-centre-val-de-loire`) — VERIFIED → STALE
+- [Archive]Population 2016 par CSP en Région Centre-Val de Loire (`archivepopulation-2016-par-csp-en-region-centre-val-de-loire`) — VERIFIED → STALE
+- [Archive]Population 2018 par CSP en Région Centre-Val de Loire (`archivepopulation-2018-par-csp-en-region-centre-val-de-loire`) — VERIFIED → STALE
+- …and 194 more
+
 ## 2026-11-26
 
 ### Removed (1)

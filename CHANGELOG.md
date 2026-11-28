@@ -2,6 +2,39 @@
 
 Derived nightly from snapshot diffs. Live feed: https://c0mm0.com/api/v1/feeds/rss
 
+## 2026-11-28
+
+### Removed (1)
+- Public funds, institutions and enterprises (FEU): federal states, years, levels of the public sector, areas of responsibility (`public-funds-institutions-and-enterprises-feu-federal-states-years-levels-of-the-public-sector-areas-of-responsibility`)
+
+### State changes (183)
+- 2013 — Composition of immigrant households (`2013-composition-of-immigrant-households`) — VERIFIED → STALE
+- 2013 — Immigrant households (`2013-immigrant-households`) — VERIFIED → STALE
+- Activité partielle - Heures indemnisées en région Centre-Val de Loire par secteur d'activité-trimestriel (`activite-partielle-heures-indemnisees-en-region-centre-val-de-loire-par-secteur-dactivite-trimestriel`) — STALE → VERIFIED
+- Affichage libre- Ville de Vezin Le Coquet (`affichage-libre-ville-de-vezin-le-coquet`) — STALE → VERIFIED
+- AIR: NO2 (`air-no2`) — STALE → VERIFIED
+- Aires de camping-car en Région Centre-Val de Loire (`aires-de-camping-car-en-region-centre-val-de-loire`) — STALE → VERIFIED
+- [Archive] Activité partielle - Effectifs demandés en région Centre-Val de Loire par secteur d'activité-trimestriel (`archive-activite-partielle-effectifs-demandes-en-region-centre-val-de-loire-par-secteur-dactivite-trimestriel`) — STALE → VERIFIED
+- [Archive] Niveau de diplôme de la population en Région Centre-Val de Loire 2022 (`archive-niveau-de-diplome-de-la-population-en-region-centre-val-de-loire-2022`) — STALE → VERIFIED
+- [Archive] Offre de formation professionnelle initiale en Région Centre-Val de Loire - rentrée 2023 (`archive-offre-de-formation-professionnelle-initiale-en-region-centre-val-de-loire-rentree-2023`) — STALE → VERIFIED
+- [Archive] Organismes de formation professionnelle en Région Centre-Val de Loire (données détaillées)-2023 (`archive-organismes-de-formation-professionnelle-en-region-centre-val-de-loire-donnees-detaillees-2023`) — VERIFIED → STALE
+- [Archive] Population 2022 par CSP en Région Centre-Val de Loire (`archive-population-2022-par-csp-en-region-centre-val-de-loire`) — STALE → VERIFIED
+- [Archive] Population par âge en 2014 et 2020 en Région Centre-Val de Loire (`archive-population-par-age-en-2014-et-2020-en-region-centre-val-de-loire`) — STALE → VERIFIED
+- [Archive] Population scolarisée par âge en 2020 en Région Centre-Val de Loire (`archive-population-scolarisee-par-age-en-2020-en-region-centre-val-de-loire`) — STALE → VERIFIED
+- [Archive]Activité partielle - Heures demandées en région Centre-Val de Loire par secteur d'activité-trimestriel (`archiveactivite-partielle-heures-demandees-en-region-centre-val-de-loire-par-secteur-dactivite-trimestriel`) — STALE → VERIFIED
+- [Archive]Activité partielle - Heures indemnisées en région Centre-Val de Loire par département-trimestriel (`archiveactivite-partielle-heures-indemnisees-en-region-centre-val-de-loire-par-departement-trimestriel`) — STALE → VERIFIED
+- [Archive]Emploi au lieu de travail 2017 selon la profession en Région Centre-Val de Loire (`archiveemploi-au-lieu-de-travail-2017-selon-la-profession-en-region-centre-val-de-loire`) — STALE → VERIFIED
+- [Archive]Emploi au lieu de travail 2017 selon le statut en Région Centre-Val de Loire (`archiveemploi-au-lieu-de-travail-2017-selon-le-statut-en-region-centre-val-de-loire`) — STALE → VERIFIED
+- [Archive]Emploi au lieu de travail 2018 selon la profession en Région Centre-Val de Loire (`archiveemploi-au-lieu-de-travail-2018-selon-la-profession-en-region-centre-val-de-loire`) — STALE → VERIFIED
+- [Archive]Etablissements privés employeurs 2009-2019 par commune en Région Centre-Val de Loire (`archiveetablissements-prives-employeurs-2009-2019-par-commune-en-region-centre-val-de-loire`) — STALE → VERIFIED
+- [Archive]Naissances-décès et soldes naturels en Région Centre-Val de Loire de 1968 à 2015 (`archivenaissances-deces-et-soldes-naturels-en-region-centre-val-de-loire-de-1968-a-2015`) — STALE → VERIFIED
+- [Archive]Offre de formation professionnelle initiale en Région Centre-Val de Loire - rentrée 2021 (`archiveoffre-de-formation-professionnelle-initiale-en-region-centre-val-de-loire-rentree-2021`) — STALE → VERIFIED
+- [Archive]Population 2021 par CSP en Région Centre-Val de Loire (`archivepopulation-2021-par-csp-en-region-centre-val-de-loire`) — STALE → VERIFIED
+- [Archive]Population active 2016 en Région Centre-Val de Loire (`archivepopulation-active-2016-en-region-centre-val-de-loire`) — STALE → VERIFIED
+- [Archive]Population active 2018 en Région Centre-Val de Loire (`archivepopulation-active-2018-en-region-centre-val-de-loire`) — VERIFIED → STALE
+- [Archive]Population active de 15 ans ou plus ayant un emploi par sexe, lieu de travail et moyen de transport-2022 (`archivepopulation-active-de-15-ans-ou-plus-ayant-un-emploi-par-sexe-lieu-de-travail-et-moyen-de-transport-2022`) — STALE → VERIFIED
+- …and 158 more
+
 ## 2026-11-27
 
 ### Added (3)
